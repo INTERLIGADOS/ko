@@ -73,14 +73,7 @@ Os cinquenta e dois episódios do anime foram produzidos pela TMS Entertainment 
 <genre>Anime</genre>
 </channel>
 
-<channel>
-<name>Os Cavaleiros do Zodíaco</name>
-<thumbnail>http://fabiano.890m.com/TS/TSK/A/Cavaleiros_Do_Zodiaco/poster.jpg</thumbnail>
-<fanart>http://fabiano.890m.com/TS/TSK/A/Cavaleiros_Do_Zodiaco/fanart.jpg</fanart>
-<externallink>http://fabiano.890m.com/TS/TSK/A/Cavaleiros_Do_Zodiaco/Cavaleiros_Do_Zodiaco.xml</externallink>
-<info>A cada 200 anos (em média), Atena, a deusa da guerra e da sabedoria, vem à Terra, com a sagrada missão de impedir outros deuses de dominar a Terra e os seres humanos. Para cumprir sua missão, Atena conta com a ajuda de jovens guerreiros protegidos com armaduras sagradas intitulados cavaleiros. Juntos, lutam contra as forças do mal, num ambiente cheio de mitologias. </info>
-<genre>Anime</genre>
-</channel>
+
 
 <channel>
 <name>Chaotic</name>
@@ -219,14 +212,7 @@ Independente de gostar de violência ou não, ela o persegue: os lugares visitad
 <genre>Anime</genre>
 </channel>
 
-<channel>
-<name>VIEWTIFUL JOE</name>
-<thumbnail>http://i.imgur.com/0vqKkuk.jpg</thumbnail>
-<externallink>https://gist.githubusercontent.com/betomoura/b43e0838906f9fa4bb71e875a6bcc3c0/raw/VIEWTIFUL%2520JOE</externallink>
-<fanart>https://goo.gl/dRv3iL</fanart>
-<info></info>
-<genre>Anime</genre>
-</channel>
+
 
 <channel>
 <name>Naruto Shippuuden</name>
@@ -257,10 +243,10 @@ Independente de gostar de violência ou não, ela o persegue: os lugares visitad
 
 <channel>
 <name>XXXHOLIC</name>
-<thumbnail>https://goo.gl/ntmibS</thumbnail>
-<externallink>https://gist.githubusercontent.com/betomoura/2f03511363097d671264a44083fa900a/raw/XXXHOLIC</externallink>
-<fanart>https://goo.gl/uuPGY1</fanart>
-<info></info>
+<thumbnail>http://fabiano.890m.com/TS/TSK/A/Xxxholic/poster.jpg</thumbnail>
+<externallink>http://fabiano.890m.com/TS/TSK/A/Xxxholic/Xxxholic.xml</externallink>
+<fanart>http://fabiano.890m.com/TS/TSK/A/Xxxholic/fanart.jpg</fanart>
+<info>×××HOLiC é um mangá escrito e ilustrado pelo grupo de mangakás, CLAMP. Foi publicado na Young Magazine entre 2003 e março de 2010. Em junho de 2010, começou a ser publicado na Bessatsu Shōnen Magazine, com término em fevereiro de 2011.</info>
 <genre>Anime</genre>
 </channel>
 
@@ -293,39 +279,47 @@ Independente de gostar de violência ou não, ela o persegue: os lugares visitad
 
 <channel>
 <name>Samurai X</name>
-<thumbnail>https://goo.gl/aP2w0u</thumbnail>
-<externallink>https://gist.githubusercontent.com/betomoura/0a4110cac8d1d5a778d6a35572041407/raw/Samurai%2520X</externallink>
-<fanart>https://goo.gl/FYrbtj</fanart>
-<info></info>
+<thumbnail>http://fabiano.890m.com/TS/TSK/A/Samurai_X/poster.jpg</thumbnail>
+<externallink>http://fabiano.890m.com/TS/TSK/A/Samurai_X/Samurai_X.xml</externallink>
+<fanart>http://fabiano.890m.com/TS/TSK/A/Samurai_X/fanart.jpg</fanart>
+<info>Samurai X ou Rurouni Kenshin - Meiji Kenkaku Romantan - é uma série de mangá criado pelo artista Nobuhiro Watsuki e posteriormente adaptado em anime.
+Data de publicação: 2 de setembro de 1994 – 4 de novembro de 1999
+Volumes: 28 (Lista de Volumes)
+Revista(s): Weekly Shōnen Jump
+Escrito por: Nobuhiro Watsuki
+Editora(s): Shueisha</info>
 <genre>Anime</genre>
 </channel>
 
 <channel>
+<name>Samurai X Op. 2</name>
+<thumbnail>http://fabiano.890m.com/TS/TSK/A/Samurai_X/poster.jpg</thumbnail>
+<info>Samurai X é a história de um pacífico errante chamado Kenshin, que vaga pela área rural japonesa oferecendo proteção aos necessitados, como penitência pelos homicídios que ele um dia cometeu.</info>
+<genre>Ação</genre>
+<fanart>http://fabiano.890m.com/TS/TSK/A/Samurai_X/fanart.jpg</fanart>
+<externallink>http://fabiano.890m.com/TS/TSK/A/Samurai_X/Samurai_X2.xml</externallink>
+</channel>
+
+
+<channel>
 <name>Shurato</name>
-<thumbnail>https://goo.gl/eUtzzY</thumbnail>
-<externallink>https://gist.githubusercontent.com/betomoura/129c8980bd41bb19e77d3168dc19c0cc/raw/Shurato</externallink>
-<fanart>https://goo.gl/j9MG9x</fanart>
-<info></info>
+<thumbnail>http://fabiano.890m.com/TS/TSK/A/Shurato/poster.jpg</thumbnail>
+<externallink>http://fabiano.890m.com/TS/TSK/A/Shurato/Shurato.xml</externallink>
+<fanart>http://fabiano.890m.com/TS/TSK/A/Shurato/fanart.jpg</fanart>
+<info>Tenkū Senki Shurato, foi uma série de mangá criada por Hiroshi Kawamoto e adaptada para anime pela Tatsunoko Productions. Tanto o anime quanto o mangá seguem as tentativas dos deuses de Asura em dominar o Mundo Celestial. Shurato, o personagem título, foi trazido para o campo de batalha e se torna um membro essencial dos Oito Guardiões do Povo de Deva e luta para resgatar a deusa Vishnu. Asura é representado por Indra, cujos subordinados engajam Shurato e seus companheiros em diversas ocasiões.</info>
 <genre>Anime</genre>
 </channel>
 
 <channel>
 <name>Street Fighter II Victory</name>
-<thumbnail>https://goo.gl/J9EFAc</thumbnail>
-<externallink>https://gist.githubusercontent.com/betomoura/fcc90465dbf89e66847a8f3de6aaec85/raw/Street%2520Fighter%2520II%2520Victory</externallink>
-<fanart>https://goo.gl/foFZeP</fanart>
-<info></info>
+<thumbnail>http://fabiano.890m.com/TS/TSK/A/Street_Fighter_II_Victory/poster.jpg</thumbnail>
+<externallink>http://fabiano.890m.com/TS/TSK/A/Street_Fighter_II_Victory/Street_Fighter_II_Victory.xml</externallink>
+<fanart>http://fabiano.890m.com/TS/TSK/A/Street_Fighter_II_Victory/fanart.jpg</fanart>
+<info>Street Fighter II V é um anime baseado no jogo Street Fighter 2. Dirigido por Gisaburo Sugii, a série foi exibida pela primeira vez no Japão em 1995, de 10 de abril à 27 de novembro. No Brasil, a série foi exibida pelo canal SBT durante a década de 1990 e no começo dos anos 2000, pelo Cartoon Network.</info>
 <genre>Anime</genre>
 </channel>
 
-<channel>
-<name>Voltron: O Defensor Lendário</name>
-<thumbnail>https://goo.gl/4hmv7z</thumbnail>
-<externallink>https://gist.githubusercontent.com/betomoura/83c9b89cbbbdbac16bbe03436af2f230/raw/Voltron:%2520O%2520Defensor%2520Lend%25C3%25A1rio</externallink>
-<fanart>https://goo.gl/9ZlBLZ</fanart>
-<info></info>
-<genre>Anime</genre>
-</channel>
+
 
 <channel>
 <name>High_School_Of_The_Death</name>
@@ -400,6 +394,15 @@ Independente de gostar de violência ou não, ela o persegue: os lugares visitad
 </channel>
 
 <channel>
+<name>Os Cavaleiros do Zodíaco</name>
+<thumbnail>http://fabiano.890m.com/TS/TSK/A/Cavaleiros_Do_Zodiaco/poster.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TS/TSK/A/Cavaleiros_Do_Zodiaco/fanart.jpg</fanart>
+<externallink>http://fabiano.890m.com/TS/TSK/A/Cavaleiros_Do_Zodiaco/Cavaleiros_Do_Zodiaco.xml</externallink>
+<info>A cada 200 anos (em média), Atena, a deusa da guerra e da sabedoria, vem à Terra, com a sagrada missão de impedir outros deuses de dominar a Terra e os seres humanos. Para cumprir sua missão, Atena conta com a ajuda de jovens guerreiros protegidos com armaduras sagradas intitulados cavaleiros. Juntos, lutam contra as forças do mal, num ambiente cheio de mitologias. </info>
+<genre>Anime</genre>
+</channel>
+
+<channel>
 <name>Robotech</name>
 <thumbnail>http://images-us-az.crackle.com/profiles/channels/2680/OneSheetImage_220x330.jpg</thumbnail>
 <info>Os países da Terra, que naquele momento estão envoltos em uma violenta Guerra Civil Global, entram em um acordo para formar um Governo da Terra Unida para organizar a defesa mundial frente a uma possível ataque extraterrestre. Este governo decide restaurar a nave extraterrestre, conhecida agora como SDF-1 (Super Dimension Fortress – 1) Macross para que esta seja a última linha de defesa da Terra.</info>
@@ -408,14 +411,7 @@ Independente de gostar de violência ou não, ela o persegue: os lugares visitad
 <externallink>http://textuploader.com/d1i6q/raw</externallink>
 </channel>
 
-<channel>
-<name>Samurai X</name>
-<thumbnail>http://images-br-az.crackle.com/profiles/channels/483/OneSheetImage_220x330.jpg?ts=20150506022316</thumbnail>
-<info>Samurai X é a história de um pacífico errante chamado Kenshin, que vaga pela área rural japonesa oferecendo proteção aos necessitados, como penitência pelos homicídios que ele um dia cometeu.</info>
-<genre>Ação</genre>
-<fanart>http://i0.wp.com/astrogeek.co/wp-content/uploads/2017/01/samurai-x-netflix-astrogeek.jpg</fanart>
-<externallink>http://textuploader.com/d1e5n/raw</externallink>
-</channel>
+
 
 <channel>
 <name>Sword Art Online</name>
@@ -436,6 +432,21 @@ Independente de gostar de violência ou não, ela o persegue: os lugares visitad
 </channel>
 
 <channel>
+<name>Viewtiful Joe</name>
+<thumbnail>http://fabiano.890m.com/TS/TSK/A/Viewtiful_Joe/poster.jpg</thumbnail>
+<externallink>http://fabiano.890m.com/TS/TSK/A/Viewtiful_Joe/Viewtiful_Joe.xml</externallink>
+<fanart>http://fabiano.890m.com/TS/TSK/A/Viewtiful_Joe/fanart.jpg</fanart>
+<info>Viewtiful Joe é um anime com 51 episódios baseado no popular jogo de videogame da Capcom de mesmo nome lançado para GameCube e Para PlayStation 2.
+Primeiro episódio: 2 de outubro de 2004
+Número De Temporadas: 2
+Personagens: Captain Blue Jr., Hulk Davidson, Gran Bruce, mais
+Emissoras originais: TV Tokyo, AeE
+Gêneros: Anime, Animação, Shōnen, Comédia, Ação/Aventura</info>
+<genre>Anime</genre>
+</channel>
+
+
+<channel>
 <name>Viper´s Creed</name>
 <thumbnail>http://images-br-az.crackle.com/profiles/channels/1130/OneSheetImage_220x330.jpg</thumbnail>
 <info>Com a maioria das cidades da Terra debaixo d'água devido ao início do aquecimento global seguido por uma terceira guerra mundial que trouxe calamidade e confusão para o povo, várias EMPs são das poucas organizações que conseguem oferecer alguma segurança e ajudar na reconstrução das cidades destruídas pela guerra. Uma dessas organizações é a «Corporação de Segurança Global Arqon», responsável por proteger a cidade de Fort Daiva do terrorismo e, sobretudo, dos Bug Mechs, máquinas de guerra não tripuladas que espalham o terror. A unidade de elite destacada para a protecção da cidade chama-se Viper, liderada pelos bravos Blademen.</info>
@@ -445,12 +456,21 @@ Independente de gostar de violência ou não, ela o persegue: os lugares visitad
 </channel>
 
 <channel>
+<name>Voltron: O Defensor Lendário</name>
+<thumbnail>https://goo.gl/4hmv7z</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/83c9b89cbbbdbac16bbe03436af2f230/raw/Voltron:%2520O%2520Defensor%2520Lend%25C3%25A1rio</externallink>
+<fanart>https://goo.gl/9ZlBLZ</fanart>
+<info></info>
+<genre>Anime</genre>
+</channel>
+
+<channel>
 <name>Voltron: O Defensor do Universo</name>
-<thumbnail>http://br.web.img1.acsta.net/r_160_214/pictures/16/04/12/20/13/338465.jpg</thumbnail>
+<thumbnail>http://fabiano.890m.com/TS/TSK/A/Voltron_O_Defensor_Do_Universo/poster.png</thumbnail>
 <info>Voltron, um poderoso robô que defendeu planetas pacíficos e justiça na galáxia, parecia invencível até que uma bruxa malvada, Haggar, tentou destruí-lo. Em vez disso, ela dividiu-o em cinco partes, cada uma virou um grande leão robótico. Cada um foi alimentado por um elemento do planeta Arus: o Leão Preto por um raio, o Leão Vermelho por magma, o Leão Verde pelo ciclone, o Leão Azul pela água, e o Leão Amarelo pelas areias do deserto. Após o confronto com Haggar, cada leão foi encontrado no seu próprio esconderijo, em algum lugar no Arus, totalmente sem uso, por anos. Arus, não sendo protegido por Voltron, é, consequentemente, derrotado pelas forças do mal Zarkon. Agora enviado pelo Galaxy Garrison após a outra terrível batalha, cinco exploradores espaciais fogem do planeta para encontrar o segredo para restaurar o super-robô conhecido como Voltron.</info>
 <genre>Anime</genre>
-<fanart>http://www.hugozapata.com.ar/wp-content/uploads/2012/04/voltron-leones.jpg</fanart>
-<externallink>http://textuploader.com/dr4l6/raw</externallink>
+<fanart>http://fabiano.890m.com/TS/TSK/A/Voltron_O_Defensor_Do_Universo/fanart.jpg</fanart>
+<externallink>http://fabiano.890m.com/TS/TSK/A/Voltron_O_Defensor_Do_Universo/Voltron_O_Defensor_Do_Universo.xml</externallink>
 </channel>
 
 <channel>
