@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Batman do Futuro</title>
+    <showtitle>Batman do Futuro</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.500000</value>
+            <votes>40</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>A história tem início numa Gotham City futurista vinte anos após a última aparição de Bruce Wayne como Batman. Depauperado por causa de suas longas noites como defensor da cidade o antigo herói, já septuagenário, vive recluso em sua mansão e tem como única companhia seu fiel cão, Ace. Alheio ao que se passa fora de sua mansão ele nem mesmo acompanha o dia a dia de sua empresa, agora denominada Wayne-Powers e dirigida pelo controverso e inescrupuloso Derek Powers cuja ambição e os métodos de ação em muito se assemelham aos de Lex Luthor. Numa dessas operações escusas a ambição de Powers o faz negociar com um membro do governo kasniano uma toxina biológica capaz de eliminar os dissidentes políticos daquela nação européia, contudo os planos funestos do magnata são frustrados quando um de seus empregados entrega a Warren McGinnis, uma cópia do arquivo sobre as reais intenções de Derek Powers que ciente do risco que corria inquire o Sr. McGinnis sobre a existência de tais dados que nega conhecer sua existência. Nada disso impediu que Warren McGinnis fosse assassinado.&#x0D;&#x0A;&#x0D;&#x0A;Em meio a esses acontecimentos surge Terry McGinnis, um rapaz de 17 anos que vive com o pai após o divórcio de seus genitores. Antigo interno do reformatório juvenil de Gotham City o jovem Terence exibe traços de rebeldia juvenil e impaciência nos primeiros episódios da série e em decorrência disso sua relação com o pai é conflituosa, tanto que eles chegaram a discutir pouco antes do assassinato deste último. Após o crime Terry passa a morar com a mãe, Mary, e com seu irmão, Matt, um garoto de seis anos. Durante sua mudança ele encontra o disquete com os arquivos de Powers e vai até a Mansão Wayne disposto a compartilhar sua descoberta e é orientado pelo septuagenário Bruce a entregar essa prova nas mãos da comissária Bárbara Gordon, contudo antes que deixasse a mansão descobriu a Batcaverna e por via de conseqüência o segredo por trás do velho Wayne que, furioso, o expulsa de sua propriedade, nada, porém, que o impedisse de retornar aos domínios do antigo defensor de Gotham City e &quot;roubar-lhe&quot; a veste negra de Batman com o fito de impedir mais uma operação escusa de Derek Powers. Finda a aventura, Bruce Wayne resolve fazer do rapaz seu sucessor e como justificativa para tanto contrata o jovem McGinnis como seu assistente pessoal.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/75417-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/75417-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/75417-g5.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/321-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/75417-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/75417-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/321.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/75417-1-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/75417-2-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/75417-3-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/75417-0-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/75417-0-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/75417-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/75417-2-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/75417-3-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/75417-3-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/75417-1-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/75417-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/75417-2-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/75417-3-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/75417-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/75417-0-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/75417-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/75417-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/75417-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/75417-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/75417-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/321-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/321-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/321-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/75417-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/321-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/75417-0-3.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/75417-1.jpg</thumb>
+    <thumb aspect="banner" type="season" season="3">http://thetvdb.com/banners/seasonswide/75417-3.jpg</thumb>
+    <thumb aspect="banner" type="season" season="0">http://thetvdb.com/banners/seasonswide/75417-0.jpg</thumb>
+    <thumb aspect="banner" type="season" season="2">http://thetvdb.com/banners/seasonswide/75417-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75417-10.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75417-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75417-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75417-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75417-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75417-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75417-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75417-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75417-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75417-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75417-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75417-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75417-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75417-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75417-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75417-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75417-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75417-8.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/75417-18.jpg">fanart/original/75417-18.jpg</thumb>
+        <thumb dim="1280x720" colors="|106,103,132|222,48,24|175,179,190|" preview="_cache/fanart/original/75417-1.jpg">fanart/original/75417-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/75417-5.jpg">fanart/original/75417-5.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/75417-4.jpg">fanart/original/75417-4.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/75417-11.jpg">fanart/original/75417-11.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/75417-12.jpg">fanart/original/75417-12.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/75417-13.jpg">fanart/original/75417-13.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/75417-3.jpg">fanart/original/75417-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/75417-10.jpg">fanart/original/75417-10.jpg</thumb>
+        <thumb dim="1280x720" colors="|13,50,59|29,16,23|18,2,3|" preview="_cache/fanart/original/75417-2.jpg">fanart/original/75417-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/75417-15.jpg">fanart/original/75417-15.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/75417-17.jpg">fanart/original/75417-17.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/75417-6.jpg">fanart/original/75417-6.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/75417-7.jpg">fanart/original/75417-7.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/75417-8.jpg">fanart/original/75417-8.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/75417-9.jpg">fanart/original/75417-9.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/75417-14.jpg">fanart/original/75417-14.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/75417-16.jpg">fanart/original/75417-16.jpg</thumb>
+    </fanart>
+    <mpaa>TV-Y7</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="75417-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/75417/all/pt.zip</url>
+    </episodeguide>
+    <id>75417</id>
+    <uniqueid type="unknown" default="true">75417</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <premiered>1999-01-10</premiered>
+    <year>1999</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>The WB</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Will Friedle</name>
+        <role>Terry McGinnis / Batman</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/38926.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Conroy</name>
+        <role>Bruce Wayne</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/38931.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lauren Tom</name>
+        <role>Dana Tan</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/38928.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sherman Howard</name>
+        <role>Derek Powers / Blight</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/38933.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Teri Garr</name>
+        <role>Mary McGinnis</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/38932.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yvette Lowenthal</name>
+        <role>Chelsea Cunningham</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/38930.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cree Summer</name>
+        <role>Max Gibson</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/38927.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryan O&apos;Donohue</name>
+        <role>Matt McGinnis</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/38925.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Seth Green</name>
+        <role>Nelson Nash</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/38924.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stockard Channing</name>
+        <role>Barbara Gordon</role>
+        <order>9</order>
+        <thumb>http://thetvdb.com/banners/actors/38922.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Melissa Disney</name>
+        <role>Blade Summer</role>
+        <order>10</order>
+        <thumb>http://thetvdb.com/banners/actors/352951.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Max Brooks</name>
+        <role>Howie Groote</role>
+        <order>11</order>
+        <thumb>http://thetvdb.com/banners/actors/352950.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Olivia d&apos;Abo</name>
+        <role>Melanie Walker</role>
+        <order>12</order>
+        <thumb>http://thetvdb.com/banners/actors/352949.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

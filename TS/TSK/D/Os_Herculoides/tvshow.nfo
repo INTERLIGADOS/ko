@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>The Herculoids</title>
+    <showtitle>The Herculoids</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.000000</value>
+            <votes>4</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>The Herculoids (br: Os Herculóides) é uma série animada de ficção científica, produzida pela Hanna-Barbera Productions. Foram criados por o desenhista Alex Toth. Estreou na televisão norte-americana no dia 9 de setembro de 1967, no canal CBS, sendo exibida até 19691 . No Brasil, esta série estreou no ano 1968, pela TV Globo. nos anos 70 pela TV Record, nos anos 80 e 90 pela TV Bandeirantes e na extinta Rede Manchete e atualmente também na TV a Cabo com o Cartoon Network, Boomerang e Tooncast, Teve 11 novos episódios produzidos no biênio 1981-1982, porém sem o mesmo sucesso, como parte do programa Space Stars, que também exibiu novas aventuras do herói Space Ghost.</plot>
+    <tagline></tagline>
+    <runtime>10</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/76832-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/76832-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/76832-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/76832-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/76832-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/76832-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/76832-2-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76832-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76832-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76832-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76832-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76832-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76832-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76832-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76832-2.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/76832-3.jpg">fanart/original/76832-3.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/76832-2.jpg">fanart/original/76832-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/76832-1.jpg">fanart/original/76832-1.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="76832-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/76832/all/pt.zip</url>
+    </episodeguide>
+    <id>76832</id>
+    <uniqueid type="unknown" default="true">76832</uniqueid>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <premiered>1967-09-01</premiered>
+    <year>1967</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>CBS</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Don Messick</name>
+        <role></role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mike Road</name>
+        <role></role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sparky Marcus</name>
+        <role></role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ted Cassidy</name>
+        <role></role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ted Eccles</name>
+        <role></role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Virginia Gregg</name>
+        <role></role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

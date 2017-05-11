@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Inspetor Bugiganga</title>
+    <showtitle>Inspetor Bugiganga</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.300000</value>
+            <votes>15</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Inspetor Bugiganga (título no Brasil) ou Inspector Gadget (título em Portugal) é um desenho animado de origem em seis países  Canadá,  Alemanha, Estados Unidos,  Japão,  França,  Reino Unido. Narra as aventuras de um inspetor policial que ao sofrer um acidente, foi transformado numa espécie de robô com mil e uma bugigangas diferentes pelos policiais que exerciam o projeto secreto &quot;bugiganga&quot;.&#x0D;&#x0A;Porém o maior vilão da cidade, causador do acidente do inspetor, perdeu sua mão no tal acidente e se transformou no &quot;Dr. Garra&quot;. Agora bugiganga tem que salvar o mundo dos crimes do Dr. Garra, que acha que bugiganga o fez perder a mão e por isso vive tentando destruí-lo.&#x0D;&#x0A;No Brasil a série fora exibida primeiramente pela Rede Record e mais tarde pelo SBT na década de 90, recentemente voltou ao ar pela Rede Aparecida (através do Clubti) em 1 de outubro de 2012. Em Portugal a série foi exibida primeiramente pelo Canal 1 no início da década de 90 na versão francesa com legendas em português, mais tarde pela SIC em 1994 na versão americana, mas dobrada em português, pelo Canal Panda de 2009 a 2011 com a mesma dobragem da SIC, pelo KidsCo e pela SIC K em 2011 e 2012.</plot>
+    <tagline></tagline>
+    <runtime>20</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/73693-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/73693-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/2412-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/73693-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/73693-g4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/73693-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/73693-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/73693-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/2412-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/73693-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/73693-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/73693-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/2412-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/73693-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/73693-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/73693-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/73693-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/73693-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/73693-1.jpg</thumb>
+    <fanart>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/73693-7.jpg">http://thetvdb.com/banners/fanart/original/73693-7.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/73693-8.jpg">http://thetvdb.com/banners/fanart/original/73693-8.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/73693-5.jpg">http://thetvdb.com/banners/fanart/original/73693-5.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/73693-6.jpg">http://thetvdb.com/banners/fanart/original/73693-6.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/73693-1.jpg">http://thetvdb.com/banners/fanart/original/73693-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="FFdcdddf,FFb5b6b8,FFca563f" preview="http://thetvdb.com/banners/_cache/fanart/original/73693-4.jpg">http://thetvdb.com/banners/fanart/original/73693-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/73693-3.jpg">http://thetvdb.com/banners/fanart/original/73693-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/73693-2.jpg">http://thetvdb.com/banners/fanart/original/73693-2.jpg</thumb>
+    </fanart>
+    <mpaa>TV-Y7</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="73693-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/73693/all/pt.zip</url>
+    </episodeguide>
+    <id>73693</id>
+    <uniqueid type="unknown" default="true">73693</uniqueid>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <premiered>1983-09-01</premiered>
+    <year>1983</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Teletoon</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Don Adams</name>
+        <role>Gadget</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/27292.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cree Summer</name>
+        <role>Penny (Season 1)</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/27290.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maurice LaMarche</name>
+        <role>Chief Quimby (Season 2)</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/27298.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frank Welker</name>
+        <role>Brain</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/27293.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Hennessey</name>
+        <role>Chief Quimby (Season 1)</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/19236.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Don Francks</name>
+        <role>Big M.A.D Agent</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Holly Berger</name>
+        <role>Penny (Season 2)</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kathy Morse</name>
+        <role></role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Reg Green</name>
+        <role></role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Townsend Coleman</name>
+        <role></role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tsuru Hiromi</name>
+        <role></role>
+        <order>14</order>
+        <thumb>http://thetvdb.com/banners/actors/375902.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

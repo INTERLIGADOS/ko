@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>As visões da Raven</title>
+    <showtitle>As visões da Raven</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.700000</value>
+            <votes>3</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Raven Baxter é uma adolescente com um dom extraordinário: tem visões do futuro. Suas falsas interpretações sobre os fatos, porém, causam uma série de transtornos a sua família e amigos.</plot>
+    <tagline></tagline>
+    <runtime>0</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78258-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78258-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/8257-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/78258.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/78258-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/78258-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/78258-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/78258-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78258-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78258-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78258-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78258-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78258-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78258-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78258-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78258-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78258-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78258-1.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/78258-1.jpg">fanart/original/78258-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/78258-4.jpg">fanart/original/78258-4.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/78258-2.jpg">fanart/original/78258-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/78258-3.jpg">fanart/original/78258-3.jpg</thumb>
+    </fanart>
+    <mpaa>TV-G</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="78258-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/78258/all/pt.zip</url>
+    </episodeguide>
+    <id>78258</id>
+    <uniqueid type="unknown" default="true">78258</uniqueid>
+    <genre>Children</genre>
+    <genre>Comedy</genre>
+    <premiered>2003-01-17</premiered>
+    <year>2003</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Disney Channel</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Raven-Symone</name>
+        <role>Raven Baxter</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/62948.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anneliese van der Pol</name>
+        <role>Chelsea Daniels</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/62946.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Orlando Brown</name>
+        <role>Eddie Thomas</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/62951.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rondell Sheridan</name>
+        <role>Victor Baxter</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/62950.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lil&apos; J (Jonathan &apos;Lil J&apos; McDaniel)</name>
+        <role>Devon Carter</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/62949.jpg</thumb>
+    </actor>
+    <actor>
+        <name>T&apos;Keyah Keym</name>
+        <role>Tanya Baxter</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/62947.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kyle Massey</name>
+        <role>Cory Baxter</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/62945.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bobb&apos;e J. Thompson</name>
+        <role>Stanley</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/311022.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Henrie</name>
+        <role>Larry</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/311017.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frankie Ryan Manriquez</name>
+        <role>William</role>
+        <order>9</order>
+        <thumb>http://thetvdb.com/banners/actors/310834.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

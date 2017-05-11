@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Those Who Hunt Elves</title>
+    <showtitle>Those Who Hunt Elves</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.000000</value>
+            <votes>2</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>An actor, a martial artist, a gun-crazy high school student, and their tank are transported from earth to a world of elves and magic. However, the spell to return them home was botched resulting in fragments of the spell being magically imprinted onto their skin. Their solution: run around looking for elves and stripping them wherever they find them.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72447-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72447-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72447-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72447-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/72447-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/72447-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/72447-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72447-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72447-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72447-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72447-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72447-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72447-1.jpg</thumb>
+    <fanart>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/72447-3.jpg">http://thetvdb.com/banners/fanart/original/72447-3.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/72447-1.jpg">http://thetvdb.com/banners/fanart/original/72447-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/72447-4.jpg">http://thetvdb.com/banners/fanart/original/72447-4.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/72447-2.jpg">http://thetvdb.com/banners/fanart/original/72447-2.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="72447-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/72447/all/pt.zip</url>
+    </episodeguide>
+    <id>72447</id>
+    <uniqueid type="unknown" default="true">72447</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <premiered>1996-10-01</premiered>
+    <year>1996</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>TV Tokyo</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Andrew Klimko</name>
+        <role></role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cynthia Martinez</name>
+        <role></role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hilary Haag</name>
+        <role></role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jessica Calvello</name>
+        <role></role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kelly Manison</name>
+        <role></role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michie Tomizawa</name>
+        <role></role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mitsuishi Kotono</name>
+        <role></role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rozanne Curtis</name>
+        <role></role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Shelley Calene-Black</name>
+        <role></role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tomokazu Seki</name>
+        <role></role>
+        <order>9</order>
+        <thumb>http://image.tmdb.org/t/p/original/vMsJSXSLqC5XRF5Gn09cznwxzIa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yuko Miyamura</name>
+        <role></role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

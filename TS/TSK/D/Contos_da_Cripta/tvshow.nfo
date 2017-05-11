@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Tales from the Crypt</title>
+    <showtitle>Tales from the Crypt</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.800000</value>
+            <votes>25</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Contos da Cripta surgiu da adaptação de contos da revista em quadrinhos Tales from the Crypt, que reunia histórias cheias de tensão e sobretudo humor negro.&#x0D;&#x0A;Seguindo os passos de Creepshow, uma outra produção baseada em coletâneas de filmes, surgiu em 1995, trazendo 3 diretores à frente do projeto: Ernest Dickerson, Leigh A. Webb e Gilbert Adler.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/73029-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/73029-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/73029-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/214-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/73029-g4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/73029-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/73029-6-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/73029-5-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/73029-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/73029-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/73029-4-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/214-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/214-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/73029-7-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/214-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/214-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/214-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/214-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/214-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/73029-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/73029-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/73029-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/73029-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/73029-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/73029-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/73029-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/73029-0.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/73029-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/73029-10.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/73029-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/73029-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/73029-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/73029-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/73029-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/73029-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/73029-9.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/73029-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/73029-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/73029-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/73029-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/73029-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/73029-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/73029-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/73029-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/73029-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/73029-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/73029-6.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="|0,65,149|44,44,42|189,114,49|" preview="_cache/fanart/original/73029-1.jpg">fanart/original/73029-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/73029-2.jpg">fanart/original/73029-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/73029-4.jpg">fanart/original/73029-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/73029-3.jpg">fanart/original/73029-3.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="73029-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/73029/all/pt.zip</url>
+    </episodeguide>
+    <id>73029</id>
+    <uniqueid type="unknown" default="true">73029</uniqueid>
+    <genre>Comedy</genre>
+    <genre>Fantasy</genre>
+    <genre>Horror</genre>
+    <genre>Suspense</genre>
+    <premiered>1989-06-01</premiered>
+    <year>1989</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>HBO</studio>
+    <trailer></trailer>
+    <actor>
+        <name>John Kassir</name>
+        <role>Crypt Keeper</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/22276.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

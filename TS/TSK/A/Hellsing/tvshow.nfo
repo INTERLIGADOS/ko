@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Hellsing</title>
+    <showtitle>Hellsing</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>7.800000</value>
+            <votes>75</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>A série Hellsing conta a história do vampiro anti-heroico, Alucard, e de uma policial que foi transformada em vampiro, Seras Victoria, dois agentes da Hellsing, uma organização financiada pelo governo britânico dedicada ao extermínio de vampiros. Ultimamente a atividade sobrenatural vem se tornando cada vez mais frequente, e ambos os agentes acabam descobrindo que toda uma nova raça de vampiros está surgindo.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/71278-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/71278-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/13012-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/71278-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/71278-g3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/71278-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/71278-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/71278-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/71278-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/13012-1.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/71278-1.jpg</thumb>
+    <thumb aspect="banner" type="season" season="2">http://thetvdb.com/banners/seasonswide/71278-2-2.jpg</thumb>
+    <thumb aspect="banner" type="season" season="2">http://thetvdb.com/banners/seasonswide/71278-2-3.jpg</thumb>
+    <thumb aspect="banner" type="season" season="2">http://thetvdb.com/banners/seasonswide/71278-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/71278-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/71278-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/71278-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/71278-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/71278-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/71278-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/71278-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/71278-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/71278-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/71278-4.jpg</thumb>
+    <fanart>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/71278-13.jpg">http://thetvdb.com/banners/fanart/original/71278-13.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/71278-4.jpg">http://thetvdb.com/banners/fanart/original/71278-4.jpg</thumb>
+        <thumb dim="1280x720" colors="FFfffcfd,FF 1 1 1,FF491917" preview="http://thetvdb.com/banners/_cache/fanart/original/71278-1.jpg">http://thetvdb.com/banners/fanart/original/71278-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="FFd423 f,FF 6 2 1,FF746f6c" preview="http://thetvdb.com/banners/_cache/fanart/original/71278-14.jpg">http://thetvdb.com/banners/fanart/original/71278-14.jpg</thumb>
+        <thumb dim="1280x720" colors="FFfcfcfc,FF1c1934,FFc7803e" preview="http://thetvdb.com/banners/_cache/fanart/original/71278-9.jpg">http://thetvdb.com/banners/fanart/original/71278-9.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/71278-6.jpg">http://thetvdb.com/banners/fanart/original/71278-6.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/71278-3.jpg">http://thetvdb.com/banners/fanart/original/71278-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/71278-2.jpg">http://thetvdb.com/banners/fanart/original/71278-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/71278-8.jpg">http://thetvdb.com/banners/fanart/original/71278-8.jpg</thumb>
+        <thumb dim="1280x720" colors="FFc5b9d1,FFa63225,FF99763e" preview="http://thetvdb.com/banners/_cache/fanart/original/71278-10.jpg">http://thetvdb.com/banners/fanart/original/71278-10.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/71278-5.jpg">http://thetvdb.com/banners/fanart/original/71278-5.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/71278-7.jpg">http://thetvdb.com/banners/fanart/original/71278-7.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/71278-12.jpg">http://thetvdb.com/banners/fanart/original/71278-12.jpg</thumb>
+        <thumb dim="1280x720" colors="FF80fafd,FF55737d,FFaeb299" preview="http://thetvdb.com/banners/_cache/fanart/original/71278-11.jpg">http://thetvdb.com/banners/fanart/original/71278-11.jpg</thumb>
+    </fanart>
+    <mpaa>TV-14</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="71278-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/71278/all/pt.zip</url>
+    </episodeguide>
+    <id>71278</id>
+    <uniqueid type="unknown" default="true">71278</uniqueid>
+    <genre>Action</genre>
+    <genre>Animation</genre>
+    <genre>Fantasy</genre>
+    <genre>Horror</genre>
+    <premiered>2001-10-04</premiered>
+    <year>2001</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Fuji TV</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Jouji Nakata</name>
+        <role>Alucard</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/366824.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fumiko Orikasa</name>
+        <role>Seras Victoria</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/366823.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yoshiko Sakakibara</name>
+        <role>Integra Fairbrook Wingates Hellsing</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/366822.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Takumi Yamazaki</name>
+        <role>Incognito</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/366821.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Motomu Kiyokawa</name>
+        <role>Walter C. Dornez</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/366820.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yasutomo [Nachi] Nozawa</name>
+        <role>Alexander Anderson</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/366819.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Unshou Ishizuka</name>
+        <role>Peter Ferguson</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/366818.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chikao Ootsuka</name>
+        <role>Arthur Hellsing</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/366817.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kaori Mizuhashi</name>
+        <role>Integra Hellsing [Young]</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/366816.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Crispin Freeman (delete)</name>
+        <role></role>
+        <order>9</order>
+        <thumb>http://thetvdb.com/banners/actors/8333.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

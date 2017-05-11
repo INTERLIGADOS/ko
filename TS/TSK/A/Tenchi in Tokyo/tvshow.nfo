@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Tenchi in Tokyo</title>
+    <showtitle>Tenchi in Tokyo</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.200000</value>
+            <votes>5</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Tenchi Muyo! follows the adventures of Tenchi Masaki, an ordinary teenager whose quiet life in the mountains of Okayama is shattered by the arrival of a group of alien girls. Although having a bunch of beautiful women living at home might sound like no bad thing, Tenchi soon discovers the downside to this arrangement when the girls start using their special powers to fight for his affections!...</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/80583-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/80583-g2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/80583-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/80583-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/80583-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/80583-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/80583-2.jpg</thumb>
+    <fanart>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/80583-1.jpg">http://thetvdb.com/banners/fanart/original/80583-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/80583-2.jpg">http://thetvdb.com/banners/fanart/original/80583-2.jpg</thumb>
+    </fanart>
+    <mpaa>TV-14</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="80583-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/80583/all/pt.zip</url>
+    </episodeguide>
+    <id>80583</id>
+    <uniqueid type="unknown" default="true">80583</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+    <genre>Science-Fiction</genre>
+    <premiered>1997-04-01</premiered>
+    <year>1997</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>TV Tokyo</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Etsuko Kozakura</name>
+        <role>Ryo-Ohki</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/394711.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Akiko Yajima</name>
+        <role>Yugi</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/394706.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Masami Kikuchi</name>
+        <role>Tenchi Masaki</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/394705.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yumi Takada</name>
+        <role>Aeka Jurai Masaki</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/394704.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chisa Yokoyama</name>
+        <role>Sasami Jurai Masaki</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/394703.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yuri Amano</name>
+        <role>Kiyone Makibi</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/394702.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yuuko Mizutani</name>
+        <role>Mihoshi Kuramitsu</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/394701.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mayumi Iizuka</name>
+        <role>Sakuya Kumashiro</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/394700.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ai Orikasa</name>
+        <role>Ryouko Hakubi</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/394699.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yuko Kobayashi</name>
+        <role>Washuu Hakubi</role>
+        <order>9</order>
+        <thumb>http://thetvdb.com/banners/actors/394698.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yuriko Yamaguchi</name>
+        <role>Matori</role>
+        <order>10</order>
+        <thumb>http://thetvdb.com/banners/actors/394710.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Takeshi Aono</name>
+        <role>Nobuyuki Masaki / Katsuhito Masaki</role>
+        <order>11</order>
+        <thumb>http://thetvdb.com/banners/actors/394709.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wataru Takagi</name>
+        <role>Hotsuma</role>
+        <order>12</order>
+        <thumb>http://thetvdb.com/banners/actors/394708.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kenichi Ogata</name>
+        <role>Azaka</role>
+        <order>13</order>
+        <thumb>http://thetvdb.com/banners/actors/394707.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

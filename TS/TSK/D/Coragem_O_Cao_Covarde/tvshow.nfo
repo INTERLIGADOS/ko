@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Coragem, o Cão Covarde</title>
+    <showtitle>Coragem, o Cão Covarde</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.100000</value>
+            <votes>19</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>O desenho retrata o mundo como visto através dos olhos de um pequeno cachorro, chamado Coragem, com seu ponto de vista. Seus donos são um casal de idosos: Muriel Bagge, uma típica senhora escocesa, e Eustácio Bagge, um fazendeiro mal-humorado.&#x0D;&#x0A;Eles vivem em uma fazenda localizada no meio do nada — a fazenda é assim retratada porque os donos de Coragem, por serem muito idosos, nunca o levam para passear, de modo que Coragem desconhece o mundo exterior. As tramas, muitas vezes absurdas, tentam retratar a confusão mental do pequeno animal ao lidar com as situações perigosas do dia a dia.</plot>
+    <tagline></tagline>
+    <runtime>15</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77435-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77435-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77435-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77435-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/77435.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77435-1-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/77435-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/77435-4-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77435-2-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/77435-3-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/77435-3-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/77435-4-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77435-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77435-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77435-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77435-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/77435-4-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/77435-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/77435-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77435-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77435-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/77435-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77435-2-4.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/77435-1.jpg</thumb>
+    <thumb aspect="banner" type="season" season="0">http://thetvdb.com/banners/seasonswide/77435-0.jpg</thumb>
+    <thumb aspect="banner" type="season" season="4">http://thetvdb.com/banners/seasonswide/77435-4-2.jpg</thumb>
+    <thumb aspect="banner" type="season" season="2">http://thetvdb.com/banners/seasonswide/77435-2.jpg</thumb>
+    <thumb aspect="banner" type="season" season="3">http://thetvdb.com/banners/seasonswide/77435-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77435-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77435-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77435-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77435-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77435-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77435-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77435-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77435-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77435-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77435-1.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/77435-5.jpg">fanart/original/77435-5.jpg</thumb>
+        <thumb dim="1280x720" colors="|153,60,29|97,123,140|254,245,216|" preview="_cache/fanart/original/77435-2.jpg">fanart/original/77435-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="|134,3,19|237,141,3|170,1,44|" preview="_cache/fanart/original/77435-3.jpg">fanart/original/77435-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77435-4.jpg">fanart/original/77435-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77435-1.jpg">fanart/original/77435-1.jpg</thumb>
+    </fanart>
+    <mpaa>TV-Y7</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="77435-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/77435/all/pt.zip</url>
+    </episodeguide>
+    <id>77435</id>
+    <uniqueid type="unknown" default="true">77435</uniqueid>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <premiered>1999-11-01</premiered>
+    <year>1999</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Cartoon Network</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Marty Grabstein</name>
+        <role>Courage</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/55599.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thea White</name>
+        <role>Muriel Bagge</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/55610.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lionel Wilson</name>
+        <role>Eustace Bagge</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/55602.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Billie Lou Watt</name>
+        <role>Ma Bagge</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/55611.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Simon Prebble</name>
+        <role>The Computer</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/55598.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Maguila, O Gorila</title>
+    <showtitle>Maguila, O Gorila</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>10.000000</value>
+            <votes>1</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>1</season>
+    <episode>15</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Maguila mora na loja de animais do senhor Peebles, e está sempre na vitrine. De vez em quando Maguila é comprado por alguém, mas sempre acaba devolvido para a loja, para desespero do dono que acha que gasta muito com bananas para alimentá-lo. Nessas saídas, as vezes Maguila causa desastres devido a sua imensa força.</plot>
+    <tagline></tagline>
+    <runtime>6</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/76209-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/76209-g2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/76209-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/76209-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/76209-0.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76209-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76209-1.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/76209-1.jpg">fanart/original/76209-1.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="76209-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/76209/all/pt.zip</url>
+    </episodeguide>
+    <id>76209</id>
+    <uniqueid type="unknown" default="true">76209</uniqueid>
+    <genre>Animation</genre>
+    <premiered>1964-01-01</premiered>
+    <year>1964</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>ABC (US)</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Allan Melvin</name>
+        <role></role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Don Messick</name>
+        <role></role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/62979.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Howard Morris</name>
+        <role></role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jean Vander Pyl</name>
+        <role></role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Stephenson</name>
+        <role></role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mel Blanc</name>
+        <role></role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2015-10-21 04:54:19</dateadded>
+</tvshow>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>ThunderCats</title>
+    <showtitle>ThunderCats</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.100000</value>
+            <votes>40</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>ThunderCats conta as aventuras grupo de felinos sobreviventes do planeta Thundera. O episódio piloto da série começa com a destruição de Thundera, forçando os ThunderCats (uma espécie de nobreza Thunderiana) a fugir de sua terra natal.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/10078-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/70355-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/70355-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/70355-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/70355-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/10078.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/70355-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/70355-3-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/70355-1-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/70355-4-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/70355-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/70355-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/70355-0-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/70355-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/70355-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/70355-0-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/70355-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/10078-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/10078-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/70355-0-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/70355-0.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70355-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70355-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70355-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70355-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70355-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70355-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70355-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70355-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70355-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70355-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70355-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70355-3.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/70355-7.jpg">fanart/original/70355-7.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/70355-9.jpg">fanart/original/70355-9.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/70355-6.jpg">fanart/original/70355-6.jpg</thumb>
+        <thumb dim="1280x720" colors="|252,252,120|13,2,6|155,2,4|" preview="_cache/fanart/original/70355-1.jpg">fanart/original/70355-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/70355-10.jpg">fanart/original/70355-10.jpg</thumb>
+        <thumb dim="1280x720" colors="|151,166,189|231,117,44|62,60,143|" preview="_cache/fanart/original/70355-5.jpg">fanart/original/70355-5.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/70355-8.jpg">fanart/original/70355-8.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/70355-3.jpg">fanart/original/70355-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/70355-4.jpg">fanart/original/70355-4.jpg</thumb>
+        <thumb dim="1280x720" colors="|255,18,28|0,0,0|141,20,12|" preview="_cache/fanart/original/70355-2.jpg">fanart/original/70355-2.jpg</thumb>
+    </fanart>
+    <mpaa>TV-Y7</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="70355-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/70355/all/pt.zip</url>
+    </episodeguide>
+    <id>70355</id>
+    <uniqueid type="unknown" default="true">70355</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <genre>Science-Fiction</genre>
+    <premiered>1985-09-01</premiered>
+    <year>1985</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Syndicated</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Larry Kenney</name>
+        <role>Lion-O / Jackalman</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/354739.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Earl Hammond</name>
+        <role>Mumm-Ra / Jaga / Vultureman / Amok</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/354741.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Newman</name>
+        <role>Tygra / Wilykat / Bengali / Monkian</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/218.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gerrianne Raphael</name>
+        <role>Pumyra / Chilla</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/354747.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bob McFadden</name>
+        <role>Snarf / S-S-Slithe / Tug-Mug / Snarfer</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/354746.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Earle Hyman</name>
+        <role>Panthro / Red-Eye</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/354745.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Doug Preis</name>
+        <role>Lynx-O / Alluro</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/354744.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lynne Lipton</name>
+        <role>Cheetara / Wilykit / Luna</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/354742.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

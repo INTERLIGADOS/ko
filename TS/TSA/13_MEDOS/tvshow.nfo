@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>13 MEDOS</title>
+    <showtitle>13 MEDOS</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>10.000000</value>
+            <votes>1</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>13 medos é uma série de ficção, composta por treze capítulos de meia hora. É terror, é suspense e é a pura tensão que prende e emociona o espectador do princípio ao fim. A cada história exploramos um medo em particular, seja através de um evento paranormal, ou simplesmente um acontecimento bizarro da vida normal. Qualquer que seja o caso, nos aprofundamos sobre o medo da semana, interrompendo a vida de algumas vítimas desafortunadas. Os medos abordados não são superficiais e sim profundos. São medos que vivem no subconciente de cada um de nós.</plot>
+    <tagline></tagline>
+    <runtime>45</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/269916-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/269916-1.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/269916-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/269916-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/269916-1.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/269916-1.jpg">fanart/original/269916-1.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="269916-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/269916/all/pt.zip</url>
+    </episodeguide>
+    <id>269916</id>
+    <uniqueid type="unknown" default="true">269916</uniqueid>
+    <genre>Horror</genre>
+    <genre>Suspense</genre>
+    <premiered>2007-05-18</premiered>
+    <year>2007</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

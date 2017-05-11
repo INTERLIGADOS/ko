@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>A Caverna do Dragão</title>
+    <showtitle>A Caverna do Dragão</showtitle>
+    <rating>8.300000</rating>
+    <userrating>0</userrating>
+    <epbookmark>0.000000</epbookmark>
+    <year>1983</year>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <uniqueid></uniqueid>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <votes>16</votes>
+    <outline></outline>
+    <plot>Dungeons &amp; Dragons (promovida como Caverna do Dragão no Brasil) foi uma famosa série estadunidense de desenho animado produzida pela Marvel Productions em associação à Dungeons e Dragons Corporation. A série, inspirada no famoso jogo de RPG Dungeons &amp; Dragons, possui 27 episódios, todos eles exibidos originalmente entre os anos de 1983 e 1986. Os episódios foram transmitidos pela rede norte-americana de televisão CBS durante três temporadas seguidas e no Brasil, pela TV aberta Rede Globo. O produtor do desenho foi Gary Gygax, um dos autores originais do jogo Dungeons &amp; Dragons.</plot>
+    <tagline></tagline>
+    <runtime>0</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77129-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77129-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77129-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/5499-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77129-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77129-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/77129-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77129-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77129-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/77129-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/5499-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/5499-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/5499-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/77129-0.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77129-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77129-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77129-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77129-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77129-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77129-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77129-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77129-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77129-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77129-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77129-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77129-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77129-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77129-5.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/77129-3.jpg">fanart/original/77129-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77129-4.jpg">fanart/original/77129-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77129-1.jpg">fanart/original/77129-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77129-2.jpg">fanart/original/77129-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77129-5.jpg">fanart/original/77129-5.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77129-6.jpg">fanart/original/77129-6.jpg</thumb>
+    </fanart>
+    <mpaa>TV-Y7</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="77129-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/77129/all/pt.zip</url>
+    </episodeguide>
+    <id>77129</id>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <genre>Fantasy</genre>
+    <premiered>1983-09-01</premiered>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>CBS</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Willie Aames</name>
+        <role>Hank</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/52879.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adam Rich</name>
+        <role>Presto</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/52888.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Don Most</name>
+        <role>Eric</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/52886.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sidney Miller</name>
+        <role>Dungeon Master</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/52887.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Cullen</name>
+        <role>Venger</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/52885.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tonia Gayle Smith</name>
+        <role>Diana</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/52884.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katie Leigh</name>
+        <role>Sheila</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/52883.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Teddy Field III</name>
+        <role>Bobby</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/52882.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bob Holt</name>
+        <role>Shadow Demon</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/52881.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frank Welker</name>
+        <role>Uni / Tiamat</role>
+        <order>9</order>
+        <thumb>http://thetvdb.com/banners/actors/52880.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

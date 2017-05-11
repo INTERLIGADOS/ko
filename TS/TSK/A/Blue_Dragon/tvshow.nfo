@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Blue Dragon</title>
+    <showtitle>Blue Dragon</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>6.400000</value>
+            <votes>5</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>This Japanese, animated show is based on the Xbox 360 game of the same title. Each year for the past ten years strange, purple clouds have appeared in the sky, bringing disasters to the locales over which they hang. Shu, Kluke, and Jiro are determined to fight back. Through some gnarly misadventures, the three friends find themselves trapped in a flying fortress. They end up swallowing glowing orbs which has the strange result of making their shadows transform into monsters; Kluke&apos;s becomes a blue phoenix, Jiro&apos;s a blue minotaur, and Shu&apos;s a blue dragon. Following their escape from the floating fortress, they encounter more people from towns that have also fallen victim to the purple clouds. The three friends realize they have to use their shadow-monster powers to stop Nene (the commander of the floating fortress) from destroying their world.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/80147-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/80147-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/80147-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/80147-1-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/80147-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/80147-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/80147-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/80147-1.jpg</thumb>
+    <fanart>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/80147-1.jpg">http://thetvdb.com/banners/fanart/original/80147-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/80147-2.jpg">http://thetvdb.com/banners/fanart/original/80147-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/80147-4.jpg">http://thetvdb.com/banners/fanart/original/80147-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/80147-3.jpg">http://thetvdb.com/banners/fanart/original/80147-3.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="80147-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/80147/all/pt.zip</url>
+    </episodeguide>
+    <id>80147</id>
+    <uniqueid type="unknown" default="true">80147</uniqueid>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <premiered>2007-04-07</premiered>
+    <year>2007</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>TV Tokyo</studio>
+    <trailer></trailer>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

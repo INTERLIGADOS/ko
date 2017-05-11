@@ -1,0 +1,20 @@
+<channels>
+
+	<channel>
+		<name>Pimeira Temporada</name>
+		<thumbnail>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Animes/Knights_Of_Sidonia/Temporada_01/poster.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Animes/Knights_Of_Sidonia/Temporada_01/Knights_Of_Sidonia.xml</externallink>
+			<fanart>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Animes/Knights_Of_Sidonia/fanart.jpg</fanart>
+			<info></info>
+		</channel>
+
+
+
+		<channel>
+			<name>Segunda Temporada</name>
+			<thumbnail>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Animes/Knights_Of_Sidonia/Temporada_02/poster.jpg</thumbnail>
+			<externallink>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Animes/Knights_Of_Sidonia/Temporada_02/Knights_Of_Sidonia.xml</externallink>
+			<fanart>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Animes/Knights_Of_Sidonia/fanart.jpg</fanart>
+			<info></info>
+		</channel>
+</channels>

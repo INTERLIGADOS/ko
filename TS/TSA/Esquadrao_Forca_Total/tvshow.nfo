@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Aqua Teen Hunger Force Forever</title>
+    <showtitle>Aqua Teen Hunger Force Forever</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.100000</value>
+            <votes>69</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>FryLock, Shake and Meatwad are three anthropomorphic fast food items in suburban southern New Jersey.</plot>
+    <tagline></tagline>
+    <runtime>11</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77120-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/5485-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77120-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/5485-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77120-g5.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77120-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77120-g6.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77120-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/77120.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/77120-6-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/77120-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/77120-5-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/77120-7-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77120-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="9">http://thetvdb.com/banners/seasons/77120-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77120-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/77120-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/77120-8-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/77120-10-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/77120-7-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/5485-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/77120-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/77120-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/77120-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="11">http://thetvdb.com/banners/seasons/77120-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/77120-8-2.jpg</thumb>
+    <thumb aspect="banner" type="season" season="10">http://thetvdb.com/banners/seasonswide/77120-10.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77120-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77120-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77120-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77120-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77120-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77120-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77120-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77120-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77120-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77120-5.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/77120-12.jpg">fanart/original/77120-12.jpg</thumb>
+        <thumb dim="1920x1080" colors="|8,4,5|255,245,98|111,85,62|" preview="_cache/fanart/original/77120-6.jpg">fanart/original/77120-6.jpg</thumb>
+        <thumb dim="1280x720" colors="|165,216,245|183,224,246|219,237,247|" preview="_cache/fanart/original/77120-4.jpg">fanart/original/77120-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77120-10.jpg">fanart/original/77120-10.jpg</thumb>
+        <thumb dim="1920x1080" colors="|250,240,83|94,64,36|120,31,17|" preview="_cache/fanart/original/77120-2.jpg">fanart/original/77120-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/77120-8.jpg">fanart/original/77120-8.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/77120-5.jpg">fanart/original/77120-5.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77120-14.jpg">fanart/original/77120-14.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77120-11.jpg">fanart/original/77120-11.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/77120-1.jpg">fanart/original/77120-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/77120-3.jpg">fanart/original/77120-3.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/77120-7.jpg">fanart/original/77120-7.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77120-15.jpg">fanart/original/77120-15.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77120-13.jpg">fanart/original/77120-13.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77120-9.jpg">fanart/original/77120-9.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77120-16.jpg">fanart/original/77120-16.jpg</thumb>
+    </fanart>
+    <mpaa>TV-MA</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="77120-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/77120/all/pt.zip</url>
+    </episodeguide>
+    <id>77120</id>
+    <uniqueid type="unknown" default="true">77120</uniqueid>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+    <premiered>2000-12-01</premiered>
+    <year>2000</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Adult Swim</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Carey Means</name>
+        <role>Frylock</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/52799.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dave Willis</name>
+        <role>Meatwad and Carl</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/52798.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dana Snyder</name>
+        <role>Master Shake</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/52797.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Schoolly D</name>
+        <role>Narrator</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/52796.jpg</thumb>
+    </actor>
+    <actor>
+        <name>C. Martin Croker</name>
+        <role></role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

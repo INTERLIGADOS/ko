@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Samurai Champloo</title>
+    <showtitle>Samurai Champloo</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.500000</value>
+            <votes>118</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Fuu, uma jovem de 15 anos, quer encontrar &quot;o samurai com cheiro de girassóis&quot; e tudo o que sabe a respeito dele, além disso, é que ele habita a outra extremidade do Japão e, no seu caminho, cruza com Mugen, um vagabundo de 20 anos, e Jin, um rônin de 20 anos, que deverão segui-la devido à uma aposta estupidamente perdida.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/79089-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/79089-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/79089-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/79089-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/79089-g6.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/79089-g5.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/24202-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/79089-1-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/79089-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/24202-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/79089-1-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/79089-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/79089-1-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/79089-1-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/79089-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/79089-1-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79089-9.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79089-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79089-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79089-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79089-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79089-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79089-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79089-10.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79089-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79089-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79089-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79089-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79089-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79089-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79089-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79089-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79089-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79089-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79089-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79089-2.jpg</thumb>
+    <fanart>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79089-13.jpg">http://thetvdb.com/banners/fanart/original/79089-13.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79089-15.jpg">http://thetvdb.com/banners/fanart/original/79089-15.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79089-14.jpg">http://thetvdb.com/banners/fanart/original/79089-14.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79089-16.jpg">http://thetvdb.com/banners/fanart/original/79089-16.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79089-12.jpg">http://thetvdb.com/banners/fanart/original/79089-12.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79089-3.jpg">http://thetvdb.com/banners/fanart/original/79089-3.jpg</thumb>
+        <thumb dim="1280x720" colors="FFf5737d,FF20 b5a,FFde29 a" preview="http://thetvdb.com/banners/_cache/fanart/original/79089-6.jpg">http://thetvdb.com/banners/fanart/original/79089-6.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79089-5.jpg">http://thetvdb.com/banners/fanart/original/79089-5.jpg</thumb>
+        <thumb dim="1280x720" colors="FFffffff,FF272c66,FFdc721e" preview="http://thetvdb.com/banners/_cache/fanart/original/79089-1.jpg">http://thetvdb.com/banners/fanart/original/79089-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79089-4.jpg">http://thetvdb.com/banners/fanart/original/79089-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79089-9.jpg">http://thetvdb.com/banners/fanart/original/79089-9.jpg</thumb>
+        <thumb dim="1920x1080" colors="FFbd7b59,FF5c3a1f,FFc63031" preview="http://thetvdb.com/banners/_cache/fanart/original/79089-7.jpg">http://thetvdb.com/banners/fanart/original/79089-7.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79089-11.jpg">http://thetvdb.com/banners/fanart/original/79089-11.jpg</thumb>
+        <thumb dim="1280x720" colors="FFc4c292,FF282f27,FF5c756f" preview="http://thetvdb.com/banners/_cache/fanart/original/79089-2.jpg">http://thetvdb.com/banners/fanart/original/79089-2.jpg</thumb>
+        <thumb dim="1280x720" colors="FFfff78c,FF535b8a,FFfdae b" preview="http://thetvdb.com/banners/_cache/fanart/original/79089-8.jpg">http://thetvdb.com/banners/fanart/original/79089-8.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79089-17.jpg">http://thetvdb.com/banners/fanart/original/79089-17.jpg</thumb>
+        <thumb dim="1280x720" colors="FFa32928,FFa32928,FFc1beb9" preview="http://thetvdb.com/banners/_cache/fanart/original/79089-10.jpg">http://thetvdb.com/banners/fanart/original/79089-10.jpg</thumb>
+    </fanart>
+    <mpaa>TV-MA</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="79089-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/79089/all/pt.zip</url>
+    </episodeguide>
+    <id>79089</id>
+    <uniqueid type="unknown" default="true">79089</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <premiered>2004-05-20</premiered>
+    <year>2004</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Fuji TV</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Kazuya Nakai</name>
+        <role>Mugen</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/367030.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ayako Kawasumi</name>
+        <role>Fuu</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/69588.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ginpei Sato</name>
+        <role>Jin</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/69586.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fumihiko Tachiki</name>
+        <role>Rikie</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/350389.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sayuri Yamauchi</name>
+        <role>Osuzu</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/350388.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Unsho Ishizuka</name>
+        <role>Mazou Sakami</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/350387.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ai Maeda</name>
+        <role>Koza</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/350392.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryuzaburo Otomo</name>
+        <role>Ishimatsu</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/350391.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Otoya Kawano</name>
+        <role>Ryujiro Sasaki</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/350390.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sakiko Tamagawa</name>
+        <role>Sara</role>
+        <order>9</order>
+        <thumb>http://thetvdb.com/banners/actors/350394.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Takayuki Sugo</name>
+        <role>Kariya Kagetoki</role>
+        <order>10</order>
+        <thumb>http://thetvdb.com/banners/actors/350393.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

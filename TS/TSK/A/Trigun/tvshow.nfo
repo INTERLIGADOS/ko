@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Trigun</title>
+    <showtitle>Trigun</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.800000</value>
+            <votes>39</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Vash é o pistoleiro mais temido de uma terra desértica, com uma recompensa de 60 bilhões duplos por sua cabeça, e tido como responsável pela destruição completa da Cidade de Julho. Entretanto Vash é um pacifista ferrenho que evita agressão ao máximo e não admite matar em hipótese alguma.&#x0D;&#x0A;Independente de gostar de violência ou não, ela o persegue: os lugares visitados por Vash são sempre arrasados por suas intervenções bem-intencionadas ou por pessoas buscando a recompensa. Uma dupla de agentes da companhia de seguros Bernadelli — Meryl Strife e Milly Thompson — o segue tentando minimizar os estragos provocados por sua passagem.</plot>
+    <tagline></tagline>
+    <runtime>0</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77680-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77680-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77680-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/6706-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77680-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/77680.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/77680-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77680-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/6706-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77680-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77680-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77680-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77680-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77680-10.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77680-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77680-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77680-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77680-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77680-11.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77680-9.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77680-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77680-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77680-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77680-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77680-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77680-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77680-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77680-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77680-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77680-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77680-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77680-2.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/77680-7.jpg">fanart/original/77680-7.jpg</thumb>
+        <thumb dim="1280x720" colors="|241,86,55|255,253,240|112,36,0|" preview="_cache/fanart/original/77680-2.jpg">fanart/original/77680-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="|11,12,17|2,3,7|6,7,12|" preview="_cache/fanart/original/77680-4.jpg">fanart/original/77680-4.jpg</thumb>
+        <thumb dim="1280x720" colors="|255,255,255|162,37,33|71,62,63|" preview="_cache/fanart/original/77680-1.jpg">fanart/original/77680-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/77680-8.jpg">fanart/original/77680-8.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77680-9.jpg">fanart/original/77680-9.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/77680-5.jpg">fanart/original/77680-5.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/77680-6.jpg">fanart/original/77680-6.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77680-3.jpg">fanart/original/77680-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77680-10.jpg">fanart/original/77680-10.jpg</thumb>
+    </fanart>
+    <mpaa>TV-PG</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="77680-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/77680/all/pt.zip</url>
+    </episodeguide>
+    <id>77680</id>
+    <uniqueid type="unknown" default="true">77680</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+    <genre>Western</genre>
+    <premiered>1998-04-01</premiered>
+    <year>1998</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>TV Tokyo</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Masaya Onosaka</name>
+        <role>Vash the Stampede</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/139681.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Satsuki Yukino</name>
+        <role>Milly Thompson</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/34683.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hiromi Tsuru</name>
+        <role>Meryl Stryfe</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/312113.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Toshihiko Seki</name>
+        <role>Legato Bluesummers</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/139551.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Akio Ootsuka</name>
+        <role>Raidei the Blade</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/366058.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aya Hisakawa</name>
+        <role>Rem Saverem</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/140161.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hiroshi Kamiya</name>
+        <role>Zazie the Beast</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/366056.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shou Hayami</name>
+        <role>Nicholas D. Wolfwood</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/366055.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

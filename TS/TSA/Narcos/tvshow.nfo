@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Narcos</title>
+    <showtitle>Narcos</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.900000</value>
+            <votes>68</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>A trama gira em torno do traficante Pablo Escobar (Wagner Moura), retratando a ascensão de um criminoso comum para um dos homens mais perigosos, procurados e ricos do mundo.</plot>
+    <tagline></tagline>
+    <runtime>0</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/282670-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/282670-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/282670-g3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/282670-2-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/282670-1-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/282670-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/282670-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/282670-1-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/282670-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/282670-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/282670-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/282670-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/282670-2-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/282670-1-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/282670-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/282670-2-4.jpg</thumb>
+    <thumb aspect="banner" type="season" season="2">http://thetvdb.com/banners/seasonswide/282670-2.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/282670-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-18.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-16.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-10.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-9.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-12.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-15.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-13.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-19.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-20.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-17.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-11.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/282670-14.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-18.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-16.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-12.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-15.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-13.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-19.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-20.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-17.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/282670-14.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/282670-2.jpg">fanart/original/282670-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/282670-5.jpg">fanart/original/282670-5.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/282670-9.jpg">fanart/original/282670-9.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/282670-4.jpg">fanart/original/282670-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/282670-1.jpg">fanart/original/282670-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/282670-13.jpg">fanart/original/282670-13.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/282670-3.jpg">fanart/original/282670-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/282670-6.jpg">fanart/original/282670-6.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/282670-8.jpg">fanart/original/282670-8.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/282670-7.jpg">fanart/original/282670-7.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/282670-10.jpg">fanart/original/282670-10.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/282670-12.jpg">fanart/original/282670-12.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/282670-11.jpg">fanart/original/282670-11.jpg</thumb>
+    </fanart>
+    <mpaa>TV-MA</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="282670-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/282670/all/pt.zip</url>
+    </episodeguide>
+    <id>282670</id>
+    <uniqueid type="unknown" default="true">282670</uniqueid>
+    <genre>Action</genre>
+    <genre>Drama</genre>
+    <premiered>2015-08-28</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Netflix</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Wagner Moura</name>
+        <role>Pablo Escobar</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/331228.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Boyd Holbrook</name>
+        <role>Steve Murphy</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/354583.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pedro Pascal</name>
+        <role>Javier Peña</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/346213.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paulina García</name>
+        <role>Hermilda Gaviria</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/405722.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Germán Jaramillo</name>
+        <role>Gustavo De Greiff</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/405719.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juan Pablo Shuk</name>
+        <role>Colonel Martínez</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/405712.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sebastian Vega</name>
+        <role>Hugo Martinez Jr.</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/393704.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Raúl Méndez</name>
+        <role>Presidente Gaviria</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/354717.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luis Guzmán</name>
+        <role>Gacha</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/354597.jpg</thumb>
+    </actor>
+    <actor>
+        <name>André Mattos</name>
+        <role>Jorge Ochoa</role>
+        <order>9</order>
+        <thumb>http://thetvdb.com/banners/actors/354596.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paulina Gaitan</name>
+        <role>Tata Escobar</role>
+        <order>10</order>
+        <thumb>http://thetvdb.com/banners/actors/354595.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jorge A. Jimenez</name>
+        <role>Poison</role>
+        <order>11</order>
+        <thumb>http://thetvdb.com/banners/actors/354594.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danielle Kennedy</name>
+        <role>Ambassador Noonan</role>
+        <order>12</order>
+        <thumb>http://thetvdb.com/banners/actors/354593.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ana de la Reguera</name>
+        <role>Elisa Alvarez</role>
+        <order>13</order>
+        <thumb>http://thetvdb.com/banners/actors/354592.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephanie Sigman</name>
+        <role>Valeria Velez</role>
+        <order>14</order>
+        <thumb>http://thetvdb.com/banners/actors/354590.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joanna Christie</name>
+        <role>Connie Murphy</role>
+        <order>15</order>
+        <thumb>http://thetvdb.com/banners/actors/354588.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maurice Compte</name>
+        <role>Horacio Carrillo</role>
+        <order>16</order>
+        <thumb>http://thetvdb.com/banners/actors/354586.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Juan Pablo Raba</name>
+        <role>Gustavo Gaviria</role>
+        <order>17</order>
+        <thumb>http://thetvdb.com/banners/actors/354584.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ariel Sierra</name>
+        <role>Sure Shot</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gustavo Angarita Jr.</name>
+        <role>Fidel Castaño</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mauricio Mejía</name>
+        <role>Carlos Castaño</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

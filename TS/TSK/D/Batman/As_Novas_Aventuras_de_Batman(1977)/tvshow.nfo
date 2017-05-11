@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>The New Adventures of Batman</title>
+    <showtitle>The New Adventures of Batman</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>6.500000</value>
+            <votes>4</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>As novas aventuras de Batman é um desenho animado que foi ao ar na CBS de 12 de fevereiro a 28 de maio de 1977 , apresentando os super-heróis da DC Comics Batman e Robin , e Batgirl . A série foi uma produção de Filmation e DC Comics em associação com a Warner Bros. Television (cuja atual empresa-mãe é a Time Warner ).</plot>
+    <tagline></tagline>
+    <runtime>30</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/70909-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/70909-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/70909-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70909-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70909-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70909-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70909-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70909-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70909-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70909-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70909-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70909-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70909-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70909-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70909-1.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/70909-2.jpg">fanart/original/70909-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/70909-1.jpg">fanart/original/70909-1.jpg</thumb>
+    </fanart>
+    <mpaa>TV-Y7</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="70909-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/70909/all/pt.zip</url>
+    </episodeguide>
+    <id>70909</id>
+    <uniqueid type="unknown" default="true">70909</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <premiered>1977-02-01</premiered>
+    <year>1977</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>CBS</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Adam West</name>
+        <role></role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Burt Ward</name>
+        <role></role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lennie Weinrib</name>
+        <role></role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lou Scheimer</name>
+        <role></role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Melendy Britt</name>
+        <role></role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

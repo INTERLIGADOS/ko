@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Andy Panda</title>
+    <showtitle>Andy Panda</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.000000</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Andy Panda is a cartoon character who starred in his own series of animated cartoon short subjects produced by Walter Lantz. These &quot;cartunes&quot; were released by Universal Pictures from 1939 to 1947 and United Artists from 1948 to 1949. The titular character is an anthropomorphic cartoon character, a cute panda.</plot>
+    <tagline></tagline>
+    <runtime>7</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/255893-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/255893-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/255893-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/255893-1.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/255893-1.jpg">fanart/original/255893-1.jpg</thumb>
+    </fanart>
+    <mpaa>TV-G</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="255893-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/255893/all/pt.zip</url>
+    </episodeguide>
+    <id>255893</id>
+    <uniqueid type="unknown" default="true">255893</uniqueid>
+    <genre>Animation</genre>
+    <premiered>1939-09-09</premiered>
+    <year>1939</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

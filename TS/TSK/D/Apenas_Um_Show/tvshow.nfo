@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Apenas Um Show</title>
+    <showtitle>Apenas Um Show</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.000000</value>
+            <votes>37</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Apenas um Show é um desenho animado criado por J. G. Quintel para a Cartoon Network estreado no dia 6 de Setembro de 2010. A série gira em torno da vida de dois amigos, um gaio-azul chamado Mordecai (Quintel) e um guaxinim chamado Rigby (William Salyers), ambos empregados como jardineiros no parque municipal. Suas tentativas de fugir do trabalho e se divertir geralmente os levam a aventuras surreais, extremas, e muitas vezes sobrenaturais. Durante essas aventuras, eles interagem com outros personagens principais da série: Benson (Sam Marin), Pairulito (Marin), Musculoso (Marin), Fantasmão (Quintel), Saltitão (Mark Hamill) e Margaret (Janie Haddad-Tompkins).</plot>
+    <tagline></tagline>
+    <runtime>11</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/188401-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/188401-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/188401-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/188401-g5.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/188401-g4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/188401-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/188401-7-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/188401-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/188401-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/188401-3-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/188401-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/188401-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/188401-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/188401-5-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/188401-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/188401-5-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/188401-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/188401-7-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/188401-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/188401-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/188401-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/188401-4-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/188401-6-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/188401-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/188401-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/188401-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/188401-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/188401-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/188401-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/188401-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/188401-9.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/188401-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/188401-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/188401-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/188401-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/188401-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/188401-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/188401-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/188401-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/188401-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/188401-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/188401-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/188401-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/188401-10.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/188401-10.jpg">fanart/original/188401-10.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/188401-8.jpg">fanart/original/188401-8.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/188401-12.jpg">fanart/original/188401-12.jpg</thumb>
+        <thumb dim="1280x720" colors="|178,204,205|119,97,86|166,185,183|" preview="_cache/fanart/original/188401-4.jpg">fanart/original/188401-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/188401-6.jpg">fanart/original/188401-6.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/188401-2.jpg">fanart/original/188401-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/188401-9.jpg">fanart/original/188401-9.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/188401-5.jpg">fanart/original/188401-5.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/188401-7.jpg">fanart/original/188401-7.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/188401-3.jpg">fanart/original/188401-3.jpg</thumb>
+        <thumb dim="1280x720" colors="|164,183,76|175,116,136|143,121,84|" preview="_cache/fanart/original/188401-15.jpg">fanart/original/188401-15.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/188401-11.jpg">fanart/original/188401-11.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/188401-13.jpg">fanart/original/188401-13.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/188401-14.jpg">fanart/original/188401-14.jpg</thumb>
+    </fanart>
+    <mpaa>TV-PG</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="188401-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/188401/all/pt.zip</url>
+    </episodeguide>
+    <id>188401</id>
+    <uniqueid type="unknown" default="true">188401</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+    <premiered>2010-09-06</premiered>
+    <year>2010</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Cartoon Network</studio>
+    <trailer></trailer>
+    <actor>
+        <name>J.G. Quintel</name>
+        <role>Mordecai|High Five Ghost</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/203111.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Salyers</name>
+        <role>Rigby</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/203121.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Marin</name>
+        <role>Benson|Pops|Muscle Man</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/312107.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Courtenay Taylor</name>
+        <role>Starla</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/380848.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Linda Cardellini</name>
+        <role>C. J.</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/380847.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Minty Lewis</name>
+        <role>Eileen</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/312548.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roger Craig Smith</name>
+        <role>Thomas</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/312547.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Janie Haddad</name>
+        <role>Margaret</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/312108.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Hamill</name>
+        <role>Skips</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/180971.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

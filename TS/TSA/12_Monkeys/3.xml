@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<main_menu>
+<menu_info>
+<title>[COLOR lime]DannyMovies[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<date>29-Noviembre 2016</date>
+<credits>Danny Tosado</credits>
+</menu_info>
+
+<channel>
+ <name>Series</name>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ <action>getfile_http</action>
+ <url>http://pastebin.com/raw/E7yXLsgb</url>
+ </channel>
+ 
+ <subchannel>
+  <name>Series</name>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <action>xml_lists</action> 
+  <url>http://pastebin.com/raw/E7yXLsgb</url>
+  </subchannel>
+</main_menu>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Knights of Sidonia</title>
+    <showtitle>Knights of Sidonia</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.100000</value>
+            <votes>11</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Tem se passado mil anos desde a Gauna, uma raça alienígena estranha com nenhum método conhecido de comunicação, destruiu o sistema solar. Uma porção da humanidade conseguiu escapar usando enormes naves como a Sidonia, que lhes permitiu manter a população enquanto deriva pelo espaço. Nagate Tanikaze é um jovem que tem sido criado nas entranhas do navio. Quando ele entra em formação para pilotar as grandes armas robóticas, ele é encarregado de pilotar a unidade lendária conhecido como Tsugumori. Nagate e seus companheiros pilotos colocam suas vidas em jogo contra o Gauna, na batalha final para a sobrevivência da humanidade!</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/278154-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/278154-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/278154-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/278154-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/278154.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/278154-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/278154-0-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/278154-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/278154-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/278154-2.jpg</thumb>
+    <thumb aspect="banner" type="season" season="2">http://thetvdb.com/banners/seasonswide/278154-2-3.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/278154-1-2.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/278154-1.jpg</thumb>
+    <thumb aspect="banner" type="season" season="2">http://thetvdb.com/banners/seasonswide/278154-2-2.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/278154-1-3.jpg</thumb>
+    <thumb aspect="banner" type="season" season="2">http://thetvdb.com/banners/seasonswide/278154-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/278154-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/278154-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/278154-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/278154-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/278154-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/278154-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/278154-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/278154-9.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/278154-10.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/278154-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/278154-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/278154-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/278154-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/278154-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/278154-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/278154-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/278154-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/278154-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/278154-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/278154-7.jpg</thumb>
+    <fanart>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/278154-4.jpg">http://thetvdb.com/banners/fanart/original/278154-4.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/278154-2.jpg">http://thetvdb.com/banners/fanart/original/278154-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/278154-1.jpg">http://thetvdb.com/banners/fanart/original/278154-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="FFf5f3f6,FF 81327,FF4c71c2" preview="http://thetvdb.com/banners/_cache/fanart/original/278154-3.jpg">http://thetvdb.com/banners/fanart/original/278154-3.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/278154-10.jpg">http://thetvdb.com/banners/fanart/original/278154-10.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/278154-9.jpg">http://thetvdb.com/banners/fanart/original/278154-9.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/278154-8.jpg">http://thetvdb.com/banners/fanart/original/278154-8.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/278154-5.jpg">http://thetvdb.com/banners/fanart/original/278154-5.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/278154-7.jpg">http://thetvdb.com/banners/fanart/original/278154-7.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/278154-6.jpg">http://thetvdb.com/banners/fanart/original/278154-6.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/278154-14.jpg">http://thetvdb.com/banners/fanart/original/278154-14.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/278154-15.jpg">http://thetvdb.com/banners/fanart/original/278154-15.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/278154-12.jpg">http://thetvdb.com/banners/fanart/original/278154-12.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/278154-11.jpg">http://thetvdb.com/banners/fanart/original/278154-11.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/278154-13.jpg">http://thetvdb.com/banners/fanart/original/278154-13.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="278154-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/278154/all/pt.zip</url>
+    </episodeguide>
+    <id>278154</id>
+    <uniqueid type="unknown" default="true">278154</uniqueid>
+    <genre>Action</genre>
+    <genre>Animation</genre>
+    <genre>Science-Fiction</genre>
+    <premiered>2014-04-04</premiered>
+    <year>2014</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>MBS</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Ryōta Ōsaka</name>
+        <role>Nagate Tanikaze</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/330496.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Takahiro Sakurai</name>
+        <role>Norio Kunato</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/356457.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hisako Kanemoto</name>
+        <role>Yuhata Midorikawa</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/330499.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sayaka Ohara</name>
+        <role>Capitaine Kobayashi</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/352417.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Takehito Koyasu</name>
+        <role>Ochiai</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/352416.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aya Suzaki</name>
+        <role>Shizuka Hoshijiro</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/373426.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aki Toyosaki</name>
+        <role>Izana Shinatose</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/330497.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

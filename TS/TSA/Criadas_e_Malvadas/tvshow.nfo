@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Criadas e Malvadas</title>
+    <showtitle>Criadas e Malvadas</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>7.900000</value>
+            <votes>22</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>A série acompanha quatro mulheres, cada uma com seus próprios sonhos e ambições. Todas elas trabalham para os ricos e famosos em Beverly Hills. E, como dizem os segredos, tudo gira em torno de assassinatos e caos.</plot>
+    <tagline></tagline>
+    <runtime>45</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/261802-g8.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/261802-g5.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/261802-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/261802-g7.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/261802-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/261802-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/261802-g6.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/261802-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/261802.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/261802-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/261802-4-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/261802-1-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/261802-4-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/261802-1-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/261802-1-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/261802-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/261802-4-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/261802-1-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/261802-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/261802-2-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/261802-1-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/261802-3-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/261802-1-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/261802-3-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/261802-4-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/261802-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/261802-1-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/261802-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/261802-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/261802-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/261802-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/261802-2-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/261802-3-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/261802-3-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/261802-1-2.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/261802-1-2.jpg</thumb>
+    <thumb aspect="banner" type="season" season="2">http://thetvdb.com/banners/seasonswide/261802-2.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/261802-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/261802-11.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/261802-10.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/261802-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/261802-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/261802-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/261802-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/261802-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/261802-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/261802-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/261802-9.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/261802-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/261802-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/261802-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/261802-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/261802-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/261802-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/261802-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/261802-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/261802-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/261802-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/261802-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/261802-2.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/261802-14.jpg">fanart/original/261802-14.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/261802-7.jpg">fanart/original/261802-7.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/261802-3.jpg">fanart/original/261802-3.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/261802-8.jpg">fanart/original/261802-8.jpg</thumb>
+        <thumb dim="1920x1080" colors="|248,65,83|248,65,83|191,35,49|" preview="_cache/fanart/original/261802-11.jpg">fanart/original/261802-11.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/261802-1.jpg">fanart/original/261802-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/261802-5.jpg">fanart/original/261802-5.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/261802-4.jpg">fanart/original/261802-4.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/261802-9.jpg">fanart/original/261802-9.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/261802-10.jpg">fanart/original/261802-10.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/261802-2.jpg">fanart/original/261802-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/261802-16.jpg">fanart/original/261802-16.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/261802-15.jpg">fanart/original/261802-15.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/261802-13.jpg">fanart/original/261802-13.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/261802-12.jpg">fanart/original/261802-12.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/261802-6.jpg">fanart/original/261802-6.jpg</thumb>
+    </fanart>
+    <mpaa>TV-PG</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="261802-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/261802/all/pt.zip</url>
+    </episodeguide>
+    <id>261802</id>
+    <uniqueid type="unknown" default="true">261802</uniqueid>
+    <genre>Comedy</genre>
+    <genre>Drama</genre>
+    <premiered>2013-06-23</premiered>
+    <year>2013</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Lifetime</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Ana Ortiz</name>
+        <role>Marisol Suarez</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/302700.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dania Ramirez</name>
+        <role>Rosie Falta</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/302703.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roselyn Sanchez</name>
+        <role>Carmen Luna</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/302702.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Edy Ganem</name>
+        <role>Valentina Diaz</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/302704.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Judy Reyes</name>
+        <role>Zoila Diaz</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/302701.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julie Claire</name>
+        <role>Gail Fleming</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/381932.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Travis Quentin Young</name>
+        <role>Doug</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/381930.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Willie C. Carpenter</name>
+        <role>Kenneth Miller</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/381357.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Reggie Austin</name>
+        <role>Reggie Miller</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/381355.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kimberly Hebert Gregory</name>
+        <role>Lucinda Miller</role>
+        <order>9</order>
+        <thumb>http://thetvdb.com/banners/actors/381354.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tiffany Hines</name>
+        <role>Didi Miller</role>
+        <order>10</order>
+        <thumb>http://thetvdb.com/banners/actors/381353.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colin Woodell</name>
+        <role>Ethan Sinclair</role>
+        <order>11</order>
+        <thumb>http://thetvdb.com/banners/actors/381118.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joanna P. Adler</name>
+        <role>Opal Sinclair</role>
+        <order>12</order>
+        <thumb>http://thetvdb.com/banners/actors/381117.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dominic Adams</name>
+        <role>Tony Bishara</role>
+        <order>13</order>
+        <thumb>http://thetvdb.com/banners/actors/381116.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Deklin</name>
+        <role>Nicholas Deering</role>
+        <order>14</order>
+        <thumb>http://thetvdb.com/banners/actors/381115.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Matt Cedeno</name>
+        <role>Alejandro</role>
+        <order>15</order>
+        <thumb>http://thetvdb.com/banners/actors/381114.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carlos Ponce</name>
+        <role>Benjamin Pacheco</role>
+        <order>16</order>
+        <thumb>http://thetvdb.com/banners/actors/380924.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nathan Owens</name>
+        <role>Jesse Morgan</role>
+        <order>17</order>
+        <thumb>http://thetvdb.com/banners/actors/380923.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryan McPartlin</name>
+        <role>Kyle</role>
+        <order>18</order>
+        <thumb>http://thetvdb.com/banners/actors/380922.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephanie Faracy</name>
+        <role>Frances</role>
+        <order>19</order>
+        <thumb>http://thetvdb.com/banners/actors/380921.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sol Rodríguez</name>
+        <role>Daniela Mercado</role>
+        <order>20</order>
+        <thumb>http://thetvdb.com/banners/actors/380920.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Denton</name>
+        <role>Peter</role>
+        <order>21</order>
+        <thumb>http://thetvdb.com/banners/actors/380919.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grant Show</name>
+        <role>Spence Westmore</role>
+        <order>22</order>
+        <thumb>http://thetvdb.com/banners/actors/311133.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Melinda Page Hamilton</name>
+        <role>Odessa</role>
+        <order>23</order>
+        <thumb>http://thetvdb.com/banners/actors/311132.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Irwin</name>
+        <role>Adrian Powell</role>
+        <order>24</order>
+        <thumb>http://thetvdb.com/banners/actors/302713.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mariana Klaveno</name>
+        <role>Peri Westmore</role>
+        <order>25</order>
+        <thumb>http://thetvdb.com/banners/actors/302711.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brett Cullen</name>
+        <role>Michael Stappord</role>
+        <order>26</order>
+        <thumb>http://thetvdb.com/banners/actors/302710.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Drew Van Acker</name>
+        <role>Remi Delatour</role>
+        <order>27</order>
+        <thumb>http://thetvdb.com/banners/actors/302708.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Brianna Brown</name>
+        <role>Taylor Stappord</role>
+        <order>28</order>
+        <thumb>http://thetvdb.com/banners/actors/302707.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Susan Lucci</name>
+        <role>Genevieve Delatour</role>
+        <order>29</order>
+        <thumb>http://thetvdb.com/banners/actors/302706.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Wisocky</name>
+        <role>Evelyn Powell</role>
+        <order>30</order>
+        <thumb>http://thetvdb.com/banners/actors/302705.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

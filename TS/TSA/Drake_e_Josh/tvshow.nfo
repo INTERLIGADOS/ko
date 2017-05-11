@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Drake e Josh</title>
+    <showtitle>Drake e Josh</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.600000</value>
+            <votes>10</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>A nova comédia adolescente da Nickelodeon estrelado por Drake Bell e Josh Peck. Este é um spin-off de The Amanda Show, um show de variedades cancelado Nickelodeon estrelando a comédia atriz Amanda Bynes. Drake e Josh eram atores no show. &#x0D;&#x0A;&#x0D;&#x0A;15-year-old Drake e Josh são colegas, mas amigos não íntimos. Drake encara Josh tão estranho e um pouco de brincadeira. Então, imagine o choque de Drake quando ele descobre que esta &quot;brincadeira&quot; está prestes a se tornar o seu novo meio-irmão e companheiro de quarto quando sua mãe se casa com o pai de Josh.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/79357-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/79357-g2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/79357-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/79357-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/79357-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/79357-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/79357-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79357-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79357-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79357-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79357-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79357-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79357-1.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/79357-1.jpg">fanart/original/79357-1.jpg</thumb>
+    </fanart>
+    <mpaa>TV-PG</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="79357-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/79357/all/pt.zip</url>
+    </episodeguide>
+    <id>79357</id>
+    <uniqueid type="unknown" default="true">79357</uniqueid>
+    <genre>Children</genre>
+    <genre>Comedy</genre>
+    <premiered>2004-01-11</premiered>
+    <year>2004</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Nickelodeon</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Drake Bell</name>
+        <role>Drake Parker</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/70993.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Peck</name>
+        <role>Josh Nichols</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/70996.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Miranda Cosgrove</name>
+        <role>Megan Parker</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/70997.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jonathan Goldstein</name>
+        <role>Walter Nichols</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/70995.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nancy Sullivan</name>
+        <role>Audrey Parker-Nichols</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/70994.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scott Halberstadt</name>
+        <role>Eric</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/386127.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dianna Agron</name>
+        <role>Lexi</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/386126.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Allison Scagliotti</name>
+        <role>Mindy Crenshaw</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/386125.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alec Medlock</name>
+        <role>Craig</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/386124.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Sussman</name>
+        <role>Clayton</role>
+        <order>9</order>
+        <thumb>http://thetvdb.com/banners/actors/375572.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jerry Trainor</name>
+        <role>Steve / Crazy Steve</role>
+        <order>10</order>
+        <thumb>http://thetvdb.com/banners/actors/375569.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yvette Nicole Brown</name>
+        <role>Helen</role>
+        <order>11</order>
+        <thumb>http://thetvdb.com/banners/actors/375567.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

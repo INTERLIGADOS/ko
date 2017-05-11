@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>The Wonder Years</title>
+    <showtitle>The Wonder Years</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.500000</value>
+            <votes>21</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>The Wonder YearsThe Wonder Years (Anos Incr°veis, no Brasil) foi uma sÇrie de televisao americana criada por Carol Black e Neal Marlens. Durou seis temporadas na rede americana ABC, de 1988 a 1993. No Brasil, o programa foi exibido pela primeira vez na TV Cultura em meados da dÇcada de 1990 obtendo enorme sucesso, mais tarde TV Bandeirantes, Multishow e Rede 21 tambÇm exibiram a sÇrie atÇ voltar Ö TV Cultura novamente.Wonder Years apresentou as questoes sociais e os eventos hist¢ricos do final dos anos 60 e in°cio dos anos 70, recheado de m£sicas da Çpoca atravÇs dos olhos do protagonista Kevin Arnold, que tambÇm vive os assuntos da adolescància (principalmente com seu grande amigo Paul e sua paquera, Winnie Cooper), diversas situaáoes com seus familiares e outros. Enquanto se passam as hist¢rias, os acontecimentos sao narrados por um Kevin mais velho e experiente, que descreve o que acontece e conta o que aprendeu de suas experiàncias. ê isso que torna a sÇrie especial e diferente das outras.A m£sica de abertura Ç uma versao de Joe Cocker da canáao "With a Little Help from My Friends", dos Beatles.</plot>
+    <tagline></tagline>
+    <runtime>30</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72888-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72888-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/208-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/80721-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72888-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/208.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/72888-0-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/72888-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/72888-6-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/72888-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/72888-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/72888-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/72888-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/208-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/208-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/208-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/72888-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/208-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/208-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/208-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/72888-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/80721-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72888-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72888-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72888-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72888-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72888-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72888-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72888-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72888-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72888-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72888-7.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72888-11.jpg">fanart/original/72888-11.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72888-4.jpg">fanart/original/72888-4.jpg</thumb>
+        <thumb dim="1280x720" colors="|237,234,227|3,1,2|195,198,217|" preview="_cache/fanart/original/72888-1.jpg">fanart/original/72888-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="|238,120,80|46,22,10|234,228,228|" preview="_cache/fanart/original/72888-3.jpg">fanart/original/72888-3.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72888-2.jpg">fanart/original/72888-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72888-5.jpg">fanart/original/72888-5.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72888-7.jpg">fanart/original/72888-7.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72888-6.jpg">fanart/original/72888-6.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72888-8.jpg">fanart/original/72888-8.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72888-9.jpg">fanart/original/72888-9.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72888-10.jpg">fanart/original/72888-10.jpg</thumb>
+    </fanart>
+    <mpaa>TV-PG</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="72888-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/72888/all/pt.zip</url>
+    </episodeguide>
+    <id>72888</id>
+    <uniqueid type="unknown" default="true">72888</uniqueid>
+    <genre>Comedy</genre>
+    <premiered>1988-01-31</premiered>
+    <year>1988</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>ABC (US)</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Fred Savage</name>
+        <role>Kevin Arnold</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/21027.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danica McKellar</name>
+        <role>Gwendoline &quot;Winnie&quot; Cooper</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/21026.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Saviano</name>
+        <role>Paul Pfeiffer</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/21030.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Lauria</name>
+        <role>Jack Arnold</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/21033.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Hervey</name>
+        <role>Wayne Arnold</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/21032.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alley Mills</name>
+        <role>Norma Arnold</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/21031.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Olivia d&apos;Abo</name>
+        <role>Karen Arnold</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/21029.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daniel Stern</name>
+        <role>Narrator|Adult Kevin</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

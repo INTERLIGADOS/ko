@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Batman: os bravos e destemidos</title>
+    <showtitle>Batman: os bravos e destemidos</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.000000</value>
+            <votes>25</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Batman: The Brave and the Bold (no Brasil, Batman: os bravos e destemidos) é uma série de desenho animado estadunidense produzida em conjunto pela Warner Bros. em colaboração com a DC Comics. O enredo é baseado na série de histórias em quadrinhos The Brave and the Bold.&#x0D;&#x0A;&#x0D;&#x0A;O desenho enfoca em Batman trabalhando em conjunto com diferentes heróis do Universo DC, como o Arqueiro Verde e o Besouro Azul, na luta contra os criminosos. O tom sério e sombrio das animações anteriores do Homem-Morcego foram substituídos pelos textos bem-humorados, lembrando o seriado da década de 1960 e as HQs feitas por Dick Sprang. O desenho mostra Batman trabalhando com heróis da Era de Ouro dos quadrinhos, como o primeiro Flash, Jay Garrick.&#x0D;&#x0A;&#x0D;&#x0A;No Brasil, a série estreou no dia 4 de abril de 2009 no Cartoon Network e no programa Bom Dia &amp; Cia do SBT em 5 de outubro de 2009.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/82824-g5.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/82824-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/82824-g4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/82824-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/82824-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/82824-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/82824-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/82824-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/82824-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82824-10.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82824-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82824-11.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82824-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82824-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82824-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82824-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82824-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82824-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82824-9.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82824-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82824-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82824-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82824-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82824-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82824-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82824-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82824-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82824-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82824-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82824-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82824-2.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/82824-10.jpg">fanart/original/82824-10.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/82824-11.jpg">fanart/original/82824-11.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/82824-5.jpg">fanart/original/82824-5.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/82824-8.jpg">fanart/original/82824-8.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/82824-7.jpg">fanart/original/82824-7.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/82824-2.jpg">fanart/original/82824-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/82824-3.jpg">fanart/original/82824-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/82824-4.jpg">fanart/original/82824-4.jpg</thumb>
+        <thumb dim="1280x720" colors="|6,7,9|6,7,9|6,7,9|" preview="_cache/fanart/original/82824-1.jpg">fanart/original/82824-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/82824-9.jpg">fanart/original/82824-9.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/82824-6.jpg">fanart/original/82824-6.jpg</thumb>
+    </fanart>
+    <mpaa>TV-Y7</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="82824-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/82824/all/pt.zip</url>
+    </episodeguide>
+    <id>82824</id>
+    <uniqueid type="unknown" default="true">82824</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <premiered>2008-11-14</premiered>
+    <year>2008</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Cartoon Network</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Diedrich Bader</name>
+        <role>Batman, Kilowog, Ace, Owlman, Solomon Grundy, Punch</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/79826.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Di Maggio</name>
+        <role>Aquaman, Gorilla Grodd, Tiger Soldier, Enemy Ace, Ubu, Faceless Hunter</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/79827.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Arnold Taylor</name>
+        <role>Green Arrow</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Corey Burton</name>
+        <role>Doc Magnus/Red Tornado</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dee Bradley Baker</name>
+        <role>Clock King</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/41769.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Greg Ellis</name>
+        <role>Cavalier</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Grey DeLisle</name>
+        <role>Black Canary</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeff Bennett</name>
+        <role>Joker</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Shada</name>
+        <role>Robin</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevin Michael Richardson</name>
+        <role>Black Manta</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nika Futterman</name>
+        <role>Catwoman</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom Everett Scott</name>
+        <role>Booster Gold</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom Kenny</name>
+        <role>Plastic Man</role>
+        <order>14</order>
+        <thumb>http://thetvdb.com/banners/actors/41762.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Friedle</name>
+        <role>Blue Beetle</role>
+        <order>15</order>
+        <thumb>http://thetvdb.com/banners/actors/38926.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

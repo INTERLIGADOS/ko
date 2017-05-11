@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Bloodline</title>
+    <showtitle>Bloodline</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>7.100000</value>
+            <votes>10</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>The Rayburns are hard-working pillars of their Florida Keys community. But when the black sheep son comes home for the 45th anniversary of his parents&apos; hotel, he threatens to expose the Rayburns&apos; dark secrets and shameful past, pushing his siblings to the limits of family loyalty.</plot>
+    <tagline></tagline>
+    <runtime>60</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/287314-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/287314-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/287314-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/287314-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/287314-g5.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/287314-g7.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/287314-g6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/287314-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/287314-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/287314-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/287314-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/287314-2-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/287314-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/287314-12.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/287314-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/287314-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/287314-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/287314-10.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/287314-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/287314-11.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/287314-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/287314-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/287314-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/287314-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/287314-12.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/287314-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/287314-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/287314-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/287314-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/287314-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/287314-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/287314-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/287314-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/287314-5.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/287314-4.jpg">fanart/original/287314-4.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/287314-11.jpg">fanart/original/287314-11.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/287314-2.jpg">fanart/original/287314-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/287314-1.jpg">fanart/original/287314-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/287314-8.jpg">fanart/original/287314-8.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/287314-3.jpg">fanart/original/287314-3.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/287314-5.jpg">fanart/original/287314-5.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/287314-9.jpg">fanart/original/287314-9.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/287314-7.jpg">fanart/original/287314-7.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/287314-6.jpg">fanart/original/287314-6.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/287314-10.jpg">fanart/original/287314-10.jpg</thumb>
+    </fanart>
+    <mpaa>TV-MA</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="287314-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/287314/all/pt.zip</url>
+    </episodeguide>
+    <id>287314</id>
+    <uniqueid type="unknown" default="true">287314</uniqueid>
+    <genre>Drama</genre>
+    <genre>Mystery</genre>
+    <genre>Thriller</genre>
+    <premiered>2015-03-20</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Netflix</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Kyle Chandler</name>
+        <role>John Rayburn</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/338815.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Mendelsohn</name>
+        <role>Danny Rayburn</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/338818.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Linda Cardellini</name>
+        <role>Meg Rayburn</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/380847.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Enrique Murciano</name>
+        <role>Marco Diaz</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/395269.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jamie McShane</name>
+        <role>Eric O&apos;Bannon</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/344301.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jacinda Barrett</name>
+        <role>Diana Rayburn</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/344300.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Norbert Leo Butz</name>
+        <role>Kevin Rayburn</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/344299.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sissy Spacek</name>
+        <role>Sally Rayburn</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/344298.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Shepard</name>
+        <role>Robert Rayburn</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/344297.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

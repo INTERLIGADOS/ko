@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>xxxHOLiC</title>
+    <showtitle>xxxHOLiC</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>7.800000</value>
+            <votes>20</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Watanuki Kimihiro, é um jovem estudante que tem o dom de ver e atrair fantasmas e espíritos (ayakashi). Um dia, ao ser atacado por uma ayakashi, acaba entrando em uma loja. A dona do lugar é Ichihara Yuuko, uma mulher que diz que o fato dele ter entrado lá não foi coincidência. Aquela é uma loja onde se realiza desejos, e ele tinha um. Porém para que seja concedido, é necessário pagar um preço equivalente. Watanuki então, deseja não ver mais os espíritos, e para poder pagar o preço, &quot;aceita&quot; (e forçado) a oferta de Yuuko para trabalhar em sua loja.&#x0D;&#x0A;A partir desse momento, sua vida muda completamente. Watanuki passa a se envolver nas histórias misteriosas dos clientes de Yuuko, e com ela aprende não só sobre as situações mágicas que o cercam, mas também sobre si mesmo.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/79283-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/79283-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/x4169x-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/79283-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/79283-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/79283-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/x4169x-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79283-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79283-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79283-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79283-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79283-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79283-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79283-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79283-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79283-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79283-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79283-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79283-5.jpg</thumb>
+    <fanart>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79283-3.jpg">http://thetvdb.com/banners/fanart/original/79283-3.jpg</thumb>
+        <thumb dim="1280x720" colors="FFe8e8e8,FF 0 0 0,FFe0ddd8" preview="http://thetvdb.com/banners/_cache/fanart/original/79283-1.jpg">http://thetvdb.com/banners/fanart/original/79283-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79283-4.jpg">http://thetvdb.com/banners/fanart/original/79283-4.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79283-6.jpg">http://thetvdb.com/banners/fanart/original/79283-6.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79283-2.jpg">http://thetvdb.com/banners/fanart/original/79283-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79283-7.jpg">http://thetvdb.com/banners/fanart/original/79283-7.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79283-5.jpg">http://thetvdb.com/banners/fanart/original/79283-5.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79283-8.jpg">http://thetvdb.com/banners/fanart/original/79283-8.jpg</thumb>
+    </fanart>
+    <mpaa>TV-14</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="79283-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/79283/all/pt.zip</url>
+    </episodeguide>
+    <id>79283</id>
+    <uniqueid type="unknown" default="true">79283</uniqueid>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+    <genre>Drama</genre>
+    <genre>Fantasy</genre>
+    <premiered>2006-04-06</premiered>
+    <year>2006</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Tokyo Broadcasting System</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Mika Kikuchi</name>
+        <role>Mokona</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/81220.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jun Fukuyama</name>
+        <role>Kimihiro Watanuki</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/373493.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hisayo Mochizuki</name>
+        <role>Moro</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kazuko Kojima</name>
+        <role>Maru</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kazuya Nakai</name>
+        <role>Shizuka Doumeki</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/367030.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sayaka Ohara</name>
+        <role>Yuuko Ichihara</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/352417.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shizuka Itou</name>
+        <role>Himawari Kunogi</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

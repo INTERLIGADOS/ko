@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Yu Yu Hakusho - Detetive do mundo espiritual</title>
+    <showtitle>Yu Yu Hakusho - Detetive do mundo espiritual</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.100000</value>
+            <votes>29</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Yusuke Urameshi nunca foi um garoto comportado. Encrenqueiro, brigão e mal-educado, era considerado o cara mais durão da escola. Mas foi o seu bom coração que o fez sacrificar a própria vida para salvar um pequeno garoto diante de um carro em alta velocidade. Agora, no Mundo Espiritual, Yusuke acaba ganhando a oportunidade de fazer o bem e mudar sua vida de uma vez. De volta ao mundo dos vivos, ele se transforma em um detetive espiritual, enxergando o sobrenatural que ninguém vê e enfrentando terríveis demônios e as criaturas mais assustadoras em busca da paz no planeta Terra. Em sua missão, o detetive conta com a ajuda de seu antigo rival, o atrapalhado Kuwabara, e ainda com os misteriosos demônios regenerados Kurama e Hiei.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/76665-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/4606-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/76665.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/76665-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/76665-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/76665-3-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/76665-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/76665-4-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/76665-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/76665-4-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/76665-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/76665-0-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/76665-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/76665-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/76665-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/76665-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76665-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76665-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76665-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76665-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76665-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76665-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76665-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76665-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76665-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76665-1.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="|52,159,255|235,19,8|31,13,11|" preview="_cache/fanart/original/76665-4.jpg">fanart/original/76665-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/76665-2.jpg">fanart/original/76665-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/76665-5.jpg">fanart/original/76665-5.jpg</thumb>
+        <thumb dim="1280x720" colors="|255,255,255|0,0,0|249,216,59|" preview="_cache/fanart/original/76665-1.jpg">fanart/original/76665-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/76665-3.jpg">fanart/original/76665-3.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/76665-6.jpg">fanart/original/76665-6.jpg</thumb>
+    </fanart>
+    <mpaa>TV-14</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="76665-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/76665/all/pt.zip</url>
+    </episodeguide>
+    <id>76665</id>
+    <uniqueid type="unknown" default="true">76665</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <premiered>1992-10-10</premiered>
+    <year>1992</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Fuji TV</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Sasaki Nozomu</name>
+        <role>Urameshi Yuusuke</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/289417.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hiyama Nobuyuki</name>
+        <role>Hiei</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/289420.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chiba Shigeru</name>
+        <role>Kuwabara Kazuma</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/289418.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Furuta Nobuyuki</name>
+        <role>Sakyou</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/289444.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Orikasa Ai</name>
+        <role>Kuwabara Shizuru</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/289436.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shiratori Yuri</name>
+        <role>Yukina</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/289432.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sugou Takayuki</name>
+        <role>Raizen</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/289431.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Takayama Minami</name>
+        <role>Mukuro</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/289430.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ebara Masashi</name>
+        <role>Yomi</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/289429.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Suzuki Katsumi</name>
+        <role>Toguro</role>
+        <order>9</order>
+        <thumb>http://thetvdb.com/banners/actors/289428.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Inoue You</name>
+        <role>Randou</role>
+        <order>10</order>
+        <thumb>http://thetvdb.com/banners/actors/289427.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tobita Nobuo</name>
+        <role>Suzaku</role>
+        <order>11</order>
+        <thumb>http://thetvdb.com/banners/actors/289426.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amano Yuri</name>
+        <role>Yukimura Keiko</role>
+        <order>12</order>
+        <thumb>http://thetvdb.com/banners/actors/289425.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Naya Rokurou</name>
+        <role>Sensui Shinobu</role>
+        <order>13</order>
+        <thumb>http://thetvdb.com/banners/actors/289424.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tanaka Mayumi</name>
+        <role>Koenma</role>
+        <order>14</order>
+        <thumb>http://thetvdb.com/banners/actors/289423.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kyouda Hisako</name>
+        <role>Genkai</role>
+        <order>15</order>
+        <thumb>http://thetvdb.com/banners/actors/289422.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Miyuki Sanae</name>
+        <role>Botan</role>
+        <order>16</order>
+        <thumb>http://thetvdb.com/banners/actors/289421.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ogata Megumi</name>
+        <role>Kurama</role>
+        <order>17</order>
+        <thumb>http://thetvdb.com/banners/actors/289419.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

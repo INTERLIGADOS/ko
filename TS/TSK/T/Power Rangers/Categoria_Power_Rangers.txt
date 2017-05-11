@@ -1,0 +1,212 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+</channels><channel>
+<name>1 Mighty Morphin Power Rangers</name>
+<thumbnail>http://i.imgur.com/B9zu7Vl.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/5729d8c1193b3d906845e3f64f93ac3c/raw/Categoria%2520Mighty%2520Morphin%2520Power%2520Rangers</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>2 - Power Rangers Dino Charge</name>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/975c16f40fdfa759396e60b4daaadfd5/raw/2%2520-%2520Power%2520Rangers%2520Dino%2520Charge</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>3 - Power Rangers Dino Super Charge</name>
+<thumbnail>http://i.imgur.com/eDSxa6W.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/ffd6c402ca384d4384ced81ed37281ac/raw/3%2520-%2520Power%2520Rangers%2520Dino%2520Super%2520Charge</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>4 - Power Rangers – Dino Trovão</name>
+<thumbnail>http://i.imgur.com/RnZ7eWi.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/c560a022b277f7f55d2d24f494b5039e/raw/4%2520-%2520Power%2520Rangers%2520%25E2%2580%2593%2520Dino%2520Trov%25C3%25A3o</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>5 - Power Rangers Força Animal</name>
+<thumbnail>http://i.imgur.com/YY6OunV.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/570b2ec9674911c7cd088f393ffe8d65/raw/5%2520-%2520Power%2520Rangers%2520For%25C3%25A7a%2520Animal</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>6 - Power Rangers – Força do Tempo</name>
+<thumbnail>http://i.imgur.com/UXmtQCQ.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/e26eab84309545eaf63dcb9d4b07d385/raw/6%2520-%2520Power%2520Rangers%2520%25E2%2580%2593%2520For%25C3%25A7a%2520do%2520Tempo</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>7 - Power Rangers Força Mística</name>
+<thumbnail>http://i.imgur.com/rApXbcA.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/d4e106b3cdc69ce3ae00523e8fe02ed3/raw/7%2520-%2520Power%2520Rangers%2520For%25C3%25A7a%2520M%25C3%25ADstica</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>8 - Power Rangers – Fúria da Selva</name>
+<thumbnail>http://i.imgur.com/kLWUYEe.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/afc3e975e20dea245e6862ca274b7e34/raw/8%2520-%2520Power%2520Rangers%2520%25E2%2580%2593%2520F%25C3%25BAria%2520da%2520Selva</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>9 - Power Rangers LightSpeed o Resgate</name>
+<thumbnail>http://i.imgur.com/sKVb2zC.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/91298f87a4a5d45d16d12312635a3d36/raw/9%2520-%2520Power%2520Rangers%2520LightSpeed%2520o%2520Resgate</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>10 - Power Rangers MegaForce</name>
+<thumbnail>http://i.imgur.com/CGaJqR1.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/4ef2971ddd9db14d7754a0857192e0f0/raw/10%2520-%2520Power%2520Rangers%2520MegaForce</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>11 - Power Rangers na Galáxia Perdida</name>
+<thumbnail>http://i.imgur.com/VwjbOug.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/22db3a009852c4966c9bc8ea38d50438/raw/11%2520-%2520Power%2520Rangers%2520na%2520Gal%25C3%25A1xia%2520Perdida</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>12 - Power Rangers no Espaço</name>
+<thumbnail>http://i.imgur.com/ayEGCMf.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/6d7e469e34a850a1f86cff1f6201ca03/raw/12%2520-%2520Power%2520Rangers%2520no%2520Espa%25C3%25A7o</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>13 - Power Rangers Operação Ultra veloz</name>
+<thumbnail>http://i.imgur.com/3yQev6q.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/549f13cd0c49d882a7edaf57c1103296/raw/13%2520-%2520Power%2520Rangers%2520Opera%25C3%25A7%25C3%25A3o%2520Ultra%2520veloz</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>14 - Power Rangers RPM</name>
+<thumbnail>http://i.imgur.com/rfEllF0.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/330d5043e1120953aa6c0b800685c9e4/raw/14%2520-%2520Power%2520Rangers%2520RPM</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>15 - Power Rangers S.P.D</name>
+<thumbnail>http://i.imgur.com/fIWoQwF.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/6a6317085371c044bfdd1dc47ddcf1fc/raw/15%2520-%2520Power%2520Rangers%2520S.P.D</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>16 - Power Rangers Samurai</name>
+<thumbnail>http://i.imgur.com/4urn8T2.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/c883dc17f8a7c1c7042fa0bc9c001357/raw/16%2520-%2520Power%2520Rangers%2520Samurai</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>17 - Power Rangers Super MegaForce</name>
+<thumbnail>http://i.imgur.com/esY6pSG.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/4ff2d63c4ce23874bf798ac39bd552b9/raw/17%2520-%2520Power%2520Rangers%2520Super%2520MegaForce</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>18 - Power Rangers Super Samurai</name>
+<thumbnail>http://i.imgur.com/rhCXwru.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/1481ebc8a536aeadc842e53bc30992b0/raw/18%2520-%2520Power%2520Rangers%2520Super%2520Samurai</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>19 - Power Rangers Tempestade Ninja</name>
+<thumbnail>http://i.imgur.com/m1w2Edz.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/e5ddcfbf1f919eb68bd9f2f64086a8e2/raw/19%2520-%2520Power%2520Rangers%2520Tempestade%2520Ninja</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>20 - Power Rangers Turbo</name>
+<thumbnail>http://i.imgur.com/fZnbOBj.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/0b182ae31c5e5c3a73ab719cfcda744a/raw/20%2520-%2520Power%2520Rangers%2520Turbo</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+
+<channels>
+
+</channels><channel>
+<name>21 - Power Rangers Zeo</name>
+<thumbnail>http://i.imgur.com/5VzhOtu.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/betomoura/24abec5b84ba806d5546d10f8ba95e1d/raw/21%2520-%2520Power%2520Rangers%2520Zeo</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+<info></info>
+</channel>
+

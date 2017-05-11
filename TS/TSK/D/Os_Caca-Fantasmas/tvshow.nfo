@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Os Caça-Fantasmas</title>
+    <showtitle>Os Caça-Fantasmas</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.300000</value>
+            <votes>12</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>The Real Ghostbusters (BR: Os Caça - Fantasmas) foi um desenho animado norte-americano da década de 1980 baseado no filme homônimo de 1984. O desenho foi produzido pela Sony Pictures Television, DiC Entertainment e Coca-Cola e foi exibido originalmente pela ABC. No Brasil foi exibido pela Rede Globo.&#x0D;&#x0A;O &quot;The Real&quot; (&quot;Os Verdadeiros&quot;) do título foi adicionado depois de um briga judicial com a Filmation que já possuia um desenho animado com o título de Ghost Busters (Os Fantasmas no Brasil) - continuação de outro desenho homônimo ao filme, The Ghost Busters (anos 70) que no Brasil tinha o título de Trio Calafrio. Essa séria continuava as aventuras dos investigadores paranormais Dr. Peter Venkman, Dr. Egon Spengler, Winston Zeddemore, Dr. Ray Stantz, sua secretária Janine Melnitz e seu mascote fantasma Geléia (Slimer, no original).&#x0D;&#x0A;Houve também duas séries de história em quadrinhos, uma publicada mensalmente nos EUA pela NOW Comics e outra publicada no Reino Unido pela Marvel Comics, além de uma popular linha de brinquedos produzida pela Kenner.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/71824-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/71824-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/71824-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/1547-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/71824-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/71824.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/71824-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/71824-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/71824-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/71824-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/71824-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/71824-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/71824-2.jpg</thumb>
+    <thumb aspect="banner" type="season" season="2">http://thetvdb.com/banners/seasonswide/71824-2.jpg</thumb>
+    <thumb aspect="banner" type="season" season="4">http://thetvdb.com/banners/seasonswide/71824-4.jpg</thumb>
+    <thumb aspect="banner" type="season" season="0">http://thetvdb.com/banners/seasonswide/71824-0.jpg</thumb>
+    <thumb aspect="banner" type="season" season="5">http://thetvdb.com/banners/seasonswide/71824-5.jpg</thumb>
+    <thumb aspect="banner" type="season" season="3">http://thetvdb.com/banners/seasonswide/71824-3.jpg</thumb>
+    <thumb aspect="banner" type="season" season="6">http://thetvdb.com/banners/seasonswide/71824-6.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/71824-1.jpg</thumb>
+    <thumb aspect="banner" type="season" season="7">http://thetvdb.com/banners/seasonswide/71824-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/71824-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/71824-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/71824-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/71824-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/71824-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/71824-1.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/71824-9.jpg">fanart/original/71824-9.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/71824-10.jpg">fanart/original/71824-10.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/71824-12.jpg">fanart/original/71824-12.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/71824-6.jpg">fanart/original/71824-6.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/71824-5.jpg">fanart/original/71824-5.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/71824-3.jpg">fanart/original/71824-3.jpg</thumb>
+        <thumb dim="1280x720" colors="|203,32,38|0,10,71|255,255,255|" preview="_cache/fanart/original/71824-1.jpg">fanart/original/71824-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="|0,0,0|236,31,36|255,255,255|" preview="_cache/fanart/original/71824-8.jpg">fanart/original/71824-8.jpg</thumb>
+        <thumb dim="1280x720" colors="|233,26,34|0,0,0|255,228,0|" preview="_cache/fanart/original/71824-2.jpg">fanart/original/71824-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/71824-4.jpg">fanart/original/71824-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/71824-7.jpg">fanart/original/71824-7.jpg</thumb>
+    </fanart>
+    <mpaa>TV-Y7</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="71824-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/71824/all/pt.zip</url>
+    </episodeguide>
+    <id>71824</id>
+    <uniqueid type="unknown" default="true">71824</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <premiered>1986-09-01</premiered>
+    <year>1986</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>ABC (US)</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Frank Welker</name>
+        <role>Ray/Slimer</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/62974.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rodger Bumpass</name>
+        <role>Louis</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/41768.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laura Summer</name>
+        <role>Janine(&apos;86-&apos;87)</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/12751.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arsenio Hall</name>
+        <role>Winston(&apos;86-&apos;87)</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/12750.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maurice LaMarche</name>
+        <role>Egon</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/12749.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Buster Jones</name>
+        <role>Winston(&apos;87-&apos;91)</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/12748.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lorenzo Music</name>
+        <role>Peter(&apos;86-&apos;87)</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/12747.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kath Soucie</name>
+        <role>Janine(&apos;87-&apos;91)</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/12746.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dave Coulier</name>
+        <role>Peter(&apos;87-&apos;91)</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/12744.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

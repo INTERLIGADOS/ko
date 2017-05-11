@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Samurai X</title>
+    <showtitle>Samurai X</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.700000</value>
+            <votes>87</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Batizada originalmente de Rurouni Kenshin, Samurai X, é ambientada nos primeiros anos da Era Meiji no Japão. Durante 10 anos, Kenshin vagou pelo Japão até encontrar abrigo no Dojo Kamiya, onde a jovem Kaoru Kamiya lecionava kendo no estilo Kamiya Kashin (Espada para a Vida). A errante caminhada do jovem ronin tinha um propósito: visualizar as inúmeras mortes que causara durante o Bakumatsu quando era um hitokiri (assassino retalhador) a serviço da Ishin Shishi (monarquistas que desejavam a restauração do governo para as mãos do imperador) do feudo de Choushuu. Nessa época, Kenshin ficou conhecido como &quot;Hitokiri Battousai&quot; por sua grande habilidade com o Battoujutsu, técnica que em um  movimento contínuo, saca a espada e realiza o corte. Mesmo com a vitória dos monarquistas que culminou na derrubada do Xogunato Tokugawa, dando origem à Era Meiji, Kenshin, arrependido pelas inúmeras vidas que tirou, decide nunca mais matar. Mesmo terminando sua longa jornada, o ex-hitokiri terá de brandir novamente sua sakabatou (espada em que a lâmina encontra-se no dorso) para enfrentar novos e velhos inimigos.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/70863-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/11459-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/70863-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/70863-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/70863-2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/70863.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/11459-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/70863-0-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/11459-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/11459-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/70863-0-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/70863-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/70863-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/70863-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/70863-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/70863-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/70863-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/70863-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/70863-0-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/70863-0-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/70863-0-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/70863-0-6.jpg</thumb>
+    <thumb aspect="banner" type="season" season="0">http://thetvdb.com/banners/seasonswide/70863-0.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70863-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70863-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70863-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70863-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70863-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70863-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70863-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/70863-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70863-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70863-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70863-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70863-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70863-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70863-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70863-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/70863-8.jpg</thumb>
+    <fanart>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/70863-10.jpg">http://thetvdb.com/banners/fanart/original/70863-10.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/70863-9.jpg">http://thetvdb.com/banners/fanart/original/70863-9.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/70863-8.jpg">http://thetvdb.com/banners/fanart/original/70863-8.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/70863-12.jpg">http://thetvdb.com/banners/fanart/original/70863-12.jpg</thumb>
+        <thumb dim="1280x720" colors="FF809c6b,FF6a2627,FF95b9af" preview="http://thetvdb.com/banners/_cache/fanart/original/70863-1.jpg">http://thetvdb.com/banners/fanart/original/70863-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/70863-7.jpg">http://thetvdb.com/banners/fanart/original/70863-7.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/70863-5.jpg">http://thetvdb.com/banners/fanart/original/70863-5.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/70863-6.jpg">http://thetvdb.com/banners/fanart/original/70863-6.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/70863-2.jpg">http://thetvdb.com/banners/fanart/original/70863-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/70863-13.jpg">http://thetvdb.com/banners/fanart/original/70863-13.jpg</thumb>
+        <thumb dim="1280x720" colors="FFbdc7d1,FF5c5f6e,FFa37f6f" preview="http://thetvdb.com/banners/_cache/fanart/original/70863-3.jpg">http://thetvdb.com/banners/fanart/original/70863-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/70863-4.jpg">http://thetvdb.com/banners/fanart/original/70863-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/70863-11.jpg">http://thetvdb.com/banners/fanart/original/70863-11.jpg</thumb>
+    </fanart>
+    <mpaa>TV-14</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="70863-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/70863/all/pt.zip</url>
+    </episodeguide>
+    <id>70863</id>
+    <uniqueid type="unknown" default="true">70863</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <premiered>1996-01-10</premiered>
+    <year>1996</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Fuji TV</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Mayo Suzukaze</name>
+        <role>Rurouni Kenshin</role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Miki Fujitani</name>
+        <role>Kamiya Kaoru</role>
+        <order>1</order>
+        <thumb>http://image.tmdb.org/t/p/original/ltwMu8Q86LdalasehwGUVWT8lOb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yuji Ueda</name>
+        <role>Sagara Sanosuke</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hirotaka Suzuoki</name>
+        <role>Saitō Hajime</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/327720.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Junko Iwao</name>
+        <role>Yukishiro Tomoe</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Masanori Ikeda</name>
+        <role>Shishio Makoto</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Miina Tominaga</name>
+        <role>Myōjin Yahiko</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mika Doi</name>
+        <role>Takani Megumi</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Noriko Hidaka</name>
+        <role>Seta Sōjirō</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/367025.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nozomu Sasaki</name>
+        <role>Yukishiro Enishi</role>
+        <order>9</order>
+        <thumb>http://image.tmdb.org/t/p/original/8U9bbTScsKpicR2piN4GsLfbOsh.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shūichi Ikeda</name>
+        <role>Hiko Seijūrō</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tomo Sakurai</name>
+        <role>Makimachi Misao</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yoshito Yasuhara</name>
+        <role>Shinomori Aoshi</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

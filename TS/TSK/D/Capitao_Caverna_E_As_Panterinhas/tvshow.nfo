@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Capitão Caverna e as Panterinhas</title>
+    <showtitle>Capitão Caverna e as Panterinhas</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.300000</value>
+            <votes>4</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Capitão Caverna e as Panterinhas foi um desenho da década de 1970, criado por Joe Ruby e Ken Spears, e produzido pela Hanna-Barbera Productions. Foi transmitida originalmente no canal de televisão norte-americano American Broadcasting Company (ABC), de 10 de setembro de 1977 a 21 de junho de 1980. No Brasil, atualmente é exibido no programa Sábado Animado no Sistema Brasileiro de Televisão (SBT).&#x0D;&#x0A;&#x0D;&#x0A;Seu protagonista era o Capitão Caverna, um ser baixinho, troglodita, coberto de pelos e sempre com um porrete em mãos. Estava acompanhado por três garotas (uma paródia das Panteras), nos desenhos: Brenda, Tiffan e Jamie.&#x0D;&#x0A;&#x0D;&#x0A;No Brasil, as Teen Angels são chamadas Brenda, Kelly e Sabrina.</plot>
+    <tagline></tagline>
+    <runtime>30</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78701-g5.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78701-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78701-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78701-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78701-g4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/78701-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/78701-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/78701-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/78701-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/78701-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/78701-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78701-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78701-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78701-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78701-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78701-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78701-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78701-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78701-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78701-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78701-1.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/78701-4.jpg">fanart/original/78701-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78701-3.jpg">fanart/original/78701-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78701-2.jpg">fanart/original/78701-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78701-1.jpg">fanart/original/78701-1.jpg</thumb>
+    </fanart>
+    <mpaa>TV-G</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="78701-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/78701/all/pt.zip</url>
+    </episodeguide>
+    <id>78701</id>
+    <uniqueid type="unknown" default="true">78701</uniqueid>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <genre>Comedy</genre>
+    <premiered>1977-09-10</premiered>
+    <year>1977</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>ABC (US)</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Laurel Page</name>
+        <role></role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marilyn Schreffler</name>
+        <role></role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mel Blanc</name>
+        <role></role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vernee Watson-Johnson</name>
+        <role></role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

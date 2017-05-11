@@ -1,0 +1,17 @@
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Marvel_Agente_Carter/poster.jpg",Temporada 01E01 : Agora
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT01EP01.mp4
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Marvel_Agente_Carter/poster.jpg",Temporada 01E02 : Pontes e Tuneis
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT01EP02.mp4
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Marvel_Agente_Carter/poster.jpg",Temporada 01E03 : Tempo e Maré
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT01EP03.mp4
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Marvel_Agente_Carter/poster.jpg",Temporada 01E04 : O Botão Blitzkrieg
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT01EP04.mp4
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Marvel_Agente_Carter/poster.jpg",Temporada 01E05 : O Teto de Ferro
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT01EP05.mp4
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Marvel_Agente_Carter/poster.jpg",Temporada 01E06 : Um Pecado Errar
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT01EP06.mp4
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Marvel_Agente_Carter/poster.jpg",Temporada 01E07 : Snafu
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT01EP07.mp4
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Marvel_Agente_Carter/poster.jpg",Temporada 01E08 : Despedida
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT01EP08.mp4

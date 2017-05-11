@@ -1,0 +1,25 @@
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Rush_Hour/poster.jpg",T01E01 :Piloto
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AHRDRSHT01EP01.mp4
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Rush_Hour/poster.jpg",T01E02 :Two Days or The Number of Hours Within That Time Frame
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AHRDRSHT01EP02.mp4
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Rush_Hour/poster.jpg",T01E03 :Captain Cole’s Playlist
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AHRDRSHT01EP03.mp4
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Rush_Hour/poster.jpg",T01E04 :LA Real Estate Boom
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AHRDRSHT01EP04.mp4
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Rush_Hour/poster.jpg",T01E05 :Assault on Precinct 7
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AHRDRSHT01EP05.mp4
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Rush_Hour/poster.jpg",T01E06 :Welcome Back Carter
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AHRDRSHT01EP06.mp4
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Rush_Hour/poster.jpg",T01E07 :Badass Cop
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AHRDRSHT01EP07.mp4
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Rush_Hour/poster.jpg",T01E08 :Wind Beneath My Wingman
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AHRDRSHT01EP08.mp4
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Rush_Hour/poster.jpg",T01E09 :Prisoner of Love
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AHRDRSHT01EP09.mp4
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Rush_Hour/poster.jpg",T01E10 :A Hora Do Rush:toc ... Casa a Assustar!
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AHRDRSHT01EP10.mp4
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Rush_Hour/poster.jpg",T01E11 :O Refém! Minha Refém!
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AHRDRSHT01EP11.mp4
+#EXTINF:-1 tvg-logo="http://fabiano.890m.com/TS/TSA/Rush_Hour/poster.jpg",T01E12 :O Cavaleiro das Trevas
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AHRDRSHT01EP12.mp4

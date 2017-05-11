@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>.hack</title>
+    <showtitle>.hack</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>7.700000</value>
+            <votes>18</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>In a Massively Multiplayer Online Role-Playing Game called the World, everything is just fun and games.  However that is not the case with Tsukasa.  He is unable to log out of the World and, unlike other players, he can feel pain.  However, he also gains a Guardian with immense power.  Mimiru befriends Tsukasa and is shocked to discover his condition.  She and Bear try to help but Tsukasa ends up attracting the attention of the Silver Knights, the moderators of the World.  After Tsukasa&apos;s Guardian struck down their second-in-command, Silver Knight, and several other players, Subaru, the leader of the Silver Knights, though hesitant at first, calls for the capture of Tsukasa.  However, as they go deeper into the mystery surrounding Tsukasa&apos;s problem, things become more complicated as the problem sprouts from the very core of the World.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/79099-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/16327-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/79099-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/79099-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/79099.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/16327.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/79099-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/79099-2-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/79099-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/79099-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/16327-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/79099-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/79099-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/79099-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/79099-0-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/79099-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/79099-2-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79099-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79099-9.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79099-10.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79099-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79099-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79099-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79099-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79099-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79099-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79099-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79099-12.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79099-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79099-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79099-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79099-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79099-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79099-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79099-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79099-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79099-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79099-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79099-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79099-12.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79099-11.jpg</thumb>
+    <fanart>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79099-8.jpg">http://thetvdb.com/banners/fanart/original/79099-8.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79099-11.jpg">http://thetvdb.com/banners/fanart/original/79099-11.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79099-4.jpg">http://thetvdb.com/banners/fanart/original/79099-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79099-6.jpg">http://thetvdb.com/banners/fanart/original/79099-6.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79099-13.jpg">http://thetvdb.com/banners/fanart/original/79099-13.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79099-7.jpg">http://thetvdb.com/banners/fanart/original/79099-7.jpg</thumb>
+        <thumb dim="1280x720" colors="FFaad5dc,FF405149,FFb1978a" preview="http://thetvdb.com/banners/_cache/fanart/original/79099-2.jpg">http://thetvdb.com/banners/fanart/original/79099-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79099-1.jpg">http://thetvdb.com/banners/fanart/original/79099-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79099-12.jpg">http://thetvdb.com/banners/fanart/original/79099-12.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79099-10.jpg">http://thetvdb.com/banners/fanart/original/79099-10.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79099-15.jpg">http://thetvdb.com/banners/fanart/original/79099-15.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79099-5.jpg">http://thetvdb.com/banners/fanart/original/79099-5.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79099-16.jpg">http://thetvdb.com/banners/fanart/original/79099-16.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79099-18.jpg">http://thetvdb.com/banners/fanart/original/79099-18.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79099-9.jpg">http://thetvdb.com/banners/fanart/original/79099-9.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79099-14.jpg">http://thetvdb.com/banners/fanart/original/79099-14.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79099-17.jpg">http://thetvdb.com/banners/fanart/original/79099-17.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/79099-3.jpg">http://thetvdb.com/banners/fanart/original/79099-3.jpg</thumb>
+    </fanart>
+    <mpaa>TV-PG</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="79099-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/79099/all/pt.zip</url>
+    </episodeguide>
+    <id>79099</id>
+    <uniqueid type="unknown" default="true">79099</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <premiered>2003-02-01</premiered>
+    <year>2003</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>TV Tokyo</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Mitsuki Saiga</name>
+        <role>Tsukasa</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/69667.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rie Tanaka</name>
+        <role>Morganna</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/69682.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kaori Nazuka</name>
+        <role>Subaru</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/69673.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Atsuko Enomoto</name>
+        <role>A-20</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/69672.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shinichirô Miki</name>
+        <role>Crim</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/69669.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kana Hanazawa</name>
+        <role>Sakuya</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/302275.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Akiko Hiramatsu</name>
+        <role>BT</role>
+        <order>12</order>
+        <thumb>http://thetvdb.com/banners/actors/140051.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Isshin Chiba</name>
+        <role>Silver Knight</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kazuhiro Nakata</name>
+        <role>Bear</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hiroshi Yanaka</name>
+        <role>Sora</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Megumi Toyoguchi</name>
+        <role>Mimiru</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yumi Tôma</name>
+        <role>Helba</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Cavalo de Fogo</title>
+    <showtitle>Cavalo de Fogo</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>6.000000</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>O reino de Dar-Shan é colocado sob uma maldição pela maldosa Diabolyn, para salvar a princesa Sarah a mesma é enviada para o planeta Terra . Sarah não tem conhecimento de sua herança até o dia em que &quot;Cavalo de Fogo&quot;, um cavalo inteligente e mágico, campeão da Família Real, viaja para a Terra para leva-lá até Dar-Shan para ajudar nos problemas que ocorrem por lá e frustrar os planos de Diabolyn que tenta tomar o trono e se tornar rainha.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/75741-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/75741-g2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75741-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75741-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75741-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75741-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75741-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75741-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75741-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75741-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75741-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75741-3.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/75741-2.jpg">fanart/original/75741-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/75741-1.jpg">fanart/original/75741-1.jpg</thumb>
+    </fanart>
+    <mpaa>TV-Y</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="75741-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/75741/all/pt.zip</url>
+    </episodeguide>
+    <id>75741</id>
+    <uniqueid type="unknown" default="true">75741</uniqueid>
+    <genre>Animation</genre>
+    <premiered>1986-09-01</premiered>
+    <year>1986</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>CBS</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Billy Barty</name>
+        <role></role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Ackroyd</name>
+        <role></role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Georgi Irene</name>
+        <role></role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jessica Walter</name>
+        <role></role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/46359.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Vernon</name>
+        <role></role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rene Auberjonois</name>
+        <role></role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Susan Blu</name>
+        <role></role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Victoria Carroll</name>
+        <role></role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

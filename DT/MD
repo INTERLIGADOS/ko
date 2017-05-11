@@ -1,0 +1,33 @@
+<channels>
+	<channel>
+		<name>Discovery Channel</name>
+		<thumbnail>http://fabiano.890m.com/DT/DiscoveryPoster.jpg</thumbnail>
+		<fanart>http://fabiano.890m.com/DT/DiscoveryFanart.jpg</fanart>
+		<date></date>
+		<genre>Documentários</genre> 
+		<externallink>http://fabiano.890m.com/DT/Discovery_Channel.xml</externallink>
+		<info>O Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Communications destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
+	</channel>
+	
+	<channel>
+		<name>History</name>
+		<thumbnail>http://fabiano.890m.com/DT/HistoryPoster.jpg</thumbnail>
+		<fanart>http://fabiano.890m.com/DT/HistoryFanart.jpg</fanart>
+		<date></date>
+		<genre>Documentários</genre> 
+		<externallink>http://fabiano.890m.com/DT/History.xml</externallink>
+		<info>O History, antes chamado de The History Channel, é um canal de televisão por assinatura americano cuja programação é focada essencialmente em conteúdos de teor histórico e científico. Apesar disso, o canal também aborda temas atuais de relevância. History está disponível na maior parte das ofertas televisivas pagas. Em Portugal, praticamente todas as operadoras têm nos seus pacotes básicos o canal incluído, estando também disponível em operadoras 3G para difusão por telemóvel através da rede UMTS. Na América Latina, o canal é programado pelo HBO.</info>
+	</channel>
+	
+		<channel>
+		<name>National Geographic</name>
+		<thumbnail>http://fabiano.890m.com/DT/NationalPoster.jpg</thumbnail>
+		<fanart>http://fabiano.890m.com/DT/NationalFanart.jpg</fanart>
+		<date></date>
+		<genre>Documentários</genre> 
+		<externallink>http://fabiano.890m.com/DT/National.xml</externallink>
+		<info>National Geographic, anteriormente National Geographic Magazine, é a revista oficial da National Geographic Society. Publicou a sua primeira edição em 1888, apenas nove meses após a própria sociedade ter sido fundada. É imediatamente identificável pela moldura amarela característica que envolve a sua capa.</info>
+	</channel>
+	
+	
+</channels>

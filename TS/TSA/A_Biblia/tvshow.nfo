@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>A Bíblia</title>
+    <showtitle>A Bíblia</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>7.000000</value>
+            <votes>20</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>A série abrange &quot;Gênesis a Acensão de Cristo ao céu&quot; em &quot;uma grande narrativa&quot;,  dentro de cinco partes de duas horas,  cada uma contendo duas ou três histórias bíblicas contadas através de ação ao vivo e imagens geradas por computador.  De acordo com Burnett, a narrativa inclui histórias &quot;óbvias&quot;, como a Arca de Noé, o êxodo e a vida de Jesus Cristo.  Cinco horas são tirados do Antigo Testamento, cinco do Novo Testamento.  A série é baseada na Nova Versão Internacional e a Nova Versão Revisada da Bíblia.</plot>
+    <tagline></tagline>
+    <runtime>0</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/265720.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/265720-1.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/265720-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/265720-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/265720-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/265720-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/265720-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/265720-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/265720-1.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/265720-2.jpg">fanart/original/265720-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/265720-3.jpg">fanart/original/265720-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/265720-1.jpg">fanart/original/265720-1.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="265720-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/265720/all/pt.zip</url>
+    </episodeguide>
+    <id>265720</id>
+    <uniqueid type="unknown" default="true">265720</uniqueid>
+    <genre>Mini-Series</genre>
+    <premiered>2013-03-03</premiered>
+    <year>2013</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>History</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Keith David</name>
+        <role>Himself - Narrator</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/310142.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Diogo Morgado</name>
+        <role>Jesus Christ</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/310143.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roma Downey</name>
+        <role>Mother Mary</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/310144.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Adrian Schiller</name>
+        <role>Caiaphas</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Amber Rose Revah</name>
+        <role>Mary Magdalene</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Brooke</name>
+        <role>Antonius</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Scarborough</name>
+        <role>Joshua</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Clive Wood</name>
+        <role>Nathan</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Conan Stevens</name>
+        <role>Goliath</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Darcie Lincoln</name>
+        <role>Eve</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Darwin Shaw</name>
+        <role>Peter</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dhaffer L&apos;Abidine</name>
+        <role>Uriah</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fintan McKeown</name>
+        <role>Abimelech</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Francis Magee</name>
+        <role>Saul</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fraser Ayres</name>
+        <role>Barabbas</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gary Oliver</name>
+        <role>Abraham</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Greg Hicks</name>
+        <role>Pontius Pilate</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hara Yannas</name>
+        <role>Michal</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Hugo Rossi</name>
+        <role>Isaac</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jassa Ahluwalia</name>
+        <role>Young David</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joe Wredden</name>
+        <role>Judas</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Khalid Ben Chegra</name>
+        <role>Phicol</role>
+        <order>24</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kierston Wareing</name>
+        <role>Delilah</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Louise Delamere</name>
+        <role>Claudia</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matthew Gravelle</name>
+        <role>Thomas</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Melia Kreiling</name>
+        <role>Bathsheba</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mohamen Mehdi Ouazanni</name>
+        <role>Satan</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Nonso Anozie</name>
+        <role>Samson</role>
+        <order>30</order>
+        <thumb>http://thetvdb.com/banners/actors/312918.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Brightwell</name>
+        <role>Malchus</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Freeman</name>
+        <role>Samuel</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Knops</name>
+        <role>Adam</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Marc Davis</name>
+        <role>Simon</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sebastian Knapp</name>
+        <role>John</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Simon Kunz</name>
+        <role>Nicodemus</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Will Houston</name>
+        <role>Moses</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

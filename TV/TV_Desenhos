@@ -1,0 +1,73 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+ 
+
+<item>
+<title>[COLOR blue][B]ABN KIDS[/B][/COLOR]</title>
+<link>http://moiptvus-lh.akamaihd.net:80/i/kidslive_1@328343/index_800_av-p.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/hdl6xJc.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]DISNEY CHANNEL[/B][/COLOR]</title>
+<link>http://tv.redecanais.com:1935/redecanaisdisneychannel/myStream/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/gAFldHk.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]DISNEY CHANNEL[/B][/COLOR]</title>
+<link>http://tv.redecanais.com:1935/redecanaisdisneychannel/myStream/chunklist_w1507357582.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/gAFldHk.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NICK JR.[/B][/COLOR]</title>
+<link>http://169.57.142.110:25461/live/cdNPdawESm/fEOqzzclml/96.ts</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/BRjfLAo.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]GLOOB[/B][/COLOR]</title>
+<link>http://169.57.142.110:25461/live/jlT04rRqbS/ZAKcPyyFOl/89.ts</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/b4NRu3O.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]DISNEY XD[/B][/COLOR]</title>
+<link>http://169.57.142.110:25461/live/85DYyK8F2X/ITbmNDhtvf/86.ts</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/PltG0s4.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NICKELODEON[/B][/COLOR]</title>
+<link>http://169.57.142.110:25461/live/48Sj2qPMDx/sjt02PVSag/77.ts</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/A3nr2Bx.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NICKELODEON[/B][/COLOR]</title>
+<link>http://tv.redecanais.com:1935/redecanaisnick/myStream/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/A3nr2Bx.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]TOONCAST[/B][/COLOR]</title>
+<link>http://169.57.142.110:25461/live/6oHdLlrWdf/ecIgaO6mws/11.ts</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/Bx79GmI.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NICK TOONS[/B][/COLOR]</title>
+<link>http://208.86.19.13:8080/live/15.stream/index.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/K4Ichxl.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+

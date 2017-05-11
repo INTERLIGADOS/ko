@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Voltron: Legendary Defender</title>
+    <showtitle>Voltron: Legendary Defender</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.000000</value>
+            <votes>5</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>For millennia, the evil Galra Empire has plagued the universe by conquering planets and destroying their inhabitants. The only known threat to the empire&apos;s power and plans, is the legendary &quot;Defender of the Universe&quot; Voltron, a 100 meter tall robot warrior composed of five lion mechas whose whereabouts are presumed to be unknown. The Galra Empire&apos;s path of conquest and search for Voltron has led them to Earth&apos;s solar system. A group of space pilots-Shiro, Keith, Lance, Pidge, and Hunk-discover the blue lion and immediately get swept up into the Galran War. They meet Princess Allura, become the next Paladins, and reunite the five lions to form Voltron and free the universe from the Galra Empire.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/307899-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/307899-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/307899-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/307899-2-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/307899-1-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/307899-1-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/307899-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/307899-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/307899-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/307899-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/307899-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/307899-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/307899-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/307899-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/307899-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/307899-4.jpg</thumb>
+    <fanart>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/307899-4.jpg">http://thetvdb.com/banners/fanart/original/307899-4.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/307899-3.jpg">http://thetvdb.com/banners/fanart/original/307899-3.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/307899-6.jpg">http://thetvdb.com/banners/fanart/original/307899-6.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/307899-7.jpg">http://thetvdb.com/banners/fanart/original/307899-7.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/307899-5.jpg">http://thetvdb.com/banners/fanart/original/307899-5.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/307899-2.jpg">http://thetvdb.com/banners/fanart/original/307899-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/307899-1.jpg">http://thetvdb.com/banners/fanart/original/307899-1.jpg</thumb>
+    </fanart>
+    <mpaa>TV-Y7</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="307899-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/307899/all/pt.zip</url>
+    </episodeguide>
+    <id>307899</id>
+    <uniqueid type="unknown" default="true">307899</uniqueid>
+    <genre>Action</genre>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <genre>Family</genre>
+    <genre>Science-Fiction</genre>
+    <premiered>2016-06-10</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Netflix</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Neil Kaplan</name>
+        <role>King Zarkon</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/376774.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rhys Darby</name>
+        <role>Coran</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/376771.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kimberly Brooks</name>
+        <role>Princess Allura</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/376770.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steven Yeun</name>
+        <role>Keith</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/376769.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tyler Labine</name>
+        <role>Hunk</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/376768.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josh Keaton</name>
+        <role>Shiro</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/376767.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bex Taylor-Klaus</name>
+        <role>Pidge</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/376766.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Shada</name>
+        <role>Lance</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/376765.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

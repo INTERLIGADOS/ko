@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>The Ren and Stimpy Show</title>
+    <showtitle>The Ren and Stimpy Show</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.700000</value>
+            <votes>39</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>The show revolves around the lives of an angry, insane chihuahua named Ren Höek and his brain-dead &quot;eediot&quot; sidekick cat, Stimpy. Together the duo have lots of bizarre and outrageous adventures accompanied by George Liquor, Mr. Horse, Powdered Toast Man, Muddy Mudskipper, Mr. and Mrs. Pipe, Mrs. Buttloaf, and Svën Höek.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/76088-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/3536-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/76088-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/76088-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/76088-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/3536.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/3536-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/3536-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/76088-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/3536-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/76088-0-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/3536-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/3536-4.jpg</thumb>
+    <thumb aspect="banner" type="season" season="2">http://thetvdb.com/banners/seasonswide/76088-2.jpg</thumb>
+    <thumb aspect="banner" type="season" season="5">http://thetvdb.com/banners/seasonswide/76088-5.jpg</thumb>
+    <thumb aspect="banner" type="season" season="3">http://thetvdb.com/banners/seasonswide/76088-3.jpg</thumb>
+    <thumb aspect="banner" type="season" season="4">http://thetvdb.com/banners/seasonswide/76088-4.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/76088-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76088-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76088-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76088-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76088-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76088-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76088-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76088-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76088-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76088-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76088-5.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="|231,105,57|226,76,77|242,179,198|" preview="_cache/fanart/original/76088-3.jpg">fanart/original/76088-3.jpg</thumb>
+        <thumb dim="1280x720" colors="|255,255,255|58,35,27|253,167,106|" preview="_cache/fanart/original/76088-1.jpg">fanart/original/76088-1.jpg</thumb>
+        <thumb dim="1280x720" colors="|253,33,9|46,49,54|154,134,110|" preview="_cache/fanart/original/76088-2.jpg">fanart/original/76088-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/76088-5.jpg">fanart/original/76088-5.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/76088-4.jpg">fanart/original/76088-4.jpg</thumb>
+    </fanart>
+    <mpaa>TV-G</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="76088-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/76088/all/pt.zip</url>
+    </episodeguide>
+    <id>76088</id>
+    <uniqueid type="unknown" default="true">76088</uniqueid>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <genre>Comedy</genre>
+    <premiered>1991-08-01</premiered>
+    <year>1991</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Nickelodeon</studio>
+    <trailer></trailer>
+    <actor>
+        <name>John Kricfalusi</name>
+        <role>Ren, Mr Horse, Others</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/79821.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Billy West</name>
+        <role>Stimpy</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/43049.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gary Owens</name>
+        <role>Powered Toast Man</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/43046.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cheryl Chase</name>
+        <role></role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Harris Peet</name>
+        <role></role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

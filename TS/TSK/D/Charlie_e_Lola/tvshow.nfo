@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Charlie and Lola</title>
+    <showtitle>Charlie and Lola</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.400000</value>
+            <votes>7</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>I have this little sister, Lola. She is small and very funny. &#x0D;&#x0A;Charlie &amp; Lola is fun series targeted at preschool audiences about a boy named Charlie and his sister, Lola. Featuring a unique &quot;collage&quot; animation style and catchy background themes, the show follows the pair as Charlie helps out his often rather independent-minded sister, Lola. Lola can be rather firm-minded when it comes to things like not wanting to go to bed, or doing things on her own, but Charlie doesn&apos;t mind too much --- he knows how to come up with a creative solution to help Lola see a different point of view. Viewers can accompany the two as they travel to fantastic worlds using their amazing imaginations. &#x0D;&#x0A;Charlie &amp; Lola is based on a series of books by Lauren Child, who works on the show as an associate producer.</plot>
+    <tagline></tagline>
+    <runtime>11</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/75933-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/75933-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/75933-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/34532-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/75933-g3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/75933-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/75933-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/75933-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/75933-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/75933-1-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75933-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75933-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75933-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75933-1.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/75933-4.jpg">fanart/original/75933-4.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/75933-6.jpg">fanart/original/75933-6.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/75933-1.jpg">fanart/original/75933-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/75933-5.jpg">fanart/original/75933-5.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/75933-3.jpg">fanart/original/75933-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/75933-2.jpg">fanart/original/75933-2.jpg</thumb>
+    </fanart>
+    <mpaa>TV-Y</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="75933-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/75933/all/pt.zip</url>
+    </episodeguide>
+    <id>75933</id>
+    <uniqueid type="unknown" default="true">75933</uniqueid>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <premiered>2005-03-01</premiered>
+    <year>2005</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>CBeebies</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Jethro Lundie-Brown</name>
+        <role></role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maisie Cowell</name>
+        <role></role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

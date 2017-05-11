@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Chaotic</title>
+    <showtitle>Chaotic</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.500000</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Chaotic é um famoso jogo de cartas e online centralizado na batalha de quatro tribos de criaturas: Outro Mundo, Sub-Mundo, Mipedians e Danians, mas diferente de todos os jogos de cartas sempre que um jogador adquire bons pontos no jogo online ele ganha uma senha capaz de mandá-lo a outra dimensão onde vários jogadores podem se duelar transformando-se nas criaturas das cartas e conseguindo novas para seu baralho.&#x0D;&#x0A;Tom e Kaz são dois amigos que viviam jogando tanto o jogo de cartas quanto o online até Tom receber uma senha misteriosa. Kaz logo aconselha Tom digitar a senha em seu scanner e após isso ele é tele-transportado a dimensão de Chaotic, um lugar onde as pessoas podiam se transformar nas criaturas das cartas em batalhas contra outros jogadores. E ainda se tele-transportar pra Perim, uma dimensão onde as criaturas das cartas vivem em civilizações em guerra uma contra a outra e que também podem serem scanneadas por jogadores para seus baralhos.&#x0D;&#x0A;Durante a série Tom vira amigo de Sarah e Peyton, dois jogadores que passam a ser seu aliado e inimigo Kristela e Klay, dois jogadores de Chaotic muito trapaceiros. Na segunda temporada uma nova tribo aparece em Perim os &quot;M’arrillians&quot; que tentam dominar as tribos restantes inundando toda Perim e as tribos que viviam em guerra se unem para derrotá-los.</plot>
+    <tagline></tagline>
+    <runtime>30</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/82852-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/82852-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/82852-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/82852-g2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/82852-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82852-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82852-1.jpg</thumb>
+    <fanart>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/82852-2.jpg">http://thetvdb.com/banners/fanart/original/82852-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/82852-1.jpg">http://thetvdb.com/banners/fanart/original/82852-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/82852-4.jpg">http://thetvdb.com/banners/fanart/original/82852-4.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/82852-3.jpg">http://thetvdb.com/banners/fanart/original/82852-3.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="82852-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/82852/all/pt.zip</url>
+    </episodeguide>
+    <id>82852</id>
+    <uniqueid type="unknown" default="true">82852</uniqueid>
+    <genre>Animation</genre>
+    <premiered>2006-10-07</premiered>
+    <year>2006</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>FOX (US)</studio>
+    <trailer></trailer>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

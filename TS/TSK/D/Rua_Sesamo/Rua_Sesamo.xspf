@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Lista de reprodução</title>
+	<trackList>
+		<track>
+			<location>http://www.youtube.com/watch?v=xZcchOF-RkU</location>
+			<title>O Desafio do Elmo - Comer Bem Faz Bem</title>
+			<annotation>Mae, Elmo e Come-come vão fazer um piquenique e estão no mercado; Come-come quer levar apenas biscoitos, mas Mae diz que eles não podem levar só o que querem, mas sim alimentos que precisam para ficarem saudáveis. Eles participam do “Desafio do Elmo”, comandado por Grover, e têm que escolher quais são os alimentos saudáveis. Eles vencem o desafio e depois se divertem no piquenique.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/23b06c138879046661443bf807a1fd3e/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=8f6enZj9ofk</location>
+			<title>O Desafio do Elmo – Um dia na praia</title>
+			<annotation>Elmo e Lola estão preparando as bolsas para passar um dia na praia com Mae e Louie, mas eles querem levar muitos brinquedos. Louie diz que eles não podem levar tudo o que querem, primeiro devem escolher aquilo de que precisam. Eles participam do “Desafio do Elmo”, comandado por Grover, vencem o jogo e passam um divertido dia na praia.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/eeb1a95dda5a5ebc08188370525fa062/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=LWV5MjK1MAk</location>
+			<title>O Desafio do Elmo - Fome animal!</title>
+			<annotation>Elmo e Lola vão até o celeiro com Mae e querem alimentar os bichos; mas eles acham que podem dar alimentos que as pessoas comem, como macarrão; então tem de aprender a identificar o que cada animal precisa comer. Eles participam do “Desafio do Elmo”, comandado por Grover, e conseguem alimentar corretamente os bichos.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/7a132d8c26adddec69adeb9437513eac/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=qJG3mX4bDmM</location>
+			<title>O Desafio do Elmo - Que bagunça!</title>
+			<annotation>Bel tem ingressos para o circo e chama Elmo para ir com ela, mas Mae diz que só ele só pode sair depois de arrumar o quarto. Elmo e Bel participam do “Desafio do Elmo”, comandado por Grover, conseguem organizar tudo, colocar cada coisa em seu lugar.  No final, todos vão ao circo.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/45c284a02cc1ea6a22a6b4ef1c8fb23d/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=r1uZbT_gnbg</location>
+			<title>O Desafio do Elmo -  Compartilhar é Cuidar</title>
+			<annotation>[CDATA[]]</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/d0ab8a470c9c91b3f112764dd082e242/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=Mjv_99meTvo</location>
+			<title>O Desafio do Elmo - É ótimo doar!</title>
+			<annotation>Mae incentiva Elmo a separar roupas e brinquedos que não servem mais para doar aos bebês. Elmo e Lola participam do “Desafio do Elmo”, comandado por Grover, e escolhem o está em bom estado e que podem doar. Eles vencem o desafio, e colocam na sacola as coisas para os bebês.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/30c4c4321b5190d723240635a2269a92/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=wSn46dFwC24</location>
+			<title>O Desafio do Elmo - Um banho de economia!</title>
+			<annotation>Elmo e Bel estão molhando as plantas e percebem como a água é essencial para todo ser vivo. Mae diz por isso mesmo é preciso economizá-la. Elmo e Bel participam do “Desafio do Elmo”, comandado por Grover, e identificam situações em que podem preservar a água. Vencem o desafio e ficam felizes com o que aprenderam.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/5b3635a71f1591b3c29fc87a9bce19fe/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=b8BwuYk_O0w</location>
+			<title>O Desafio do Elmo - Crescendo na horta!</title>
+			<annotation>Elmo e Bel estão vendo Mae preparar uma sopa. Eles observam as sementes da abóbora com curiosidade. Elmo sente vontade de fazer uma horta e quer saber como plantar. Eles participam do “Desafio do Elmo”, comandado por Grover, e planejam a sequência de atividades para o plantio. No final plantam as sementes no jardim de casa.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/34930d529af9628f2f4993c277ea80a7/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=GSSC2ED3F8A</location>
+			<title>O Desafio do Elmo - Uma Idea Brilhante!</title>
+			<annotation>Em casa, Elmo e Lola estão brincando com Mae, todas as luzes estão acesas. Quando Elmo liga o ventilador, a luz pisca. Elmo e Lola perguntam o que está acontecendo, Mae diz que estão gastando muita eletricidade, que devem economizar. Elmo e Lola querem saber como fazer isso. Eles participam do “Desafio do Elmo”, comandado por Grover, e identificam o que fazer para economizar eletricidade.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/c8de63f6192c88028214376c2d3b2be5/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=ZYUOIPgbyZc</location>
+			<title>O Desafio do Elmo - Bi bi fon fon!</title>
+			<annotation>Elmo e Chamky veem Come-come brincando com um carrinho novo e decidem se planejar para fazer um carrinho parecido com aquele. Eles participam do “Desafio do Elmo”, comandado por Grover, colocam em sequência tudo o que devem fazer para construírem o seu carrinho: desenhar o projeto, procurar materiais que podem ser reutilizados, pintar e colar acessórios. Eles vencem o desafio, montam o carrinho e todos brincam juntos.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/86fd5fd67dbe12de06a341a4fbc8f2e8/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=RGRqD-JjqHE</location>
+			<title>O Desafio do Elmo - Trabalho Legal!</title>
+			<annotation>Chamky e Elmo estão pegando roupas e acessórios em um baú, brincando do que querem ser quando crescerem. Elmo diz que quer ajudar a cuidar da saúde das pessoas. Ele e Chamky participam do “Desafio do Elmo”, comandado por Grover, e identificam profissões relacionadas ao cuidado com a saúde.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/611bc25e8349ee98c44570b9031b2635/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=rkyBzRviT-g</location>
+			<title>O Desafio do Elmo - Nossa biblioteca!</title>
+			<annotation>Bel chega na casa de Elmo com a notícia de que a biblioteca do bairro está quase pronta, só faltam os livros e materiais, que a vizinhança combinou de separar para todos compartilharem na nova biblioteca. Elmo e Bel participam do “Desafio do Elmo”, comandado por Grover, escolhem os materiais que podem compartilhar. Vencem o desafio e no final todos aproveitam a nova biblioteca.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/61ac86c62ca1ac41bb23ca6a49e9c9ec/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=p6jyf-ZQWE0</location>
+			<title>O Desafio do Elmo - Golaço!</title>
+			<annotation>Elmo e Lola veem um jogo de futebol na TV e dizem que gostariam de ser jogadores também. Louie diz que eles podem, mas precisam se planejar, se preparar para isso. Elmo e Lola participam do “Desfio do Elmo”, comandado por Grover, colocando em sequência o que precisam fazer para realizar seus sonhos: alimentar-se de forma saudável, fazer atividade física, dormir bem à noite. Eles vencem o desafio e começam o treinamento.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/998c80592a85aaf53f5169f7ef86c31c/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=6a_SlJg7ByM</location>
+			<title>O Desafio do Elmo - Esquadrão da limpeza!</title>
+			<annotation>Elmo, Lily e Mae estão andando no jardim, mas muitos resíduos estão espalhados. Eles decidem recolher tudo e ver o que podem reaproveitar. Elmo e Lily participam do “Desafio do Elmo”, comandado por Grover, escolhem o que podem reaproveitar para fazerem coisas criativas. Vencem o desafio e todos brincam no jardim.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/ed53abc81912588201ee69017c68a9d2/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=TE0mFE-vfGg</location>
+			<title>O Desafio do Elmo - Limonada matemática</title>
+			<annotation>Mae quer preparar uma limonada junto com Elmo e Lily e para isso mostra uma receita que devem seguir. As crianças participam do “Desafio do Elmo”, comandado por Grover, contando os ingredientes que devem utilizar na receita. Vencem o desafio e tomam a limonada.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/8323e2dfa44bcf6e739a36c27aa678ee/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=CjBcCKlxWRg</location>
+			<title>O Desafio do Elmo – Fisgados pelos peixes</title>
+			<annotation>Elmo, Lola e Louie estão na loja de peixes, observando os peixes; Elmo e Lola querem levar alguns para casa; Louie diz para escolherem 6 peixinhos do mesmo aquário para levarem. Elmo e Lola participam do “Desafio do Elmo”, comandado por Grover, contam os peixes dos aquários e escolhem os 6 que vão levar. No final, as crianças ficam muitos felizes com seus novos amigos.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/b427d9fe190ffcf7c9863df4ed7a311d/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=Ko4oaMtK3DE</location>
+			<title>Desafio do Elmo - Doar é legal!</title>
+			<annotation>Elmo, Lily e Louie estão separando coisas para doarem em um posto de arrecadação. Louie diz que para separarem o que estiver em bom estado. Elmo e Lily participam do “Desafio do Elmo”, comandado por Grover, selecionam roupas, brinquedos e um cobertor. Vencem o desafio e fazem a doação.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/230d6c43499354d7953e92edac81c6ea/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=6-nHIDoFXJ8</location>
+			<title>O Desafio do Elmo  –  Agricultor feliz</title>
+			<annotation>Mae, Elmo e Bel estão em uma feira do produtor rural e vêem um agricultor cuidando de seus legumes e cantarolando, feliz. Mae compra uma abóbora, o que deixa o agricultor ainda mais feliz. Elmo e Lola querem saber o que o faz agricultor feliz. Eles participam do “Desafio do Elmo”, comandado por Grover, identificando o que deixa um agricultor feliz. Eles vencem o desafio, e se alimentam contentes.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/d4c2105e02a0773c098ba54942448b02/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=5_pHBenS1Yc</location>
+			<title>O Desafio do Elmo – Antes de ir para cama</title>
+			<annotation>Lola vai dormir na casa de Elmo. Eles querem ouvir uma história antes de dormir. Louie diz que antes eles precisam fazer algumas coisas. Elmo pergunta o que eles precisam fazer antes de dormir. Ele e Lola participam do “Desafio do Elmo”, comandado por Grover, cuidam da higiene pessoal e dormem com Louie lendo para eles.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/e234db83c8ebb3f8b587923871926ca5/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=xpx2WjdCdbs</location>
+			<title>O Desafio do Elmo - Feira econômica</title>
+			<annotation>Elmo, Lily e Mae estão na feira, e Elmo tem as suas moedinhas para comprar as frutas de que mais gosta. Ele vê frutas em duas barracas; Mae diz que há preços diferentes e que ele deve escolher as que custam menos. Elmo e Lily participam do “Desafio do Elmo”, comandado por Grover, e escolhem as frutas mais baratas; Elmo guarda as moedas que economizou em um cofrinho.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/4539d1a0d82856f6f72fde5385cdd4dd/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=wsaOK4caydM</location>
+			<title>O Desafio do Elmo – Poupança musical</title>
+			<annotation>Elmo quer comprar um instrumento musical com as moedas que economizou. Ele, Lola e Louie estão na loja para escolher o instrumento adequado. Elmo e Lola participam do “Desafio do Elmo”, comandado por Grover, contando as moedas que têm e escolhendo o instrumento que podem comprar com elas. Vencem o desafio, Elmo compra uma flauta, e no final todos comemoram tocando como uma banda.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/53620025a4f93b2598ea3854c95ea3fc/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=cixOogNAEVA</location>
+			<title>O Desafio do Elmo - Está chovendo, e agora?</title>
+			<annotation>Mae, Elmo e Come-come estão saindo para pescar, mas uma tempestade cai, adiando o passeio; eles têm que esperar. Elmo e Come-come participam do “Desafio do Elmo”, comandado por Grover, identificando as atividades que podem fazer enquanto esperam a chuva passar. Eles vencem o desafio, o sol aparece e todos se divertem na pescaria</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/ecb9754e8fdd29e6537de6e0ab1888cd/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=L7GOiyXSpXc</location>
+			<title>O Desafio do Elmo - Criatividade na palma da mão!</title>
+			<annotation>Elmo e Lily assistem a uma peça de teatro e decidem fazer um teatro em casa. Eles participam do “Desafio do Elmo”, comandado por Grover, reutilizam objetos que têm em casa e constroem o teatro.</annotation>
+			<info>https://www.youtube.com/playlist?list=PLIkaIuuyIt7CaniLprWYnH6DOHjk-IBSO</info>
+			<image>file:///C:/Users/root/AppData/Roaming/vlc/art/arturl/02ed4d368d3c10194d1e78ae015a78a7/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+	</extension>
+</playlist>

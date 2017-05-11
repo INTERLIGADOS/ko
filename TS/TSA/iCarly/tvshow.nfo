@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>ICarly</title>
+    <showtitle>ICarly</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>7.800000</value>
+            <votes>22</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Um show em um show, iCarly segue Carly Shay e seus melhores amigos, Sam e Freddie. Carly vive com seu irmão mais velho e seu guardião, Spencer de 26 anos e produz seu próprio WebShow apartir de um estúdio improvisado no sótão. Devido as brincadeiras divertidas e o fato que Carly e Sam tem uma ótima química, iCarly torna-se uma sensação na internet</plot>
+    <tagline></tagline>
+    <runtime>0</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/82493-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/82493-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/82493.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/82493-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/82493-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/82493-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/82493-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/82493-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/82493-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/82493-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/82493-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/82493-3-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/82493-5-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/82493-4-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/82493-3-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/82493-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/82493-0-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/82493-5-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/82493-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/82493-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/82493-4-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/82493-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/82493-1-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/82493-6-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/82493-2-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82493-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82493-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82493-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82493-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82493-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82493-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82493-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82493-4.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/82493-6.jpg">fanart/original/82493-6.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/82493-7.jpg">fanart/original/82493-7.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/82493-3.jpg">fanart/original/82493-3.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/82493-12.jpg">fanart/original/82493-12.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/82493-14.jpg">fanart/original/82493-14.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/82493-5.jpg">fanart/original/82493-5.jpg</thumb>
+        <thumb dim="1280x720" colors="|241,223,213|12,53,115|90,191,235|" preview="_cache/fanart/original/82493-2.jpg">fanart/original/82493-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/82493-1.jpg">fanart/original/82493-1.jpg</thumb>
+        <thumb dim="1280x720" colors="|178,253,2|253,221,222|181,253,5|" preview="_cache/fanart/original/82493-4.jpg">fanart/original/82493-4.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/82493-11.jpg">fanart/original/82493-11.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/82493-9.jpg">fanart/original/82493-9.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/82493-10.jpg">fanart/original/82493-10.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/82493-8.jpg">fanart/original/82493-8.jpg</thumb>
+    </fanart>
+    <mpaa>TV-G</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="82493-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/82493/all/pt.zip</url>
+    </episodeguide>
+    <id>82493</id>
+    <uniqueid type="unknown" default="true">82493</uniqueid>
+    <genre>Comedy</genre>
+    <genre>Family</genre>
+    <premiered>2009-04-26</premiered>
+    <year>2009</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Nickelodeon</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Miranda Cosgrove</name>
+        <role>Carly Shay</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/70997.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jennette McCurdy</name>
+        <role>Sam / Samantha Puckett</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/205101.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nathan Kress</name>
+        <role>Freddie / Fredward Benson</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/205111.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Boogie</name>
+        <role>T-Bo</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/311390.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mary Scheer</name>
+        <role>Marissa Benson</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/311389.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Noah Munck</name>
+        <role>Gibby Gibson</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/215211.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jerry Trainor</name>
+        <role>Spencer Shay</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/375569.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>O Fantástico Mundo de Bobby</title>
+    <showtitle>O Fantástico Mundo de Bobby</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>7.000000</value>
+            <votes>1</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Bobby lives in a typical suburban neighborhood, but step inside his imagination and discover a world of daring adventure, incredible wonder and lots of laughs-all in pint-sized perspective.</plot>
+    <tagline></tagline>
+    <runtime>30</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77312-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/77312-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77312-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/77312-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/77312-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77312-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/77312-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/77312-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77312-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77312-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77312-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77312-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77312-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77312-3.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77312-1.jpg">fanart/original/77312-1.jpg</thumb>
+    </fanart>
+    <mpaa>TV-Y</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="77312-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/77312/all/pt.zip</url>
+    </episodeguide>
+    <id>77312</id>
+    <uniqueid type="unknown" default="true">77312</uniqueid>
+    <genre>Animation</genre>
+    <premiered>1990-09-01</premiered>
+    <year>1990</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>FOX (US)</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Christine Ebersole</name>
+        <role></role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Debi Derryberry</name>
+        <role></role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edie McClurg</name>
+        <role></role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frank Welker</name>
+        <role></role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/62974.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gail Matthius</name>
+        <role></role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gary Owens</name>
+        <role></role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/43046.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Howie Mandel</name>
+        <role></role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Katie Leigh</name>
+        <role></role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kevin Michaels</name>
+        <role></role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rob Paulsen</name>
+        <role></role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tino Insana</name>
+        <role></role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

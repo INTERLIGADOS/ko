@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<main_menu>
+    <menu_info>
+	<title>[I][COLOR lime][B]PalcoTV 0.3.6[/B][/I][/COLOR]</title>
+	<thumbnail>http://oi68.tinypic.com/20rs2gi.jpg</thumbnail>
+	<fanart>http://oi66.tinypic.com/351x0dj.jpg</fanart>	
+	<date></date>
+	<info>Skin [B]Demo[/B] de PalcoTV[CR]Última actualización: 22/09/2016[CR][CR]Dudas y sugerencias a [I]juarrox@gmail.com[/I]</info>[CR]Más info en [COLOR lightblue][B]palcotv.net[/B][/COLOR]</info>
+	<credits>JuarroX</credits>
+    </menu_info>
+	<channel>
+		<name>[COLOR lightgreen]Mi biblioteca[/COLOR]</name>
+		<thumbnail>http://img02.deviantart.net/264a/i/2008/093/8/0/media_tools_folder_by_jasonh1234.jpg</thumbnail>
+		<fanart>http://oi66.tinypic.com/351x0dj.jpg</fanart>
+		<action>myplaylists_m3u</action>
+		<last_update>10.07.2014</last_update>
+		<desc>Biblioteca local de listas M3U y galería de imágenes o cómics CBR/CBZ. [CR][CR]La ruta se encuentra en [COLOR lightgreen][I]kodi/userdata/playlists[/I][/COLOR]</desc>
+		<url>http://pastebin.com/raw/LbHBRdwL</url>	
+	</channel>
+
+	<channel>
+		<name>[COLOR lightgreen]Actualizaciones[/COLOR]</name>
+		<thumbnail>http://oi64.tinypic.com/29d7kg0.jpg</thumbnail>
+		<fanart>http://oi66.tinypic.com/351x0dj.jpg</fanart>
+		<desc>Módulo de actualizaciones de [COLOR lightyellow][B]PalcoTV[/B][/COLOR].[CR][CR][COLOR red]NOTA:[/COLOR] Bugs o sugerencias a [B]juarrox@gmail.com[/B]</desc>
+		<action>check_update</action>
+		<last_update>17/12/2015</last_update>
+		<url>http://pastebin.com/raw/YGX6duxQ</url> 
+	</channel>	
+
+	<channel>
+		<name>Samples</name>
+		<thumbnail>http://oi68.tinypic.com/20rs2gi.jpg</thumbnail>
+		<fanart>http://oi66.tinypic.com/351x0dj.jpg</fanart>
+		<desc>Samples de vídeo</desc>
+		<action>xml_lists</action>
+		<last_update>22.05.2015</last_update>
+		<url>http://pastebin.com/raw/LbHBRdwL</url>
+		
+		<subchannel>
+			<name>[COLOR white][I]Big Buck Bunny[/I][/COLOR]</name>
+			<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg</thumbnail>
+			<fanart>https://peach.blender.org/wp-content/uploads/bbb-splash.png</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/8036850/PalcoTV/Big_Buck_Bunny.m3u</url>
+		</subchannel>
+		
+		<subchannel>
+			<name>[COLOR white][I]Samples [COLOR gold][B]4K[/B][/I][/COLOR]</name>
+			<thumbnail>http://satcesc.com/web/wp-content/uploads/2014/05/ultra-4k.png</thumbnail>
+			<fanart>http://axeetech.com/wp-content/uploads/2014/09/468739.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/8036850/PalcoTV/Samples-4K.m3u</url>
+		</subchannel>
+		
+		<subchannel>
+			<name>[COLOR white][I]Samples [COLOR gold][B]EPG-TXT[/B][/I][/COLOR]</name>
+			<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/10/TV_Guide_Network.png</thumbnail>
+			<fanart>http://www.wallcoo.net/cartoon/abstract_colors_2560x1600_0902/wallpapers/2560x1600/abstract_colors_bloodstream_green.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/8036850/PalcoTV/Samples-EPGTXT.m3u</url>
+		</subchannel>		
+	</channel>
+    <channel>
+        <name>Plantillas</name>
+        <thumbnail>http://oi68.tinypic.com/20rs2gi.jpg</thumbnail>
+        <fanart>http://oi66.tinypic.com/351x0dj.jpg</fanart>
+        <desc>Plantillas de listas M3U con las peculiares sintaxis para que montes tus propias listas personales</desc>
+        <action>xml_lists</action>
+        <last_update>22.05.2015</last_update>
+        <url>http://pastebin.com/raw/LbHBRdwL</url>
+	</channel>
+    <channel>
+        <name>ScraperX</name>
+        <thumbnail>https://www.cubbyusercontent.com/pl/ScraperX_Logo.png/_2a871862a8014477aa550febc8e0839b</thumbnail>
+        <fanart>https://www.cubbyusercontent.com/pl/scraperx.png/_425ab9087a564c45ae6f216db8655e1a</fanart>
+        <desc>Scraper oficial de películas y series de PalcoTV</desc>
+        <action>scraperx0</action>
+        <last_update>31.05.2016</last_update>
+        <url>http://pastebin.com/raw/LbHBRdwL</url>
+	</channel>
+</main_menu>

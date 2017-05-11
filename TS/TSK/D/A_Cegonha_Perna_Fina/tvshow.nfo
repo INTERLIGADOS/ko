@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Crazylegs Crane</title>
+    <showtitle>Crazylegs Crane</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>10.000000</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>&quot;Crazylegs Crane&quot; is a 16-episode made-for-television cartoon series produced by DePatie-Freleng Enterprises in 1978 for &quot;The All New Pink Panther Show&quot; on ABC. Crazylegs Crane is a dim-witted yellow crane (voiced by Larry D. Mann). Crane was usually joined by his son, Crazylegs Crane, Jr. (voiced by Frank Welker). Each episode dealt with the father/son team trying to catch a fire-breathing dragonfly (also voiced by Welker, who is impersonating Andy Kaufman).</plot>
+    <tagline></tagline>
+    <runtime>6</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/249589-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/249589-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/249589-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/249589-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/249589-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/249589-1.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/249589-3.jpg">fanart/original/249589-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/249589-2.jpg">fanart/original/249589-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/249589-1.jpg">fanart/original/249589-1.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="249589-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/249589/all/pt.zip</url>
+    </episodeguide>
+    <id>249589</id>
+    <uniqueid type="unknown" default="true">249589</uniqueid>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <genre>Comedy</genre>
+    <genre>Family</genre>
+    <premiered>1969-06-01</premiered>
+    <year>1969</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>ABC (US)</studio>
+    <trailer></trailer>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

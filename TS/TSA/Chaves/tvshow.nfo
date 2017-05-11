@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Chaves</title>
+    <showtitle>Chaves</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.600000</value>
+            <votes>9</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>A série conta a história de um garoto órfão e muito humilde, que é conhecido simplesmente como &quot;El Chavo del ocho&quot;. No Brasil é conhecido como &quot;Chaves do Oito&quot; ou simplesmente &quot;Chaves&quot;. O garoto vive na periferia de uma grande cidade, e seu &quot;esconderijo&quot; é um barril localizado no pátio principal da vila de classe média baixa onde passa todo o seu dia. Lá, ele deve conviver com os particulares moradores e vizinhos, com os quais sempre está envolvido em divertidas situações. Através das mais variadas formas de comédia (tais como o pastelão e a ironia), a série aborda críticas sociais relativas à convivência entre vizinhos, satirizando atitudes genuínas com piadas rápidas e por vezes perspicazes a cada episódio. Segundo Bolaños, em entrevista ao livro O Diário do Chaves, lançado em 2006, o garoto havia fugido de um orfanato do qual a mãe o havia deixado bem pequeno, uma vez que não se sentia feliz lá. Foi então que encontrou uma &quot;vila&quot;, e uma senhora sozinha, muito idosa, o abrigou no apartamento número 8, onde morava. Logo, ela faleceu e Chaves teve que ser despejado, passando a viver então dentro do Barril. Mas para todos, continuava dizendo que morava no apartamento 8.</plot>
+    <tagline></tagline>
+    <runtime>30</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/82516-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/82516-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/82516-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/82516-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/82516-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/82516-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/82516-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/82516-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/82516-6-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/82516-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/82516-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/82516-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/82516-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/82516-8-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/82516-7.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/82516-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82516-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82516-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82516-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82516-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82516-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82516-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82516-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82516-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82516-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82516-5.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/82516-3.jpg">fanart/original/82516-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/82516-5.jpg">fanart/original/82516-5.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/82516-6.jpg">fanart/original/82516-6.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/82516-4.jpg">fanart/original/82516-4.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/82516-2.jpg">fanart/original/82516-2.jpg</thumb>
+        <thumb dim="1280x720" colors="|204,170,221|193,120,189|196,134,207|" preview="_cache/fanart/original/82516-1.jpg">fanart/original/82516-1.jpg</thumb>
+    </fanart>
+    <mpaa>TV-G</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="82516-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/82516/all/pt.zip</url>
+    </episodeguide>
+    <id>82516</id>
+    <uniqueid type="unknown" default="true">82516</uniqueid>
+    <genre>Comedy</genre>
+    <premiered>1973-02-26</premiered>
+    <year>1973</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Televisa</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Roberto Gomez Bolaños</name>
+        <role>el Chavo</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/77983.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ramon Valdes</name>
+        <role>Don Ramón</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/77986.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carlos Villagran</name>
+        <role>Kiko</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/77985.jpg</thumb>
+    </actor>
+    <actor>
+        <name>María Antonieta de las Nieves</name>
+        <role>Chilindrina</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/77984.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rubén Aguirre</name>
+        <role>Profesor Jirafales</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/303998.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Édgar Vivar</name>
+        <role>Señor Barriga / Ñoño</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/303996.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Florinda Meza</name>
+        <role>Doña Florinda / Popis</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/303995.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Angelines Fernández</name>
+        <role>Doña Clotilde</role>
+        <order>14</order>
+        <thumb>http://thetvdb.com/banners/actors/379454.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Horacio Gómez Bolaños</name>
+        <role></role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Raúl Padilla</name>
+        <role></role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

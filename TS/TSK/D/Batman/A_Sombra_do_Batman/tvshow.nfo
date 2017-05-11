@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Beware the Batman</title>
+    <showtitle>Beware the Batman</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>7.600000</value>
+            <votes>9</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Uma nova visão da clássica franquia do Cavaleiro das Trevas, Beware the Batman traz os principais personagens do Batman juntamente com uma nova galeria de vilões nunca antes vistos em animação. Contando com o apoio do ex-agente secreto Alfred e da letal espadachim Katana, o Cavaleiro das Trevas enfrenta as maquinações do submundo criminoso de Gotham City liderada pelos vilões Anarquia, Professor Porko, Sr. Sapão e Magpie. Produzido pela Warner Bros. Animation, este thriller policial repleto de ação redefine o que nós conhecemos como uma &quot;Atração do Batman&quot;. Apresentando uma tecnologia CGI, Beware the Batman, baseado nos personagens da DC Comics, chega ao DC Nation do Cartoon Network no verão de 2013.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/258331-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/258331-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/258331-g3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/258331-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/258331-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/258331-1-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/258331-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/258331-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/258331-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/258331-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/258331-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/258331-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/258331-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/258331-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/258331-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/258331-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/258331-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/258331-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/258331-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/258331-4.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/258331-1.jpg">fanart/original/258331-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/258331-11.jpg">fanart/original/258331-11.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/258331-2.jpg">fanart/original/258331-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/258331-7.jpg">fanart/original/258331-7.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/258331-12.jpg">fanart/original/258331-12.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/258331-8.jpg">fanart/original/258331-8.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/258331-5.jpg">fanart/original/258331-5.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/258331-4.jpg">fanart/original/258331-4.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/258331-6.jpg">fanart/original/258331-6.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/258331-10.jpg">fanart/original/258331-10.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/258331-9.jpg">fanart/original/258331-9.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/258331-3.jpg">fanart/original/258331-3.jpg</thumb>
+    </fanart>
+    <mpaa>TV-PG</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="258331-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/258331/all/pt.zip</url>
+    </episodeguide>
+    <id>258331</id>
+    <uniqueid type="unknown" default="true">258331</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <premiered>2013-07-13</premiered>
+    <year>2013</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Cartoon Network</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Kurtwood Smith</name>
+        <role>James Gordon</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/297869.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lance Riddick</name>
+        <role>Ra&apos;s al Ghul</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/333481.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tara Strong</name>
+        <role>Barbara Gordon / Oracle</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/52436.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anthony Ruivivar</name>
+        <role>Batman / Bruce Wayne</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>JB Blanc</name>
+        <role>Alfred Pennyworth</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sumalee Montano</name>
+        <role>Katana</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

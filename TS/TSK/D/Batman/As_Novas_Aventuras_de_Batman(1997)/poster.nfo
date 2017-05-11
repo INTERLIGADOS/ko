@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Batman GK</title>
+    <showtitle>Batman GK</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.000000</value>
+            <votes>14</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Também conhecido como &quot;The New Batman Adventures&quot;, esta série é a continuação da série animada americana Batman: The Animated Series. A equipe é praticamente a mesma de 1992, quando estreou a série animada de Batman. A história começa 2 anos após o último episódio de &quot;Batman: The Animated Series&quot;. As histórias estão mais sérias, sendo baseadas mais na atualidades, como a década de 90, enquanto na primeira série animada as histórias eram um pouco mais juvenis, sendo baseadas nas histórias em quadrinhos da década de 70. Batman continua lutando contra o crime na cidade de Gotham, mas acontecem algumas mudanças: &quot;Dick Grayson&quot; torna-se &quot;Nightwing&quot;; Tim Drake é &quot;Robin&quot;; e &quot;Batgirl&quot; torna-se parte do time de Batman. Mas a noite continua a ter vilões que ameaçam a cidade de Gohtam...então nem tudo mudou.</plot>
+    <tagline></tagline>
+    <runtime>20</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77084-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77084-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/5420-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/77084-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77084-1-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77084-2-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77084-1-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77084-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77084-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77084-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77084-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77084-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77084-2-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77084-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77084-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77084-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77084-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77084-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77084-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77084-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77084-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77084-3.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77084-10.jpg">fanart/original/77084-10.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77084-5.jpg">fanart/original/77084-5.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77084-7.jpg">fanart/original/77084-7.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77084-6.jpg">fanart/original/77084-6.jpg</thumb>
+        <thumb dim="1920x1080" colors="|255,196,196|73,0,0|189,6,8|" preview="_cache/fanart/original/77084-9.jpg">fanart/original/77084-9.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/77084-13.jpg">fanart/original/77084-13.jpg</thumb>
+        <thumb dim="1920x1080" colors="|251,231,232|78,0,0|188,5,7|" preview="_cache/fanart/original/77084-8.jpg">fanart/original/77084-8.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77084-1.jpg">fanart/original/77084-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77084-4.jpg">fanart/original/77084-4.jpg</thumb>
+        <thumb dim="1280x720" colors="|11,14,19|11,14,19|11,14,19|" preview="_cache/fanart/original/77084-3.jpg">fanart/original/77084-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77084-15.jpg">fanart/original/77084-15.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77084-12.jpg">fanart/original/77084-12.jpg</thumb>
+        <thumb dim="1280x720" colors="|151,161,162|0,0,0|45,74,92|" preview="_cache/fanart/original/77084-2.jpg">fanart/original/77084-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77084-11.jpg">fanart/original/77084-11.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77084-14.jpg">fanart/original/77084-14.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77084-17.jpg">fanart/original/77084-17.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77084-16.jpg">fanart/original/77084-16.jpg</thumb>
+    </fanart>
+    <mpaa>TV-G</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="77084-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/77084/all/pt.zip</url>
+    </episodeguide>
+    <id>77084</id>
+    <uniqueid type="unknown" default="true">77084</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <premiered>1997-09-01</premiered>
+    <year>1997</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>The WB</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Tara Strong</name>
+        <role>Batgirl / Barbara Gordon</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/52436.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Conroy</name>
+        <role>Batman / Bruce Wayne</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/38931.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bob Hastings</name>
+        <role>Commissioner James Gordon</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/43764.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Efrem Zimbalist Jr.</name>
+        <role>Alfred Pennyworth</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/43760.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Loren Lester</name>
+        <role>Dick Grayson</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/43765.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mathew Valencia</name>
+        <role>Robin</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Costanzo</name>
+        <role>Det. Harvey Bullock</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/43762.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arleen Sorkin</name>
+        <role>Dr. Harleen Quinzel</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/311869.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paul Williams</name>
+        <role>Oswald Cobblepot</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

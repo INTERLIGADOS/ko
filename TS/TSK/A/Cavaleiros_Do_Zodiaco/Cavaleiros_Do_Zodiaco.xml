@@ -1,0 +1,58 @@
+<channels>
+
+	<channel>
+		<name>1 - Saga do Santuário</name>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Animes/Cavaleiros_Do_Zodiaco/Cavaleiros_Do_Zodiaco.xml
+		<thumbnail>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Animes/Cavaleiros_Do_Zodiaco/1_-_Saga_do_Santuario/poster.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Animes/Cavaleiros_Do_Zodiaco/1_-_Saga_do_Santuario/1_-_Saga_do_Santuario.xml</externallink>
+			<fanart>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Animes/Cavaleiros_Do_Zodiaco/1_-_Saga_do_Santuario/fanart.jpg</fanart>
+			<info></info>
+		</channel>
+
+
+
+		<channel>
+			<name>2 - Saga de Asgard</name>
+			<thumbnail>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Animes/Cavaleiros_Do_Zodiaco/2_-_Saga_de_Asgard/poster.jpg</thumbnail>
+			<externallink>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Animes/Cavaleiros_Do_Zodiaco/2_-_Saga_de_Asgard/2_-_Saga_de_Asgard.xml</externallink>
+			<fanart>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Animes/Cavaleiros_Do_Zodiaco/2_-_Saga_de_Asgard/fanart.jpg</fanart>
+			<info></info>
+		</channel>
+
+
+
+		<channel>
+			<name>3 - Saga de Poseidon</name>
+			<thumbnail>http://i.imgur.com/vvGUjk1.jpg</thumbnail>
+			<externallink>https://gist.githubusercontent.com/betomoura/406e6cd378333c1b4df54f203998a1c0/raw/3%2520-%2520Saga%2520de%2520Poseidon</externallink>
+			<fanart>https://goo.gl/dRv3iL</fanart>
+			<info></info>
+		</channel>
+
+
+
+		<channel>
+			<name>4 - Saga de Hades</name>
+			<thumbnail>http://i.imgur.com/Ue9i4kp.png</thumbnail>
+			<externallink>https://gist.githubusercontent.com/betomoura/264794b60eb6884a167798c65a3e836f/raw/4%2520-%2520Saga%2520de%2520Hades</externallink>
+			<fanart>https://goo.gl/dRv3iL</fanart>
+			<info></info>
+		</channel>
+
+
+
+		<channel>
+			<name>5 - The Lost Canvas</name>
+			<thumbnail>http://i.imgur.com/SLqTv5B.jpg</thumbnail>
+			<externallink>https://gist.githubusercontent.com/betomoura/211d0fe896b1578b15118cd9456e3a20/raw/5%2520-%2520The%2520Lost%2520Canvas</externallink>
+			<fanart>https://goo.gl/dRv3iL</fanart>
+			<info></info>
+		</channel>
+
+		<channel>
+			<name>6 - Ômega Saga de Marte</name>
+			<thumbnail>http://i.imgur.com/5yJ2cob.jpg</thumbnail>
+			<externallink>https://gist.githubusercontent.com/betomoura/e9bfe5459af9eca15ce22a20e09626f2/raw/6%2520-%2520%25C3%2594mega%2520Saga%2520de%2520Marte</externallink>
+			<fanart>https://goo.gl/dRv3iL</fanart>
+			<info></info>
+		</channel>
+	</channels>

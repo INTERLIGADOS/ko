@@ -1,0 +1,26 @@
+﻿<channels>
+
+<channel>
+<name>VideoClipes</name>
+<thumbnail>http://fabiano.890m.com/VM/poster.jpg</thumbnail>
+<externallink>http://fabiano.890m.com/VM/Videoclips</externallink>
+<fanart>http://fabiano.890m.com/VM/fanart.png</fanart>
+<info>Videoclipe (português brasileiro) ou teledisco (português europeu) é um filme curto e em suporte eletrônico (analógico ou digital). Devido à preponderância quase total dos vídeos musicais e publicitários na produção mundial de vídeos curtos, e porque os vídeos publicitários têm uma designação própria, durante algum tempo "videoclipe" foi quase sinónimo de vídeo musical, mas com o advento da internet de banda larga e a difusão de ficheiros de vídeo através dela, a palavra tem vindo a regressar ao seu sentido original.</info>
+</channel>
+
+<channel>
+<name>Shows</name>
+<thumbnail>http://fabiano.890m.com/VM/poster.jpg</thumbnail>
+<externallink>http://fabiano.890m.com/VM/Shows</externallink>
+<fanart>http://fabiano.890m.com/VM/fanart.png</fanart>
+<info>Show ou Shows pode referir-se a:
+    Espetáculo
+    Show (álbum de The Cure) - de 1993
+    Show (álbum de Tião Carreiro & Pardinho) - de 1970
+    Show (vídeo) - da banda britânica The Cure
+    Show (indivíduo) - correspondente ao termo usado para descrever a mãe do Pedro.
+</info>
+</channel>
+
+</channels>
+

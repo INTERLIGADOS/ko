@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Pica-Pau</title>
+    <showtitle>Pica-Pau</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.500000</value>
+            <votes>4</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Pica-Pau ou Woody Woodpecker era um desenho animado produzido por Walter Lantz em seu estúdio de animação e apareceu pela primeira vez no episódio chamado &quot;Knock Knock&quot; em 25 de novembro de 1940, dentro de um desenho de Andy Panda, como um personagem secundário, mas só foi em 1957 que o Pica-pau apareceu pela primeira vez, conduzindo seu próprio espetáculo chamado &quot;The Woody Woodpecker Show&quot;.</plot>
+    <tagline></tagline>
+    <runtime>7</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/236591-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/236591-g2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1953">http://thetvdb.com/banners/seasons/236591-1953-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1940">http://thetvdb.com/banners/seasons/236591-1940-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1958">http://thetvdb.com/banners/seasons/236591-1958-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1947">http://thetvdb.com/banners/seasons/236591-1947-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1951">http://thetvdb.com/banners/seasons/236591-1951-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1941">http://thetvdb.com/banners/seasons/236591-1941-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1932">http://thetvdb.com/banners/seasons/236591-1932-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1931">http://thetvdb.com/banners/seasons/236591-1931-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1944">http://thetvdb.com/banners/seasons/236591-1944-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1945">http://thetvdb.com/banners/seasons/236591-1945-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1961">http://thetvdb.com/banners/seasons/236591-1961-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1960">http://thetvdb.com/banners/seasons/236591-1960-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1935">http://thetvdb.com/banners/seasons/236591-1935-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1946">http://thetvdb.com/banners/seasons/236591-1946-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1962">http://thetvdb.com/banners/seasons/236591-1962-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1964">http://thetvdb.com/banners/seasons/236591-1964-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1948">http://thetvdb.com/banners/seasons/236591-1948-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1955">http://thetvdb.com/banners/seasons/236591-1955-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1943">http://thetvdb.com/banners/seasons/236591-1943-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1954">http://thetvdb.com/banners/seasons/236591-1954-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1972">http://thetvdb.com/banners/seasons/236591-1972-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1942">http://thetvdb.com/banners/seasons/236591-1942-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1963">http://thetvdb.com/banners/seasons/236591-1963-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1936">http://thetvdb.com/banners/seasons/236591-1936-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1966">http://thetvdb.com/banners/seasons/236591-1966-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1969">http://thetvdb.com/banners/seasons/236591-1969-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1959">http://thetvdb.com/banners/seasons/236591-1959-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1957">http://thetvdb.com/banners/seasons/236591-1957-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1971">http://thetvdb.com/banners/seasons/236591-1971-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1930">http://thetvdb.com/banners/seasons/236591-1930-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1970">http://thetvdb.com/banners/seasons/236591-1970-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1968">http://thetvdb.com/banners/seasons/236591-1968-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1938">http://thetvdb.com/banners/seasons/236591-1938-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1937">http://thetvdb.com/banners/seasons/236591-1937-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1929">http://thetvdb.com/banners/seasons/236591-1929-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/236591-0-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1933">http://thetvdb.com/banners/seasons/236591-1933-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1965">http://thetvdb.com/banners/seasons/236591-1965-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1952">http://thetvdb.com/banners/seasons/236591-1952-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1956">http://thetvdb.com/banners/seasons/236591-1956-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1949">http://thetvdb.com/banners/seasons/236591-1949-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1934">http://thetvdb.com/banners/seasons/236591-1934-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1967">http://thetvdb.com/banners/seasons/236591-1967-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1939">http://thetvdb.com/banners/seasons/236591-1939-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1971">http://thetvdb.com/banners/seasons/236591-1971.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1954">http://thetvdb.com/banners/seasons/236591-1954.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1944">http://thetvdb.com/banners/seasons/236591-1944.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1967">http://thetvdb.com/banners/seasons/236591-1967.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1947">http://thetvdb.com/banners/seasons/236591-1947.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1937">http://thetvdb.com/banners/seasons/236591-1937.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1965">http://thetvdb.com/banners/seasons/236591-1965.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1939">http://thetvdb.com/banners/seasons/236591-1939.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1930">http://thetvdb.com/banners/seasons/236591-1930.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1943">http://thetvdb.com/banners/seasons/236591-1943.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1941">http://thetvdb.com/banners/seasons/236591-1941.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1938">http://thetvdb.com/banners/seasons/236591-1938.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1935">http://thetvdb.com/banners/seasons/236591-1935.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1970">http://thetvdb.com/banners/seasons/236591-1970.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1951">http://thetvdb.com/banners/seasons/236591-1951.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1934">http://thetvdb.com/banners/seasons/236591-1934.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1948">http://thetvdb.com/banners/seasons/236591-1948.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1936">http://thetvdb.com/banners/seasons/236591-1936.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1969">http://thetvdb.com/banners/seasons/236591-1969.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1966">http://thetvdb.com/banners/seasons/236591-1966.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1959">http://thetvdb.com/banners/seasons/236591-1959.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1952">http://thetvdb.com/banners/seasons/236591-1952.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1953">http://thetvdb.com/banners/seasons/236591-1953.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1958">http://thetvdb.com/banners/seasons/236591-1958.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1955">http://thetvdb.com/banners/seasons/236591-1955.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1929">http://thetvdb.com/banners/seasons/236591-1929.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/236591-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1963">http://thetvdb.com/banners/seasons/236591-1963.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1945">http://thetvdb.com/banners/seasons/236591-1945.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1961">http://thetvdb.com/banners/seasons/236591-1961.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1956">http://thetvdb.com/banners/seasons/236591-1956.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1949">http://thetvdb.com/banners/seasons/236591-1949.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1962">http://thetvdb.com/banners/seasons/236591-1962.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1957">http://thetvdb.com/banners/seasons/236591-1957.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1940">http://thetvdb.com/banners/seasons/236591-1940.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1933">http://thetvdb.com/banners/seasons/236591-1933.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1960">http://thetvdb.com/banners/seasons/236591-1960.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1931">http://thetvdb.com/banners/seasons/236591-1931.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1932">http://thetvdb.com/banners/seasons/236591-1932.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1968">http://thetvdb.com/banners/seasons/236591-1968.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1942">http://thetvdb.com/banners/seasons/236591-1942.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1946">http://thetvdb.com/banners/seasons/236591-1946.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1964">http://thetvdb.com/banners/seasons/236591-1964.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1972">http://thetvdb.com/banners/seasons/236591-1972.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/236591-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/236591-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/236591-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/236591-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/236591-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/236591-2.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/236591-3.jpg">fanart/original/236591-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/236591-1.jpg">fanart/original/236591-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/236591-2.jpg">fanart/original/236591-2.jpg</thumb>
+    </fanart>
+    <mpaa>TV-PG</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="236591-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/236591/all/pt.zip</url>
+    </episodeguide>
+    <id>236591</id>
+    <uniqueid type="unknown" default="true">236591</uniqueid>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+    <premiered>1941-08-11</premiered>
+    <year>1941</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <actor>
+        <name>Grace Stafford</name>
+        <role>Woody Woodpecker</role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mel Blanc</name>
+        <role>Woody Woodpecker</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>FDP</title>
+    <showtitle>FDP</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.000000</value>
+            <votes>2</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>A série (fdp) acompanha a história do juiz de futebol Juarez Gomes da Silva. O sonho de Juarez é apitar a final da Copa do Mundo. Apesar de algumas vitórias profissionais, sua vida pessoal é uma derrota. Com um filho e abandonado pela mulher, ele precisa encontrar uma maneira de reconquistar a sua família e recolocar sua vida nos eixos. Em 13 episódios, um olhar inédito e generoso para esse personagem tão mal compreendido. Esta produção conta com várias participações de jogadores e especialistas em futebol.</plot>
+    <tagline></tagline>
+    <runtime>30</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/262000-g.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/262000-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/262000-1.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/262000-1.jpg">fanart/original/262000-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/262000-2.jpg">fanart/original/262000-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/262000-3.jpg">fanart/original/262000-3.jpg</thumb>
+    </fanart>
+    <mpaa>TV-14</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="262000-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/262000/all/pt.zip</url>
+    </episodeguide>
+    <id>262000</id>
+    <uniqueid type="unknown" default="true">262000</uniqueid>
+    <genre>Comedy</genre>
+    <genre>Drama</genre>
+    <premiered>2012-08-26</premiered>
+    <year>2012</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>HBO Latin America</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Eucir de Souza</name>
+        <role>Juarez Gomes da Silva</role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paulo Tiefenthaler</name>
+        <role>Carvalhosa</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carlos Meceni</name>
+        <role>Ladislau Caponero</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cynthia Falabella</name>
+        <role>Manuela</role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Fernanda Franceschetto</name>
+        <role>Vitória</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Adrian Verdaguer</name>
+        <role>Guzman</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gustavo Machado</name>
+        <role>Rui</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maria Cecília Audí</name>
+        <role>Rosali</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vitor Moretti</name>
+        <role>Vinny</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

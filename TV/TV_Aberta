@@ -1,0 +1,419 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+ 
+
+
+<item>
+<title>[COLOR blue][B]Canal Ricos[/B][/COLOR]</title>
+<link>http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/dmK7y9J.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CANAL VIVA[/B][/COLOR]</title>
+<link>http://169.57.142.110:25461/live/gCvB1pCtMo/MzAMDs5CeZ/79.ts</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/d52oq89.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]SBT[/B][/COLOR]</title>
+<link>http://169.57.142.110:25461/live/5WwNKaXy0O/RjENhlMJGR/107.ts</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/WvJrPdd.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]SBT[/B][/COLOR]</title>
+<link>http://gbbrlive2.sambatech.com.br:80/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/WvJrPdd.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]TV GLOGBO SP (REDE GLOBO)[/B][/COLOR]</title>
+<link>http://149.202.91.73:8081/look/sptv/chunks.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/UvFYBPr.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]TV GLOBO RJ (REDE GLOBO)[/B][/COLOR]</title>
+<link>http://149.202.91.73:8081/look/sptv/chunks.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/QtpdATY.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]TV GLOBO MG (REDE GLOBO)[/B][/COLOR]</title>
+<link>http://149.202.91.73:8081/look/sptv/chunks.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/QtpdATY.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]TV CULTURA[/B][/COLOR]</title>
+<link>http://38.96.175.108:1935/tveducativa/tveducativa/chunklist_w1382652817.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/7U3QQ7a.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]TV CULTURA[/B][/COLOR]</title>
+<link>http://177.74.1.38/funtelpa/tv_funtelpa/chunklist_w1450217711.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/cjGZYES.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]REDEBRASIL DE TELEVISÃO RBTV[/B][/COLOR]</title>
+<link>rtmp://173.236.10.10/rbtv//rbtv</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/RwpkASh.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CANAL FUTURA[/B][/COLOR]</title>
+<link>http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/chunklist_w2133988558.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/ZvD0AHP.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]AMAZON SAT[/B][/COLOR]</title>
+<link>http://gbbrlive2.sambatech.com.br:80/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/UlSBlzq.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]ARROIOS TV[/B][/COLOR]</title>
+<link>http://213.13.26.11:1935/live/luis/livestream.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/Y2LTa4G.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]AR TV[/B][/COLOR]</title>
+<link>http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/UWNgiye.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]BAND CIDADE RS[/B][/COLOR]</title>
+<link>http://200.147.96.37:1935/bandpracas/bandcidaders/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/mHHCn9W.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]BLOOMBERG TV[/B][/COLOR]</title>
+<link>http://btv-i.akamaihd.net:80/hls/live/202760/btvusa_ios/P1/M10K.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/EFPLz8h.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]BOAS NOVAS[/B][/COLOR]</title>
+<link>http://api.new.livestream.com:80/accounts/722680/events/7017449/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/DrJvQVW.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue][B]BOAS NOVAS[/B][/COLOR]</title>
+<link>http://streaming57.sitehosting.com.br:1935/boas/boas/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/DrJvQVW.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]BOA VONTADE TV[/B][/COLOR]</title>
+<link>http://api.new.livestream.com:80/accounts/15107153/events/4338771/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/UcdtHW9.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]BÚZIOS TV[/B][/COLOR]</title>
+<link>http://94.23.19.111:1935/bruno/bruno/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/wDy1epS.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CANAL 20[/B][/COLOR]</title>
+<link>http://streaming57.sitehosting.com.br:1935/ancteste2/ancteste2/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/VKwYdIO.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CANAL 25[/B][/COLOR]</title>
+<link>http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/Uq9aWhF.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CANAL BOA VIDA[/B][/COLOR]</title>
+<link>http://srv3.zoeweb.tv:1935/zw320/stream/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/rQLpnUR.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue][B]CANAL DO BOI[/B][/COLOR]</title>
+<link>http://189.86.89.116:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/gDBzbpr.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CANAL EXECUTIVO[/B][/COLOR]</title>
+<link>http://stream.novotempo.com:1935/tv/executivo.smil/chunklist_b512000_slpor.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/YfKFk6D.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CANAL NOROESTE[/B][/COLOR]</title>
+<link>http://wpc.17585.edgecastcdn.net:80/hls-live/2017585/default/canaldagente/canaldagente.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/Mntu03k.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CANAL RURAL[/B][/COLOR]</title>
+<link>http://67149o.ha.azioncdn.net:80/hlshigh/playlist.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/f7qqbi0.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CANAL RURAL X[/B][/COLOR]</title>
+<link>http://77149o.ha.azioncdn.net:80/hlshigh/playlist.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/0ls8sMs.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CANAL SAÚDE[/B][/COLOR]</title>
+<link>http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/x0gitwr.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue][B]CANAL SETE[/B][/COLOR]</title>
+<link>http://189.51.193.98:8081/canalsete/str3/playlist.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/SuWvNmX.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CATHOLIC TV[/B][/COLOR]</title>
+<link>http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/68LO3Dp.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CAXIAS TV COMUNITÁRIA[/B][/COLOR]</title>
+<link>http://45.43.208.98:1935/tvrio/tvrio/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/1c9AYfA.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]UFG TV[/B][/COLOR]</title>
+<link>rtmp://flash.softhost.com.br/ufg//tvufgweb</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/ejt2VQJ.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]TV ITARARÉ CULTURA-PB[/B][/COLOR]</title>
+<link>rtmp://177.73.84.49/transmissao//57290d5d9a175</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/C35FUBl.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]TV GERAES[/B][/COLOR]</title>
+<link>http://flash.asaweb.com.br:1935/8466/8466/chunklist_w645714159.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/woARgah.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]TV BRASIL INTERNACIONAL[/B][/COLOR]</title>
+<link>http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live/stream1.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/l672uQ6.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]VIA TV[/B][/COLOR]</title>
+<link>http://flashd.localmidia.com.br:1935/3viatv/aovivo/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/jWXfJbQ.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]ADONAI TV[/B][/COLOR]</title>
+<link>http://wse8.player.tv.br:1935/adonaitv/adonaitv/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/l2UeuKu.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]AGRO BRASIL[/B][/COLOR]</title>
+<link>http://192.99.101.129:1935/agrobrasiltv/agrobrasiltv_720p/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/zq2G1p5.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]REDE TV[/B][/COLOR]</title>
+<link>http://169.57.142.110:25461/live/0kA8oPOxSU/g0YIHrwaOA/58.ts</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/5ULYON8.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]REDE TV[/B][/COLOR]</title>
+<link>http://evp.mm.uol.com.br:1935/redetv1/redetv1/chunklist.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/PjvgvFV.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]DMTV[/B][/COLOR]</title>
+<link>rtmp://tv.dm.com.br/live//dmtv</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/6nYcxUB.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]REDE MINAS[/B][/COLOR]</title>
+<link>rtmp://200.198.37.134/live//livestream</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/MRyRA9E.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]TV CÂMARA CAXIAS DO SUL[/B][/COLOR]</title>
+<link>http://187.63.179.171:1935/live//stream_720p/chunklist_w1182304190.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/lm1WAsQ.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]TV GUARÁ RECORD NEWS[/B][/COLOR]</title>
+<link>http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/IzBiDRI.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CATVE HD[/B][/COLOR]</title>
+<link>http://wowza.catve.com.br:1935/live/livestream/playlist.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/YDuIZ0R.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]TV CATVE[/B][/COLOR]</title>
+<link>rtmp://wowza.catve.com.br/live//livestream</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/uMbP1mh.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CANAL 26[/B][/COLOR]</title>
+<link>http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1489387223_b2628000_sleng.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/ELaQnDr.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]ANTENA 3[/B][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/TMAEZf5.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]TV SINDEEPRES[/B][/COLOR]</title>
+<link>http://v.pool.us.wse-1.srvstream.com:1935/fx7-live/smil:tvsindeepres.smil/chunklist_w1518691967_b1364000_sleng.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/XxvZH71.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]ARTE HD[/B][/COLOR]</title>
+<link>http://37.187.254.104/origin02/amlst:arte-hd/chunklist_w2017895234_b800000.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/B5NLi1O.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELPIN TV[/B][/COLOR]</title>
+<link>http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w730695568.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/DX9QzOs.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EL PINGUINO TV[/B][/COLOR]</title>
+<link>http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1659762578.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/DNnGkRf.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]OBREGON[/B][/COLOR]</title>
+<link>http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/chunklist_w1962314340_b1428000_sleng.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/n1I5e8D.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CULIACÁN[/B][/COLOR]</title>
+<link>http://216.227.135.186:1935/gpacifico4/smil:mazatlan.smil/chunklist_w467123976_b1428000_sleng.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/dgBnL4A.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]RTL[/B][/COLOR]</title>
+<link>http://live01.rtl.lu/channel1/smil:channel1/chunklist_w1822366510_b1728000_slltz.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/L4g9E5U.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]LUX TELEVISIA[/B][/COLOR]</title>
+<link>http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w732133316.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/JGEiyvx.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]LA SEXTA TV[/B][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/OIwc6Me.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]RADIO 105 TV[/B][/COLOR]</title>
+<link>http://fms.105.net:1935/live/105Test1/chunklist_w4276782.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/4RFuXqT.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>

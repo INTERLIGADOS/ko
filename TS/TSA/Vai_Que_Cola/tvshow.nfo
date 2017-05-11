@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Vai Que Cola</title>
+    <showtitle>Vai Que Cola</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.800000</value>
+            <votes>6</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Após se meter em uma falcatrua, o malandro Valdomiro vai morar  em uma pensão, localizada no subúrbio carioca, tentando fugir da Polícia Federal. A trabalhadora Dona Jô, dona da pensão, o recebe como hóspede e vê que nele existe um bom coração.&#x0D;&#x0A;Enquanto tenta reescrever sua história por linhas tortas, Valdo tem que lidar com as provocações do criado insolente Ferdinando, do assédio da fogosa Terezinha, das esquisitices do misterioso Wilson e das confusões do jovem casal Jéssica e Máicol.</plot>
+    <tagline></tagline>
+    <runtime>60</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/275746-g2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/275746-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/275746-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/275746-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/275746-3-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/275746-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/275746-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/275746-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/275746-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/275746-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/275746-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/275746-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/275746-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/275746-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/275746-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/275746-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/275746-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/275746-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/275746-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/275746-2.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/275746-4.jpg">fanart/original/275746-4.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/275746-2.jpg">fanart/original/275746-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/275746-1.jpg">fanart/original/275746-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/275746-6.jpg">fanart/original/275746-6.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/275746-3.jpg">fanart/original/275746-3.jpg</thumb>
+    </fanart>
+    <mpaa>TV-PG</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="275746-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/275746/all/pt.zip</url>
+    </episodeguide>
+    <id>275746</id>
+    <uniqueid type="unknown" default="true">275746</uniqueid>
+    <genre>Comedy</genre>
+    <genre>Family</genre>
+    <premiered>2013-07-08</premiered>
+    <year>2013</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Multishow</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Paulo Gustavo</name>
+        <role>Valdomiro</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/345193.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Samantha Schmütz</name>
+        <role>Jéssica</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/345195.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tatá Werneck</name>
+        <role>Eloísa</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/345201.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marcus Majella</name>
+        <role>Ferdinando</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/345198.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cacau Protásio</name>
+        <role>Terezinha</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/345197.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Oscar Magrini</name>
+        <role>Brito</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/409534.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Márcia Cabrita</name>
+        <role>Elza</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/409532.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Letícia Lima</name>
+        <role>Gabi do Lins</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/409530.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marco Luque</name>
+        <role>Pasquale/Mustafary</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/409528.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aline Riscado</name>
+        <role>Susan</role>
+        <order>9</order>
+        <thumb>http://thetvdb.com/banners/actors/409525.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paulinho Serra</name>
+        <role>Zélio</role>
+        <order>10</order>
+        <thumb>http://thetvdb.com/banners/actors/363206.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Malu Valle</name>
+        <role>Peggy</role>
+        <order>11</order>
+        <thumb>http://thetvdb.com/banners/actors/363205.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Luis Lobianco</name>
+        <role>Reginel</role>
+        <order>12</order>
+        <thumb>http://thetvdb.com/banners/actors/363204.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tadeu Mello</name>
+        <role>Pedro Labareda</role>
+        <order>13</order>
+        <thumb>http://thetvdb.com/banners/actors/363203.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bento Ribeiro</name>
+        <role>Roninho Bill</role>
+        <order>14</order>
+        <thumb>http://thetvdb.com/banners/actors/363202.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Silvio Guindane</name>
+        <role>Lacraia</role>
+        <order>15</order>
+        <thumb>http://thetvdb.com/banners/actors/351824.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marcelo Médici</name>
+        <role>Sanderson</role>
+        <order>16</order>
+        <thumb>http://thetvdb.com/banners/actors/351823.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Júlia Rabello</name>
+        <role>Jaqueline</role>
+        <order>17</order>
+        <thumb>http://thetvdb.com/banners/actors/351822.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fiorella Mattheis</name>
+        <role>Velna / Aparecida</role>
+        <order>18</order>
+        <thumb>http://thetvdb.com/banners/actors/345200.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emiliano D&apos;Ávila</name>
+        <role>Máicol</role>
+        <order>19</order>
+        <thumb>http://thetvdb.com/banners/actors/345199.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Catarina Abdala</name>
+        <role>Dona Jô</role>
+        <order>20</order>
+        <thumb>http://thetvdb.com/banners/actors/345196.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fernando Caruso</name>
+        <role>Wilson Carlos</role>
+        <order>21</order>
+        <thumb>http://thetvdb.com/banners/actors/345194.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

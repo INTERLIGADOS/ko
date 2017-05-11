@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Smallville</title>
+    <showtitle>Smallville</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>7.900000</value>
+            <votes>251</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>O jovem Clark Kent continua a lutar para encontrar o seu lugar no mundo, ao mesmo tempo que aprende a utilizar os seus poderes extraterrestres para o bem e lida com os problemas típicos de um jovem, residente em Smallville</plot>
+    <tagline></tagline>
+    <runtime>0</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g20.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g17.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g13.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/1718-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g9.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g5.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g10.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g21.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g22.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g18.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g15.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g26.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g12.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g6.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g14.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g11.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g16.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g8.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g7.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g24.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g25.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g19.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72218-g23.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/1718.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/72218-3-12.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/72218-4-13.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/72218-2-12.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/72218-1-12.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/72218-7-12.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/72218-8-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="9">http://thetvdb.com/banners/seasons/72218-9-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/72218-10-12.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/72218-3-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/72218-7-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/72218-7-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/72218-8-13.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/72218-8-12.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/72218-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/72218-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/1718-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/72218-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/72218-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/72218-7-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/72218-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/72218-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/72218-6-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/72218-6-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/72218-2-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/72218-4-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/72218-5-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/72218-3-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/72218-3-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/72218-2-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/72218-1-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/72218-4-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/72218-7-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="9">http://thetvdb.com/banners/seasons/72218-9-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/72218-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/72218-8-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/72218-10-14.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/72218-6-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/72218-10-15.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/72218-2-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/72218-5-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/72218-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/72218-6-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/72218-1-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/72218-5-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/72218-4-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="9">http://thetvdb.com/banners/seasons/72218-9-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="9">http://thetvdb.com/banners/seasons/72218-9-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/72218-7-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/72218-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/72218-7-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/72218-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/72218-10-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/72218-10-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/72218-10-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/72218-7-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/72218-1-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/72218-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/72218-5-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/72218-4-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/72218-4-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/72218-10-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/72218-1-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/72218-3-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/72218-6-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/72218-2-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/72218-8-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/72218-8-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="9">http://thetvdb.com/banners/seasons/72218-9-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/72218-8-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/72218-10-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/72218-8-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="9">http://thetvdb.com/banners/seasons/72218-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/72218-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/72218-3-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/72218-10-16.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/72218-8-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/72218-2-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/72218-7-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/72218-7-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/72218-4-12.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/72218-8-14.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/1718-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/72218-6-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/72218-8-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/72218-8-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/72218-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/1718-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/72218-1-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/72218-2-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/72218-6-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/72218-6-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/72218-8-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/72218-5-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/72218-5-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="9">http://thetvdb.com/banners/seasons/72218-9-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/72218-7-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/72218-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/72218-5-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="9">http://thetvdb.com/banners/seasons/72218-9-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/72218-3-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/72218-4-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/72218-1-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/72218-4-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/72218-10-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/1718-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/72218-2-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/72218-3-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/72218-10-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/72218-2-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/72218-1-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/72218-5-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/72218-10-13.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/72218-4-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/72218-3-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/72218-10-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/72218-4-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/72218-10-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="9">http://thetvdb.com/banners/seasons/72218-9-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/72218-1-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="9">http://thetvdb.com/banners/seasons/72218-9-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/72218-5-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/72218-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/72218-3-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/72218-10-17.jpg</thumb>
+    <thumb aspect="poster" type="season" season="10">http://thetvdb.com/banners/seasons/72218-10-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/72218-4-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="9">http://thetvdb.com/banners/seasons/72218-9-2.jpg</thumb>
+    <thumb aspect="banner" type="season" season="4">http://thetvdb.com/banners/seasonswide/72218-4.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/72218-1.jpg</thumb>
+    <thumb aspect="banner" type="season" season="5">http://thetvdb.com/banners/seasonswide/72218-5.jpg</thumb>
+    <thumb aspect="banner" type="season" season="2">http://thetvdb.com/banners/seasonswide/72218-2-2.jpg</thumb>
+    <thumb aspect="banner" type="season" season="6">http://thetvdb.com/banners/seasonswide/72218-6.jpg</thumb>
+    <thumb aspect="banner" type="season" season="3">http://thetvdb.com/banners/seasonswide/72218-3.jpg</thumb>
+    <thumb aspect="banner" type="season" season="2">http://thetvdb.com/banners/seasonswide/72218-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-26.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-30.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-23.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-19.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-22.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-17.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-16.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-11.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-10.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-25.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-15.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-24.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-29.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-9.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-13.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-12.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-21.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-18.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-20.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-27.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-28.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72218-14.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-26.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-30.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-23.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-19.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-22.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-17.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-16.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-25.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-15.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-24.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-29.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-13.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-12.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-21.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-18.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-20.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-27.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-28.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72218-14.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-92.jpg">fanart/original/72218-92.jpg</thumb>
+        <thumb dim="1280x720" colors="|156,107,64|10,9,7|49,26,18|" preview="_cache/fanart/original/72218-28.jpg">fanart/original/72218-28.jpg</thumb>
+        <thumb dim="1920x1080" colors="|226,123,44|123,26,17|247,196,151|" preview="_cache/fanart/original/72218-18.jpg">fanart/original/72218-18.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-94.jpg">fanart/original/72218-94.jpg</thumb>
+        <thumb dim="1280x720" colors="|196,210,223|23,43,50|45,93,116|" preview="_cache/fanart/original/72218-1.jpg">fanart/original/72218-1.jpg</thumb>
+        <thumb dim="1280x720" colors="|213,225,237|8,9,11|155,162,178|" preview="_cache/fanart/original/72218-9.jpg">fanart/original/72218-9.jpg</thumb>
+        <thumb dim="1280x720" colors="|46,15,20|56,9,51|25,30,34|" preview="_cache/fanart/original/72218-69.jpg">fanart/original/72218-69.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-29.jpg">fanart/original/72218-29.jpg</thumb>
+        <thumb dim="1280x720" colors="|253,231,146|32,13,7|145,122,116|" preview="_cache/fanart/original/72218-8.jpg">fanart/original/72218-8.jpg</thumb>
+        <thumb dim="1280x720" colors="|11,26,29|183,213,215|10,20,22|" preview="_cache/fanart/original/72218-82.jpg">fanart/original/72218-82.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-75.jpg">fanart/original/72218-75.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-26.jpg">fanart/original/72218-26.jpg</thumb>
+        <thumb dim="1920x1080" colors="|86,94,70|53,44,35|121,95,70|" preview="_cache/fanart/original/72218-35.jpg">fanart/original/72218-35.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-47.jpg">fanart/original/72218-47.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-71.jpg">fanart/original/72218-71.jpg</thumb>
+        <thumb dim="1280x720" colors="|49,60,66|204,184,173|82,40,52|" preview="_cache/fanart/original/72218-2.jpg">fanart/original/72218-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-67.jpg">fanart/original/72218-67.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-25.jpg">fanart/original/72218-25.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-36.jpg">fanart/original/72218-36.jpg</thumb>
+        <thumb dim="1280x720" colors="|211,209,220|59,67,70|134,92,68|" preview="_cache/fanart/original/72218-11.jpg">fanart/original/72218-11.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-64.jpg">fanart/original/72218-64.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-84.jpg">fanart/original/72218-84.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-58.jpg">fanart/original/72218-58.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-44.jpg">fanart/original/72218-44.jpg</thumb>
+        <thumb dim="1280x720" colors="|109,146,165|3,22,29|60,94,106|" preview="_cache/fanart/original/72218-5.jpg">fanart/original/72218-5.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-17.jpg">fanart/original/72218-17.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-22.jpg">fanart/original/72218-22.jpg</thumb>
+        <thumb dim="1280x720" colors="|255,239,193|6,2,3|255,165,53|" preview="_cache/fanart/original/72218-20.jpg">fanart/original/72218-20.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-63.jpg">fanart/original/72218-63.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-14.jpg">fanart/original/72218-14.jpg</thumb>
+        <thumb dim="1280x720" colors="|0,75,156|2,28,61|108,122,135|" preview="_cache/fanart/original/72218-10.jpg">fanart/original/72218-10.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-12.jpg">fanart/original/72218-12.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-13.jpg">fanart/original/72218-13.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-70.jpg">fanart/original/72218-70.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-90.jpg">fanart/original/72218-90.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-104.jpg">fanart/original/72218-104.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-43.jpg">fanart/original/72218-43.jpg</thumb>
+        <thumb dim="1920x1080" colors="|40,24,8|41,24,40|205,152,74|" preview="_cache/fanart/original/72218-85.jpg">fanart/original/72218-85.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-91.jpg">fanart/original/72218-91.jpg</thumb>
+        <thumb dim="1280x720" colors="|160,166,164|15,15,13|193,130,138|" preview="_cache/fanart/original/72218-53.jpg">fanart/original/72218-53.jpg</thumb>
+        <thumb dim="1280x720" colors="|162,147,104|24,25,29|64,39,34|" preview="_cache/fanart/original/72218-6.jpg">fanart/original/72218-6.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-30.jpg">fanart/original/72218-30.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-49.jpg">fanart/original/72218-49.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-31.jpg">fanart/original/72218-31.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-97.jpg">fanart/original/72218-97.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-72.jpg">fanart/original/72218-72.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-39.jpg">fanart/original/72218-39.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-52.jpg">fanart/original/72218-52.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-23.jpg">fanart/original/72218-23.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-40.jpg">fanart/original/72218-40.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-15.jpg">fanart/original/72218-15.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-77.jpg">fanart/original/72218-77.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-95.jpg">fanart/original/72218-95.jpg</thumb>
+        <thumb dim="1280x720" colors="|238,231,225|230,223,217|20,17,12|" preview="_cache/fanart/original/72218-34.jpg">fanart/original/72218-34.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-46.jpg">fanart/original/72218-46.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-48.jpg">fanart/original/72218-48.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-27.jpg">fanart/original/72218-27.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-56.jpg">fanart/original/72218-56.jpg</thumb>
+        <thumb dim="1280x720" colors="|255,255,255|56,34,36|177,168,185|" preview="_cache/fanart/original/72218-3.jpg">fanart/original/72218-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-68.jpg">fanart/original/72218-68.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-73.jpg">fanart/original/72218-73.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-61.jpg">fanart/original/72218-61.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-4.jpg">fanart/original/72218-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-37.jpg">fanart/original/72218-37.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-7.jpg">fanart/original/72218-7.jpg</thumb>
+        <thumb dim="1280x720" colors="|255,255,255|212,208,207|235,216,201|" preview="_cache/fanart/original/72218-24.jpg">fanart/original/72218-24.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-88.jpg">fanart/original/72218-88.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-45.jpg">fanart/original/72218-45.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-32.jpg">fanart/original/72218-32.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-33.jpg">fanart/original/72218-33.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-16.jpg">fanart/original/72218-16.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-21.jpg">fanart/original/72218-21.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-76.jpg">fanart/original/72218-76.jpg</thumb>
+        <thumb dim="1280x720" colors="|253,246,192|0,0,0|255,141,29|" preview="_cache/fanart/original/72218-19.jpg">fanart/original/72218-19.jpg</thumb>
+        <thumb dim="1920x1080" colors="|78,44,6|79,79,79|227,11,16|" preview="_cache/fanart/original/72218-57.jpg">fanart/original/72218-57.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-101.jpg">fanart/original/72218-101.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-74.jpg">fanart/original/72218-74.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-41.jpg">fanart/original/72218-41.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-102.jpg">fanart/original/72218-102.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-103.jpg">fanart/original/72218-103.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-100.jpg">fanart/original/72218-100.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-62.jpg">fanart/original/72218-62.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-65.jpg">fanart/original/72218-65.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-38.jpg">fanart/original/72218-38.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-51.jpg">fanart/original/72218-51.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-59.jpg">fanart/original/72218-59.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-66.jpg">fanart/original/72218-66.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-42.jpg">fanart/original/72218-42.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-93.jpg">fanart/original/72218-93.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-98.jpg">fanart/original/72218-98.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-105.jpg">fanart/original/72218-105.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-78.jpg">fanart/original/72218-78.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-60.jpg">fanart/original/72218-60.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-89.jpg">fanart/original/72218-89.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-50.jpg">fanart/original/72218-50.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-55.jpg">fanart/original/72218-55.jpg</thumb>
+        <thumb dim="1920x1080" colors="|14,12,13|0,0,0|12,10,11|" preview="_cache/fanart/original/72218-81.jpg">fanart/original/72218-81.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-87.jpg">fanart/original/72218-87.jpg</thumb>
+        <thumb dim="1280x720" colors="|249,12,18|39,110,176|199,157,117|" preview="_cache/fanart/original/72218-54.jpg">fanart/original/72218-54.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-86.jpg">fanart/original/72218-86.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-80.jpg">fanart/original/72218-80.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72218-83.jpg">fanart/original/72218-83.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-106.jpg">fanart/original/72218-106.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-99.jpg">fanart/original/72218-99.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-96.jpg">fanart/original/72218-96.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72218-79.jpg">fanart/original/72218-79.jpg</thumb>
+    </fanart>
+    <mpaa>TV-14</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="72218-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/72218/all/pt.zip</url>
+    </episodeguide>
+    <id>72218</id>
+    <uniqueid type="unknown" default="true">72218</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Drama</genre>
+    <premiered>2001-10-16</premiered>
+    <year>2001</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>The CW</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Tom Welling</name>
+        <role>Clark Kent</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/15812.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Erica Durance</name>
+        <role>Lois Lane</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/78064.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Allison Mack</name>
+        <role>Chloe Sullivan</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/15808.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Witwer</name>
+        <role>Davis Bloome</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/80871.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Justin Hartley</name>
+        <role>Oliver Queen</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/80870.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cassidy Freeman</name>
+        <role>Tess Mercer</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/80869.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laura Vandervoort</name>
+        <role>Kara</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/78066.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aaron Ashmore</name>
+        <role>Jimmy Olsen</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/78065.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eric Johnson</name>
+        <role>Whitney Fordman</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/15814.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Glover</name>
+        <role>Lionel Luthor</role>
+        <order>9</order>
+        <thumb>http://thetvdb.com/banners/actors/15813.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jensen Ackles</name>
+        <role>Jason Teague</role>
+        <order>10</order>
+        <thumb>http://thetvdb.com/banners/actors/321401.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Rosenbaum</name>
+        <role>Lex Luthor</role>
+        <order>11</order>
+        <thumb>http://thetvdb.com/banners/actors/15810.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Schneider</name>
+        <role>Jonathan Kent</role>
+        <order>12</order>
+        <thumb>http://thetvdb.com/banners/actors/15809.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Jones III</name>
+        <role>Pete Ross</role>
+        <order>13</order>
+        <thumb>http://thetvdb.com/banners/actors/15807.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kristin Kreuk</name>
+        <role>Lana Lang</role>
+        <order>14</order>
+        <thumb>http://thetvdb.com/banners/actors/15806.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Annette O&apos;Toole</name>
+        <role>Martha Kent</role>
+        <order>15</order>
+        <thumb>http://thetvdb.com/banners/actors/15805.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Callum Blue</name>
+        <role>Zod</role>
+        <order>16</order>
+        <thumb>http://thetvdb.com/banners/actors/143901.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Marsters</name>
+        <role>Milton Fine</role>
+        <order>17</order>
+        <thumb>http://thetvdb.com/banners/actors/143841.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan Ritchson</name>
+        <role>Arthur Curry/Aquaman</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ian Somerhalder</name>
+        <role>Adam Knight</role>
+        <order>37</order>
+        <thumb>http://thetvdb.com/banners/actors/106761.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

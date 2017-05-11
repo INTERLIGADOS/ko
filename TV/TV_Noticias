@@ -1,0 +1,263 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+ 
+ 
+
+<item>
+<title>[COLOR blue][B]GLOBO NEWS[/B][/COLOR]</title>
+<link>http://169.57.142.110:25461/live/SHPZLUzqZT/NQMZfAN2u7/75.ts</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/lr9cqNh.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]RECORD NEWS[/B][/COLOR]</title>
+<link>http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/5ksG1L8.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]RECORD NEWS HD[/B][/COLOR]</title>
+<link>http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/cUCvAXF.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]RECORD NEWS[/B][/COLOR]</title>
+<link>http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/5ksG1L8.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]RECORD NEWS HD[/B][/COLOR]</title>
+<link>http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/cUCvAXF.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]BAND NEWS[/B][/COLOR]</title>
+<link>http://ev.mm.uol.com.br:1935/band/bandnews/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/n8vR3wP.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]BAND NEWS[/B][/COLOR]</title>
+<link>http://ev.mm.uol.com.br:1935/band/bandnews/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/n8vR3wP.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]GLOBO NORDESTE[/B][/COLOR]</title>
+<link>http://tv.redecanais.com:1935/redecanaisglobo/myStream/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/LeTnA48.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]TV JORNAL RECIFE[/B][/COLOR]</title>
+<link>http://200.147.96.37:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/ADIEIhK.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]TV JORNAL CARUARU[/B][/COLOR]</title>
+<link>http://200.147.96.37:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/ADIEIhK.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]FRANCE 24[/B][/COLOR]</title>
+<link>http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_1200.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/xdMzzR9.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]KIRO 7 NEWS[/B][/COLOR]</title>
+<link>http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/5ngdSbH.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NBC NEWS[/B][/COLOR]</title>
+<link>http://msnbc2prod-lh.akamaihd.net:80/i/msnbc2_live01@9615/index_1200_av-p.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/YBPtPJ9.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]WFTV 9 NEWS[/B][/COLOR]</title>
+<link>http://cmghlslive-i.akamaihd.net:80/hls/live/224711/WFTV/904k/prog.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/DG4PDbe.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]WGN 9 NEWS[/B][/COLOR]</title>
+<link>http://wgntribune-lh.akamaihd.net:80/i/WGNPrimary_1@304622/index_700_av-p.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/dGftUfk.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]WPXI NEWS[/B][/COLOR]</title>
+<link>http://cmghlslive-i.akamaihd.net:80/hls/live/224715/WPXI/904k/prog.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/pk363vQ.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]WSOC 9 NEWS[/B][/COLOR]</title>
+<link>http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/XgoX6Ho.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]ABC NEWS[/B][/COLOR]</title>
+<link>http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/3SH3wds.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]BBC WORLD NEWS[/B][/COLOR]</title>
+<link>http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/uuyDtiz.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+ 
+<item>
+<title>[COLOR blue][B]REDE FAMILIA[/B][/COLOR]</title>
+<link>http://srv9.zoeweb.tv:1935/zw901/zw901.smil/chunklist_w1333249090_b900000.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/ya8rBn8.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]BBC WORLD NEWS[/B][/COLOR]</title>
+<link>http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/ooqRaUT.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]BH NEWS TV[/B][/COLOR]</title>
+<link>http://edgenew.z1on.com:1935/1700/3125/3125-hotmedia.sdp/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/78BGyzx.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]DW NEWS[/B][/COLOR]</title>
+<link>http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/lLEh3OK.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EURONEWS[/B][/COLOR]</title>
+<link>http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/oRLDPHZ.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]EURONEWS[/B][/COLOR]</title>
+<link>http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/oRLDPHZ.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CBN[/B][/COLOR]</title>
+<link>http://bcliveuniv-lh.akamaihd.net:80/i/iptv1_1@194050/index_1200_av-p.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/Dbefa3u.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CBN ESPAÑOL[/B][/COLOR]</title>
+<link>http://bcliveuniv-lh.akamaihd.net:80/i/iptv2_1@194050/index_1200_av-p.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/1HFrQwO.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CBN NEWS[/B][/COLOR]</title>
+<link>http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/IlBvd83.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CBS 2[/B][/COLOR]</title>
+<link>http://208.86.19.13:8080/live/101.stream/index.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/B20tTq6.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CBS 47 NEWS[/B][/COLOR]</title>
+<link>http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/w58XMCR.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]CBS NEWS[/B][/COLOR]</title>
+<link>http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-p.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/qa6DObQ.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]FOX[/B][/COLOR]</title>
+<link>http://169.57.142.110:25461/live/jVa8JgcdjC/aXY5on3rHB/105.ts</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/myhPSmC.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]FOX 23 NEWS[/B][/COLOR]</title>
+<link>http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/1WxJ6pV.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]FOX 25 NEWS[/B][/COLOR]</title>
+<link>http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/6gRlhWt.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]FOX 30 NEWS[/B][/COLOR]</title>
+<link>http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/0x9A2MB.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]FOX NEWS CHANNEL[/B][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/5Wtq6nz.png</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]GV NEWS [/B][/COLOR]</title>
+<link>http://173.236.10.10:1935/gvnews/gvnews/live.m3u8</link>
+<thumbnail>http://fabiano.890m.com/TV/imgs/LNCx9PT.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+</item>
+

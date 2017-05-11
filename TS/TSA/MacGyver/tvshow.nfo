@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>MacGyver</title>
+    <showtitle>MacGyver</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.600000</value>
+            <votes>72</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>MacGyver não é um agente secreto comum. Ele nunca está armado. Ele luta pela justiça usando a mais perigosa de todas as armas: sua inteligência. Richard Dean Anderson é o escoteiro transformado no herói favorito da televisão: Angus MacGyver. Quando um piloto americano é abatido na América Central, ou um míssil super-secreto é roubado, as autoridades chamam MacGyver, um ex-agente da Força Especial, para salvar a pátria. Quando todas as possibilidades de resolver problemas estão esgotadas, vai um chamado para MacGyver.</plot>
+    <tagline></tagline>
+    <runtime>0</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77847-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/706-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77847-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77847-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/706-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/77847.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/77847-3-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/77847-5-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77847-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/77847-0-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/77847-6-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77847-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/77847-7-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/77847-4-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77847-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/77847-5-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/77847-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/77847-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77847-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/77847-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/77847-4-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77847-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/77847-7-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/77847-6-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77847-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/77847-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/77847-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/77847-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/77847-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/77847-0.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77847-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77847-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77847-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77847-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77847-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77847-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77847-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77847-4.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/77847-8.jpg">fanart/original/77847-8.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/77847-3.jpg">fanart/original/77847-3.jpg</thumb>
+        <thumb dim="1280x720" colors="|89,94,132|50,60,87|228,194,166|" preview="_cache/fanart/original/77847-5.jpg">fanart/original/77847-5.jpg</thumb>
+        <thumb dim="1280x720" colors="|5,127,202|23,18,24|121,19,17|" preview="_cache/fanart/original/77847-4.jpg">fanart/original/77847-4.jpg</thumb>
+        <thumb dim="1920x1080" colors="|159,125,124|24,13,11|121,197,221|" preview="_cache/fanart/original/77847-2.jpg">fanart/original/77847-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77847-1.jpg">fanart/original/77847-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/77847-7.jpg">fanart/original/77847-7.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/77847-6.jpg">fanart/original/77847-6.jpg</thumb>
+    </fanart>
+    <mpaa>TV-PG</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="77847-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/77847/all/pt.zip</url>
+    </episodeguide>
+    <id>77847</id>
+    <uniqueid type="unknown" default="true">77847</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <premiered>1985-09-29</premiered>
+    <year>1985</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>ABC (US)</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Richard Dean Anderson</name>
+        <role>Angus Macgyver</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/59383.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dana Elcar</name>
+        <role>Peter Thornton</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/59384.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bruce McGill</name>
+        <role>Jack Dalton</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/284594.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Des Barres</name>
+        <role>Murdoc</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/284593.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

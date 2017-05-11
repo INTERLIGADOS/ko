@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Shurato</title>
+    <showtitle>Shurato</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.000000</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Shurato era um desenho animado japonês (anime) baseado num mangá criado por Hiroshi Kawamoto, de mesmo nome, publicado no final da década de 80 na Shonen Gaosha. Mais tarde o mangá foi animado por Takao Koyama e Tatsunoko Productions, apresentado originalmente no Japão, pela TV Tokyo, entre 1989 a 1990, num total de 38 episódios. No Brasil esta série foi exibida pela extinta Rede Manchete com muito sucesso.&#x0D;&#x0A;A série animada narra as aventuras de dois grandes amigos, Shurato Hidaka e Gai Kuroki, que possuem personalidades e temperamentos opostos um do outro, que durante um torneio de artes marciais são subitamente são transportados para uma dimensão paralela, denominado de Mundo Celestial, após serem encobertos por uma misteriosa luz. Quando Shurato acorda percebe que está num mundo completamente diferente do nosso e onde as pessoas dependem de uma forma de energia espiritual.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/84118-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/84118-1.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/84118-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/84118-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/84118-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/84118-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/84118-1.jpg</thumb>
+    <fanart>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/84118-1.jpg">http://thetvdb.com/banners/fanart/original/84118-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/84118-2.jpg">http://thetvdb.com/banners/fanart/original/84118-2.jpg</thumb>
+    </fanart>
+    <mpaa>TV-14</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="84118-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/84118/all/pt.zip</url>
+    </episodeguide>
+    <id>84118</id>
+    <uniqueid type="unknown" default="true">84118</uniqueid>
+    <genre>Animation</genre>
+    <premiered>1989-04-06</premiered>
+    <year>1989</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>TV Tokyo</studio>
+    <trailer></trailer>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Jiraya, o Incrível Ninja</title>
+    <showtitle>Jiraya, o Incrível Ninja</showtitle>
+    <rating>9.500000</rating>
+    <userrating>0</userrating>
+    <epbookmark>0.000000</epbookmark>
+    <year>1988</year>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <uniqueid></uniqueid>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <votes>2</votes>
+    <outline></outline>
+    <plot>A série conta a história do jovem Toha que foi criado e é treinado por Tetsuzan para ser o sucessor da família Togakure, ele guarda metade da inscrição para um tesouro que é objeto de desejo de todos os ninjas do mundo. Este tesouro pode conceder grandes poderes a quem possuí-lo. A outra metade da inscrição pertence a o maligno Dokusai e a família de feiticeiros.</plot>
+    <tagline></tagline>
+    <runtime>0</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/299892-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/299892-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/299892-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/299892-1.jpg</thumb>
+    <fanart>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/299892-1.jpg">http://thetvdb.com/banners/fanart/original/299892-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/299892-2.jpg">http://thetvdb.com/banners/fanart/original/299892-2.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="299892-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/299892/all/pt.zip</url>
+    </episodeguide>
+    <id>299892</id>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Fantasy</genre>
+    <premiered>1988-01-24</premiered>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>TV Asahi</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Masaaki Hatsumi</name>
+        <role>Tetsuzan Yamaji</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/354516.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Megumi Sekiguchi</name>
+        <role>Kei Yamaji/Himenin Emiha</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/354515.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Takumi Tsuitsui</name>
+        <role>Toha/Jiraya</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/354514.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

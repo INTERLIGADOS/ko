@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Bucky</title>
+    <showtitle>Bucky</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.000000</value>
+            <votes>2</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Em algum lugar em uma dimensão desconhecida, há uma misteriosa terra chamada &quot;O Mundo 12&quot;. Lá, humanos, monstros e Espíritos coexistem em harmonia. Todas as vidas são protegidas pela princesa da &quot;Torre Pontiaguda&quot;, localizada no &quot;Mundo Zero&quot;. Repentinamente, a harmonia do Mundo 12 desfaz-se. A Princesa da &quot;Torre Pontiaguda&quot; é confinada num sono eterno. Depois de perderem a proteção da Princesa, os monstros são retirados da cadeia da vida e ficam incontroláveis. Eles começam a atacar os seres humanos.&#x0D;&#x0A;Os super-heróis, chamados &quot;Great Children, ou Grandes Crianças (G.C.)&quot; defrontam-se com incidentes envolvendo os monstros. Os &quot;G.C.&quot; são os únicos capazes de restabelecer a harmonia e o equilíbrio do Mundo 12. Spaak é o melhor do grupo de G.C.s e objeto de admiração de todas as crianças. Ele descobre que a Princesa foi confinada e o Mundo Zero foi invadido. No caminho para a Torre Pontiagda ele encontra um incrível menino, Bucky. O jovem Bucky é a encarnação de espíritos ambiciosos e lutadores. Ele quer ser o mais forte de todos e conquistar o mundo. Spaak sente algo especial em Bucky e o escolhe como sucessor. Bucky parte em sua jornada para ser o melhor G.C. do mundo. Seguindo meio sem controle, Bucky descobre que monstros são controlados por um poder desconhecido, o Veneno do Despertar, vindo de outra dimensão. Ele conhece Kai, Pinky e outros C.G.s, e juntos eles viajam para a Torre Pontiaguda.&#x0D;&#x0A;A história utiliza dois elementos principais - o Mundo 12 e um grupo de crianças chamados &quot;Great Children&quot; (&quot;Grandes Crianças&quot;). É uma história de comunicação entre seres humanos, monstros e espíritos, descrevendo sonhos e amizades de crianças que querem ser G.C. O Mundo 12 não se localiza na Terra. Ele é composto da Torre Pontiaguda e as 12 Terras que circulam a Torre em sentido horário. Acima é o céu, abaixo é o oceano. É um mundo além da nossa imaginação. As crianças podem ser heróis lá, assim como seus corações são cheios de sonhos; os adultos, entretanto, não têm este poder por já terem passado de tal idade.</plot>
+    <tagline></tagline>
+    <runtime>20</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/80906-g.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/80906-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/80906-1.jpg</thumb>
+    <fanart>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/80906-1.jpg">http://thetvdb.com/banners/fanart/original/80906-1.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="80906-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/80906/all/pt.zip</url>
+    </episodeguide>
+    <id>80906</id>
+    <uniqueid type="unknown" default="true">80906</uniqueid>
+    <genre>Animation</genre>
+    <premiered>1999-10-05</premiered>
+    <year>1999</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>TV Tokyo</studio>
+    <trailer></trailer>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

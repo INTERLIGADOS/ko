@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>A Pequena Sereia</title>
+    <showtitle>A Pequena Sereia</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.200000</value>
+            <votes>5</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>A série animada de A Pequena Sereia foi baseada no filme A Pequena Sereia da Disney. Conta a história de Ariel, a pequena sereia que sonha em conhecer o mundo dos humanos. The Little Mermaid, a série, estreou em Maio de 1992.&#x0D;&#x0A;No Brasil a série é exibida pelo SBT no programa Bom Dia e Cia no ano de 1993 até 1995, pela Rede Globo e pelo Disney Channel. Na Rede Globo no programa TV Globinho como programa especial de ferias junto com também outra serie da Disney, Kim Possible. Em Portugal, a série foi exibida pelo Canal 1 no programa Clube Disney no ano de 1994 na versão original com legendas. Depois, em 2004, foi exibida pelo Disney Channel com dobragem portuguesa e mais tarde, de 2008 até 2012, pelo Disney Cinemagic.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77088-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77088-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/77088-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/77088-3-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77088-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77088-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77088-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/77088-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77088-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/77088-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/77088-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/77088-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77088-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77088-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77088-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77088-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/77088-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77088-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77088-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77088-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77088-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/77088-1.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77088-2.jpg">fanart/original/77088-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77088-3.jpg">fanart/original/77088-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77088-1.jpg">fanart/original/77088-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/77088-4.jpg">fanart/original/77088-4.jpg</thumb>
+    </fanart>
+    <mpaa>TV-Y</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="77088-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/77088/all/pt.zip</url>
+    </episodeguide>
+    <id>77088</id>
+    <uniqueid type="unknown" default="true">77088</uniqueid>
+    <genre>Animation</genre>
+    <premiered>1992-09-11</premiered>
+    <year>1992</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>CBS</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Ashley Peldon</name>
+        <role></role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Cree Summer</name>
+        <role></role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/27290.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Danny Cooksey</name>
+        <role></role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Edan Gross</name>
+        <role></role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>J. D. Daniels</name>
+        <role></role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jim Cummings</name>
+        <role></role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jodi Benson</name>
+        <role></role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kath Soucie</name>
+        <role></role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kenneth Mars</name>
+        <role></role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mary Kay Bergman</name>
+        <role></role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Maurice LaMarche</name>
+        <role></role>
+        <order>10</order>
+        <thumb>http://thetvdb.com/banners/actors/27298.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rob Paulsen</name>
+        <role></role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Samuel E. Wright</name>
+        <role></role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sheryl Bernstein</name>
+        <role></role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tim Curry</name>
+        <role></role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

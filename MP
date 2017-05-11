@@ -1,0 +1,74 @@
+<channels>
+<channel>
+<name>Animes</name>
+<thumbnail>http://fabiano.890m.com/TS/TSK/A/poster.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TS/TSK/A/fanart.jpg</fanart>
+<date></date>
+<genre>Seriado de televisão</genre>
+<externallink>http://fabiano.890m.com/TS/TSK/A/Animes.xml</externallink>
+<info>Anime, animê (português brasileiro) ou animé (português europeu), se refere a animação que é produzida por estúdios do Japão. A palavra é a pronúncia abreviada de "animação" em japonês, onde esse termo se refere a qualquer animação.Para os ocidentais a palavra se refere as animações oriundas do Japão. A origem da palavra é controversa, podendo vir da palavra inglesa animation ("animação") ou da palavra francesa animé ("animado"),versão defendida por pesquisadores como Frederik L Schodt e Alfons Moliné. Ao contrário do que muitos pensam, o animê não é um género, mas um meio, e no Japão produzem-se filmes animados com conteúdos variados, dentro de todos os géneros possíveis e imagináveis (comédia, terror, drama, ficção científica, etc.).</info>
+</channel>
+<channel>
+<name>Desenhos animados</name>
+<thumbnail>http://fabiano.890m.com/TS/TSK/D/poster.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TS/TSK/D/fanart.jpg</fanart>
+<date></date>
+<genre>Desenhos animados</genre>
+<externallink>http://fabiano.890m.com/TS/TSK/D/Desenhos.xml</externallink>
+<info>Animação refere-se ao processo segundo o qual cada fotograma de um filme é produzido individualmente, podendo ser gerado tanto por computação gráfica quanto fotografando uma imagem desenhada ou repetidamente fazendo-se pequenas mudanças a um modelo (ver claymation e stop motion), fotografando o resultado. Quando os fotogramas são ligados entre si e o filme resultante é visto a uma velocidade de 16 ou mais imagens por segundo, há uma ilusão de movimento contínuo (por causa do fenômeno phi). A construção de um filme torna-se assim um trabalho muito intensivo e por vezes entediante. O desenvolvimento da animação digital aumentou muito a velocidade do processo, eliminando tarefas mecânicas e repetitivas. A produção da animação consome muito tempo e é quase sempre muito complexa. Animação limitada é uma forma de aumentar a produção e geração. Esse método foi usado de forma pioneira pela UPA e popularizada pela Hanna-Barbera.</info>
+</channel>
+
+<channel>
+<name>Documentários</name>
+<thumbnail>http://fabiano.890m.com/DT/poster.jpg</thumbnail>
+<externallink>http://fabiano.890m.com/DT/MD</externallink>
+<fanart>http://fabiano.890m.com/DT/fanart.jpg</fanart>
+<info>Documentário é um filme não-ficcional que se caracteriza pelo compromisso da exploração da realidade. Mas dessa afirmação não se deve deduzir que ele represente a realidade tal como ela é. O documentário, assim como o cinema de ficção, é uma representação parcial e subjetiva da realidade.</info>
+</channel>
+
+<channel>
+<name>Tokusatsu</name>
+<thumbnail>http://fabiano.890m.com/TS/TSK/T/poster.jpg</thumbnail>
+<fanart>http://fabiano.890m.com/TS/TSK/T/fanart.jpg</fanart>
+<date></date>
+<genre>Seriado de televisão</genre>
+<externallink>http://fabiano.890m.com/TS/TSK/T/Tokusatsu.xml</externallink>
+<info>Tokusatsu é uma abreviatura da expressão japonesa "tokushu satsuei" traduzida como "filme de efeitos especiais". Antigamente, o gênero englobava praticamente qualquer produção cinematográfica ou televisiva que se utilizasse de efeitos especiais. Atualmente, tornou-se sinônimo de filmes ou séries live-action de super-heróis produzidos no Japão com bastante ênfase nos efeitos especiais, mesclando várias técnicas como a pirotecnia, computação gráfica, modelismo, entre outras, para simular performances de artes marciais, superpoderes, magia, armas de energia dirigida, mechas, etc.</info>
+</channel>
+<channel>
+<name>Filmes</name>
+<thumbnail>http://fabiano.890m.com/Filmes/poster.jpg</thumbnail>
+<externallink>http://fabiano.890m.com/Filmes/MF</externallink>
+<fanart>http://fabiano.890m.com/Filmes/fanart.jpg</fanart>
+<info>Filme (em Portugal também fita) é um produto audiovisual finalizado, com uma certa duração, para ser exibido no cinema, na televisão ou em algum outro veículo. Um filme é formado por uma série finita de imagens fixas, registradas sobre um suporte físico e que, projetadas a uma velocidade maior que a capacidade resolutiva da visão humana, dão ao espectador a sensação de movimento.</info>
+</channel>
+<channel>
+<name>Shows e Clipes Musicais</name>
+<thumbnail>http://fabiano.890m.com/VM/poster.jpg</thumbnail>
+<externallink>http://fabiano.890m.com/VM/VMM</externallink>
+<fanart>http://fabiano.890m.com/VM/fanart.jpg</fanart>
+<info></info>
+</channel>
+<channel>
+<name>Series de TV</name>
+<thumbnail>http://fabiano.890m.com/TS/TSK/poster.jpg</thumbnail>
+<externallink>http://fabiano.890m.com/TS/TSA/Series.xml</externallink>
+<fanart>http://fabiano.890m.com/TS/TSK/fanart.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>TV</name>
+<thumbnail>http://fabiano.890m.com/TV/poster.png</thumbnail>
+<externallink>http://fabiano.890m.com/TV/TV</externallink>
+<fanart>http://fabiano.890m.com/TV/fanart.png</fanart>
+<info>bvbvc</info>
+</channel>
+<channel>
+<name>Novelas</name>
+<thumbnail>http://fabiano.890m.com/TS/NVL/poster.png</thumbnail>
+<externallink>http://fabiano.890m.com/TS/NVL/MenuNovelas</externallink>
+<fanart>http://fabiano.890m.com/TS/NVL/fanart.png</fanart>
+<info>bvbvc</info>
+</channel>
+</channels>

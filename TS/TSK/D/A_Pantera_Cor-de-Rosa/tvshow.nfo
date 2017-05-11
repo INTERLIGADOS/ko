@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>The Pink Panther</title>
+    <showtitle>The Pink Panther</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.500000</value>
+            <votes>14</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>In 1963, movie director Blake Edwards asked David H. DePatie and Friz Freleng (who had just opened their cartoon studio, DePatie-Freleng) to design a character for the opening titles of his movie, &quot;The Pink Panther&quot;. Of many drawings, Edwards selected the cool design by Hawley Pratt.&#x0D;&#x0A;&#x0D;&#x0A;The opening of the movie became so famous that United Artists, the distributor of the movie, told them to make a cartoon series with the character. The cartoon series started in 1964 and became very successful, the first short called &quot;The Pink Phink&quot; won an Academy Award. After the success of the Pink Panther cartoons, DePatie and Freleng introduced other cartoon series like &quot;The Inspector&quot; and &quot;Roland and Rattfink&quot;, however, none of them became as famous as their first creation. The last theatrically released Pink Panther cartoon, &quot;Therapeutic Pink&quot;, was made in 1977. More cartoons were made in 1978-1979, for television distribution.&#x0D;&#x0A;&#x0D;&#x0A;In 1984, DePatie-Freleng was already gone so Hanna-Barbera made a new cartoon series &quot;The Pink Panther and Sons&quot;. It wasn&apos;t successful and it was cancelled soon. In September 1993, a new half-hour series made for syndication by MGM Television Animation premiered. It was simply called &quot;The Pink Panther&quot;. In these new cartoons, Pink Panther spoke. He was voiced by Matt Frewer. In this show, two other classic DePatie-Freleng cartoons, The Ant and the Aardvark and The Dogfather were revived. New characters, Voodoo Man and Manly Man were introduced. This show ended in May 1995, after only two seasons.</plot>
+    <tagline></tagline>
+    <runtime>6</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/71554-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/71554-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/14100-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/71554-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/71554-4-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/71554-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/71554-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/14100-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/14100-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/14100-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/14100-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/71554-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/71554-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/71554-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/71554-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/14100-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/71554-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/71554-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/71554-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/71554-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/71554-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/71554-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/71554-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/71554-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/71554-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/71554-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/71554-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/71554-2.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/71554-5.jpg">fanart/original/71554-5.jpg</thumb>
+        <thumb dim="1280x720" colors="|246,170,209|232,140,189|50,24,0|" preview="_cache/fanart/original/71554-3.jpg">fanart/original/71554-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/71554-4.jpg">fanart/original/71554-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/71554-2.jpg">fanart/original/71554-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/71554-6.jpg">fanart/original/71554-6.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/71554-1.jpg">fanart/original/71554-1.jpg</thumb>
+    </fanart>
+    <mpaa>TV-G</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="71554-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/71554/all/pt.zip</url>
+    </episodeguide>
+    <id>71554</id>
+    <uniqueid type="unknown" default="true">71554</uniqueid>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+    <genre>Family</genre>
+    <premiered>1969-09-06</premiered>
+    <year>1969</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Syndicated</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Arnold Stang</name>
+        <role>Catfish</role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Arte Johnson</name>
+        <role>Misterjaw</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>B.J. Ward</name>
+        <role></role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Billy Bowles</name>
+        <role></role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brian George</name>
+        <role></role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Charles Nelson Reilly</name>
+        <role></role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Frank Welker</name>
+        <role></role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/27293.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joe Pesci</name>
+        <role></role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Byner</name>
+        <role>Aardvark</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Larry D. Mann</name>
+        <role></role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marshall Efron</name>
+        <role></role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marvin Miller</name>
+        <role>Narrator</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matt Frewer</name>
+        <role></role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pat Harrington Jr.</name>
+        <role>Inspector</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Paul Frees</name>
+        <role>Man talking to Pink Panther</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ruth B</name>
+        <role></role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sherry Lynn</name>
+        <role></role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sonny Melendrez</name>
+        <role></role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Wallace Shawn</name>
+        <role></role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

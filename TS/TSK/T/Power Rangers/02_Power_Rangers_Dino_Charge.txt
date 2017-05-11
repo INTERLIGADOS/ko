@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+ 
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 1[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=2d5889034fbfc5b9</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 2[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=738e6d9b3a0c3165</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 3[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=274d5a3445fba948</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 4[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=7773c438d2705066</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 5[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=ab44fdd413baaaf6</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 6[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=90b244fbe8bcec92</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 7[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=88321ee9de5b1fc5</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 8[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=2bbbd348aca0c442</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 9[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=b8fa3af74b4bd621</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 10[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=5f184d339196ce67</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 11[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=10b2035fad4f6d4e</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 12[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=f4e270f76b58a110</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 13[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=8108a5281f693aa1</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 14[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=3077d7c47dcfa8c4</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 15[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=6bf1223126bedb95</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 16[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=13e996b94ece2247</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 17[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=19f4431c974c8b66</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 18[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=6925f528c0dc04b4</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 19[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=3b3cce13b230d9e5</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 20[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=09aa4cd2ac9a8d90</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 21[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=0d84a16d1e39b526</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Power Rangers: Dino Charge 22[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=b39e842c4a5f2386</link>
+<thumbnail>http://i.imgur.com/JLrfSKp.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Falling Skies</title>
+    <showtitle>Falling Skies</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>7.800000</value>
+            <votes>239</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Tudo  começa após a caótica consequência de um ataque alienígena que deixou grande parte do mundo completamente incapacitado. Seis meses depois dos ataques iniciais, os poucos sobreviventes se concentraram fora das grandes cidades para começar a difícil tarefa de lutar. Todos os dias eles passam por testes de sobrevivência tanto como civis como soldados trabalhando juntos para proteger as pessoas amadas enquanto organizam a rebelião contra as forças alienígenas.</plot>
+    <tagline></tagline>
+    <runtime>45</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/205281-g10.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/205281-g5.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/205281-g9.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/205281-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/205281-g17.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/205281-g18.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/205281-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/205281-g13.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/205281-g6.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/205281-g16.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/205281-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/205281-g15.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/205281-g8.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/205281-g11.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/205281-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/205281-g12.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/205281-g7.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/205281-g14.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/205281-5-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/205281-1-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/205281-2-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/205281-3-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/205281-3-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/205281-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/205281-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/205281-3-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/205281-4-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/205281-4-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/205281-2-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/205281-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/205281-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/205281-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/205281-1-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/205281-3-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/205281-2-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/205281-2-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/205281-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/205281-4-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/205281-3-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/205281-1-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/205281-4-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/205281-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/205281-4-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/205281-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/205281-4-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/205281-5-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/205281-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/205281-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/205281-3-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/205281-3-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/205281-1-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/205281-2-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/205281-4-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/205281-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/205281-5-2.jpg</thumb>
+    <thumb aspect="banner" type="season" season="5">http://thetvdb.com/banners/seasonswide/205281-5.jpg</thumb>
+    <thumb aspect="banner" type="season" season="4">http://thetvdb.com/banners/seasonswide/205281-4.jpg</thumb>
+    <thumb aspect="banner" type="season" season="3">http://thetvdb.com/banners/seasonswide/205281-3.jpg</thumb>
+    <thumb aspect="banner" type="season" season="2">http://thetvdb.com/banners/seasonswide/205281-2.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/205281-1-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-10.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-15.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-12.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-26.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-14.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-11.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-25.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-16.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-22.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-24.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-18.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-23.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-17.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-20.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-21.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-19.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-9.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-13.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/205281-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-15.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-12.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-26.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-14.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-25.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-16.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-22.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-24.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-18.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-23.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-17.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-20.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-21.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-19.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-13.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/205281-4.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="|65,190,254|254,254,252|7,61,95|" preview="_cache/fanart/original/205281-25.jpg">fanart/original/205281-25.jpg</thumb>
+        <thumb dim="1280x720" colors="|43,51,53|254,254,254|230,213,205|" preview="_cache/fanart/original/205281-31.jpg">fanart/original/205281-31.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/205281-27.jpg">fanart/original/205281-27.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-17.jpg">fanart/original/205281-17.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-28.jpg">fanart/original/205281-28.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-26.jpg">fanart/original/205281-26.jpg</thumb>
+        <thumb dim="1920x1080" colors="|39,30,25|250,249,247|29,21,19|" preview="_cache/fanart/original/205281-11.jpg">fanart/original/205281-11.jpg</thumb>
+        <thumb dim="1280x720" colors="|254,251,210|61,53,17|211,200,155|" preview="_cache/fanart/original/205281-20.jpg">fanart/original/205281-20.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-15.jpg">fanart/original/205281-15.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-22.jpg">fanart/original/205281-22.jpg</thumb>
+        <thumb dim="1920x1080" colors="|76,26,27|220,178,156|48,34,25|" preview="_cache/fanart/original/205281-3.jpg">fanart/original/205281-3.jpg</thumb>
+        <thumb dim="1920x1080" colors="|77,2,0|10,11,5|76,5,0|" preview="_cache/fanart/original/205281-4.jpg">fanart/original/205281-4.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-9.jpg">fanart/original/205281-9.jpg</thumb>
+        <thumb dim="1920x1080" colors="|189,221,232|30,76,112|64,146,196|" preview="_cache/fanart/original/205281-23.jpg">fanart/original/205281-23.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-29.jpg">fanart/original/205281-29.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-5.jpg">fanart/original/205281-5.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-24.jpg">fanart/original/205281-24.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-19.jpg">fanart/original/205281-19.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-1.jpg">fanart/original/205281-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/205281-30.jpg">fanart/original/205281-30.jpg</thumb>
+        <thumb dim="1280x720" colors="|114,115,107|103,190,210|245,247,242|" preview="_cache/fanart/original/205281-16.jpg">fanart/original/205281-16.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-13.jpg">fanart/original/205281-13.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-7.jpg">fanart/original/205281-7.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-2.jpg">fanart/original/205281-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-8.jpg">fanart/original/205281-8.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-12.jpg">fanart/original/205281-12.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-6.jpg">fanart/original/205281-6.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-18.jpg">fanart/original/205281-18.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/205281-21.jpg">fanart/original/205281-21.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/205281-10.jpg">fanart/original/205281-10.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/205281-14.jpg">fanart/original/205281-14.jpg</thumb>
+    </fanart>
+    <mpaa>TV-14</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="205281-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/205281/all/pt.zip</url>
+    </episodeguide>
+    <id>205281</id>
+    <uniqueid type="unknown" default="true">205281</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Science-Fiction</genre>
+    <genre>Thriller</genre>
+    <premiered>2011-06-19</premiered>
+    <year>2011</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>TNT (US)</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Noah Wyle</name>
+        <role>Tom Mason</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/220161.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Moon Bloodgood</name>
+        <role>Anne Glass</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/237341.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Drew Roy</name>
+        <role>Hal Mason</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/238851.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Doug Jones</name>
+        <role>Cochise</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/407189.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Scarlett Byrne</name>
+        <role>Alexis &quot;Lexi&quot; Glass-Mason</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/407186.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maxim Knight</name>
+        <role>Matt Mason</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/302561.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Connor Jessup</name>
+        <role>Ben Mason</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/302560.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryan Robbins</name>
+        <role>Tector</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/301851.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jessy Schram</name>
+        <role>Karen</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/299783.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Seychelle Gabriel</name>
+        <role>Lourdes</role>
+        <order>9</order>
+        <thumb>http://thetvdb.com/banners/actors/299782.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Shinkoda</name>
+        <role>Dai</role>
+        <order>10</order>
+        <thumb>http://thetvdb.com/banners/actors/287633.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colin Cunningham</name>
+        <role>John Pope</role>
+        <order>11</order>
+        <thumb>http://thetvdb.com/banners/actors/287630.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Patton</name>
+        <role>Captain Weaver</role>
+        <order>12</order>
+        <thumb>http://thetvdb.com/banners/actors/238861.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sarah Carter</name>
+        <role>Margaret</role>
+        <order>13</order>
+        <thumb>http://thetvdb.com/banners/actors/220191.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mpho Koaho</name>
+        <role>Anthony</role>
+        <order>14</order>
+        <thumb>http://thetvdb.com/banners/actors/220181.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

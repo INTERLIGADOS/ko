@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Street Fighter II Victory</title>
+    <showtitle>Street Fighter II Victory</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.700000</value>
+            <votes>9</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Street Fighter II Victory é um anime baseado no jogo Street Fighter 2. Dirigido por Gisaburo Sugii, a série foi exibida pela primeira vez no Japão em 1995, de 10 de abril à 27 de novembro. No Brasil, a série foi exibida pelo canal SBT durante a década de 90 e, em 2001, pelo Cartoon Network.&#x0D;&#x0A;A série segue as aventuras dos jovens Ryu e Ken, eles percorrem vários lugares do mundo para melhorar suas habilidades das artes marciais depois que ambos enfrentaram uma humilhante derrota para Guile. Durante o decorrer da série, Ryu e Ken se familiarizarem com os outros personagens, tais como Chun-Li, Fei Long, Sagat e Dhalsim. Eventualmente a dupla procura derrotar o chefe da Shadaloo, M. Bison, que faz vários ataques aos personagens durante a série.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/75534-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/75534-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/32667-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/75534-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/32667.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/75534-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75534-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75534-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75534-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75534-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75534-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75534-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75534-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75534-1.jpg</thumb>
+    <fanart>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/75534-4.jpg">http://thetvdb.com/banners/fanart/original/75534-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/75534-2.jpg">http://thetvdb.com/banners/fanart/original/75534-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/75534-3.jpg">http://thetvdb.com/banners/fanart/original/75534-3.jpg</thumb>
+        <thumb dim="1280x720" colors="FF7c509b,FF222a35,FFf6af99" preview="http://thetvdb.com/banners/_cache/fanart/original/75534-1.jpg">http://thetvdb.com/banners/fanart/original/75534-1.jpg</thumb>
+    </fanart>
+    <mpaa>TV-14</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="75534-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/75534/all/pt.zip</url>
+    </episodeguide>
+    <id>75534</id>
+    <uniqueid type="unknown" default="true">75534</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <premiered>1995-04-10</premiered>
+    <year>1995</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Yomiuri TV</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Bridget Hoffman</name>
+        <role>Big Woman</role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Debra Rogers</name>
+        <role>Cammy White</role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joe Romersa</name>
+        <role>Balrog</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kirk Thornton</name>
+        <role>Guile</role>
+        <order>3</order>
+        <thumb>http://image.tmdb.org/t/p/original/xr9rvRWhj8BiLUxiONexlMi8HKi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lia Sargent</name>
+        <role>Chun-Li</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Cansino</name>
+        <role>Vega</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Skip Stellrecht</name>
+        <role>Ryu</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stephen Apostolina</name>
+        <role>Ken Masters</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Steven Jay Blum</name>
+        <role>Dhalsim</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tom Wyner</name>
+        <role>M. Bison</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

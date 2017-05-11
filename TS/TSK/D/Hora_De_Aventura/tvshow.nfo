@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Hora de Aventura</title>
+    <showtitle>Hora de Aventura</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.600000</value>
+            <votes>127</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Prepare-se para conhecer a Terra do Ooo, onde o Rei Gelado governa e a Princesa Jujuba vive. &#x0D;&#x0A;Você vai acompanhar a amizade entre o garoto Finn, 12, e seu fiel cão Jake. O garoto tem um passado misterioso e não sabe nada sobre seus pais verdadeiros. &#x0D;&#x0A;De vez em quando, eles atravessam a fronteira e vão parar na Terra do Ooo, onde tudo pode acontecer. Lá Finn se transforma em herói e passa por várias aventuras.</plot>
+    <tagline></tagline>
+    <runtime>11</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/152831-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/152831-g13.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/152831-g7.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/152831-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/152831-g5.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/152831-g6.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/152831-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/152831-g9.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/152831-g8.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/152831-g12.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/152831-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/152831-g16.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/152831-g10.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/152831-g11.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/152831-g17.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/152831-g14.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/152831-g15.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/152831-g19.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/152831.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/152831-6-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/152831-8-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/152831-2-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="8">http://thetvdb.com/banners/seasons/152831-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/152831-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/152831-3-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/152831-2-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/152831-2-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/152831-7-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/152831-5-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/152831-4-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/152831-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/152831-0-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/152831-5-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/152831-3-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/152831-6-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/152831-1-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/152831-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/152831-0-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/152831-3-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/152831-4-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/152831-4-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/152831-6-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/152831-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/152831-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/152831-1-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/152831-0-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/152831-4-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/152831-4-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/152831-2-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/152831-3-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/152831-5-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/152831-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/152831-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/152831-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/152831-0-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="7">http://thetvdb.com/banners/seasons/152831-7-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/152831-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/152831-3-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/152831-0-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/152831-5-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/152831-5-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/152831-3-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/152831-6-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/152831-1-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/152831-0-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/152831-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/152831-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/152831-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/152831-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/152831-3-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/152831-5-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/152831-3-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/152831-2-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/152831-11.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/152831-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/152831-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/152831-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/152831-9.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/152831-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/152831-15.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/152831-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/152831-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/152831-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/152831-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/152831-12.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/152831-18.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/152831-14.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/152831-13.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/152831-17.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/152831-16.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/152831-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/152831-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/152831-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/152831-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/152831-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/152831-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/152831-15.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/152831-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/152831-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/152831-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/152831-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/152831-12.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/152831-18.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/152831-14.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/152831-13.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/152831-17.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/152831-16.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="|211,79,66|56,159,54|172,144,71|" preview="_cache/fanart/original/152831-3.jpg">fanart/original/152831-3.jpg</thumb>
+        <thumb dim="1920x1080" colors="|255,254,255|26,158,57|250,199,178|" preview="_cache/fanart/original/152831-5.jpg">fanart/original/152831-5.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/152831-17.jpg">fanart/original/152831-17.jpg</thumb>
+        <thumb dim="1920x1080" colors="|230,80,79|84,140,199|86,186,90|" preview="_cache/fanart/original/152831-13.jpg">fanart/original/152831-13.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/152831-16.jpg">fanart/original/152831-16.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/152831-4.jpg">fanart/original/152831-4.jpg</thumb>
+        <thumb dim="1920x1080" colors="|181,175,175|40,22,10|254,185,29|" preview="_cache/fanart/original/152831-14.jpg">fanart/original/152831-14.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/152831-6.jpg">fanart/original/152831-6.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/152831-7.jpg">fanart/original/152831-7.jpg</thumb>
+        <thumb dim="1280x720" colors="|106,199,255|213,44,41|87,189,255|" preview="_cache/fanart/original/152831-1.jpg">fanart/original/152831-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="|250,224,165|254,185,30|85,188,255|" preview="_cache/fanart/original/152831-8.jpg">fanart/original/152831-8.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/152831-11.jpg">fanart/original/152831-11.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/152831-15.jpg">fanart/original/152831-15.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/152831-18.jpg">fanart/original/152831-18.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/152831-12.jpg">fanart/original/152831-12.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/152831-2.jpg">fanart/original/152831-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/152831-10.jpg">fanart/original/152831-10.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/152831-9.jpg">fanart/original/152831-9.jpg</thumb>
+    </fanart>
+    <mpaa>TV-PG</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="152831-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/152831/all/pt.zip</url>
+    </episodeguide>
+    <id>152831</id>
+    <uniqueid type="unknown" default="true">152831</uniqueid>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <genre>Comedy</genre>
+    <genre>Family</genre>
+    <premiered>2010-04-05</premiered>
+    <year>2010</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Cartoon Network</studio>
+    <trailer></trailer>
+    <actor>
+        <name>John DiMaggio</name>
+        <role>Jake</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/394277.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeremy Shada</name>
+        <role>Finn</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/394289.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Penguin</name>
+        <role>Gunter</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/393030.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Charles Emanuel</name>
+        <role>BMO</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/393013.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hynden Walch</name>
+        <role>Princess Bubblegum</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/164951.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andy Daly</name>
+        <role>King of Ooo</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/402553.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Pendarvis</name>
+        <role>Root Beer Guy</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/394302.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tunde Adebimpe</name>
+        <role>Banana Guard</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/394301.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Anne Heche</name>
+        <role>Cherry Cream Soda</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/394300.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom Kenny</name>
+        <role>Starchy</role>
+        <order>9</order>
+        <thumb>http://thetvdb.com/banners/actors/164981.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lou Ferrigno</name>
+        <role>Billy</role>
+        <order>10</order>
+        <thumb>http://thetvdb.com/banners/actors/394298.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jackie Buscarino</name>
+        <role>Susan Strong</role>
+        <order>11</order>
+        <thumb>http://thetvdb.com/banners/actors/394296.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Madeleine Martin</name>
+        <role>Fionna</role>
+        <order>12</order>
+        <thumb>http://thetvdb.com/banners/actors/394295.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kumail Nanjiani</name>
+        <role>Prismo</role>
+        <order>14</order>
+        <thumb>http://thetvdb.com/banners/actors/394293.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Justin Roiland</name>
+        <role>Lemonnohope</role>
+        <order>15</order>
+        <thumb>http://thetvdb.com/banners/actors/394271.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paget Brewster</name>
+        <role>Viola</role>
+        <order>16</order>
+        <thumb>http://thetvdb.com/banners/actors/394291.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roz Ryan</name>
+        <role>Cake</role>
+        <order>17</order>
+        <thumb>http://thetvdb.com/banners/actors/394290.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jeff Glen Bennett</name>
+        <role>Choose Goose</role>
+        <order>19</order>
+        <thumb>http://thetvdb.com/banners/actors/394288.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Di Maggio</name>
+        <role>Jermaine</role>
+        <order>20</order>
+        <thumb>http://thetvdb.com/banners/actors/394287.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dan Mintz</name>
+        <role>T.V.</role>
+        <order>21</order>
+        <thumb>http://thetvdb.com/banners/actors/394286.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marc Evan Jackson</name>
+        <role>Kim Kil Whan</role>
+        <order>22</order>
+        <thumb>http://thetvdb.com/banners/actors/394285.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kristen Schaal</name>
+        <role>Jake Jr.</role>
+        <order>23</order>
+        <thumb>http://thetvdb.com/banners/actors/394284.jpg</thumb>
+    </actor>
+    <actor>
+        <name>unknown</name>
+        <role>Snail</role>
+        <order>24</order>
+        <thumb>http://thetvdb.com/banners/actors/394044.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alia Shawkat</name>
+        <role>Charlie</role>
+        <order>25</order>
+        <thumb>http://thetvdb.com/banners/actors/394282.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maria</name>
+        <role>Raggedy Princess</role>
+        <order>26</order>
+        <thumb>http://thetvdb.com/banners/actors/394280.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Steve Little</name>
+        <role>Turtle Princess</role>
+        <order>27</order>
+        <thumb>http://thetvdb.com/banners/actors/394266.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mariah Bamford</name>
+        <role>Wildberry Princess</role>
+        <order>28</order>
+        <thumb>http://thetvdb.com/banners/actors/394278.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tom</name>
+        <role>Crunchy</role>
+        <order>30</order>
+        <thumb>http://thetvdb.com/banners/actors/394276.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grey DeLisle</name>
+        <role>Breakfast Princess</role>
+        <order>31</order>
+        <thumb>http://thetvdb.com/banners/actors/394275.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maria Banford</name>
+        <role>Slime Princess</role>
+        <order>32</order>
+        <thumb>http://thetvdb.com/banners/actors/394274.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Maria Bamford</name>
+        <role>HotDog Princess</role>
+        <order>33</order>
+        <thumb>http://thetvdb.com/banners/actors/394270.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephen Root</name>
+        <role>Martin Mertens</role>
+        <order>34</order>
+        <thumb>http://thetvdb.com/banners/actors/394272.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Dee Bradley Baker</name>
+        <role>Cinnamon Bun</role>
+        <order>37</order>
+        <thumb>http://thetvdb.com/banners/actors/394269.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kent Osborne</name>
+        <role>Joshua</role>
+        <order>38</order>
+        <thumb>http://thetvdb.com/banners/actors/394268.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ron Perlman</name>
+        <role>The Lich</role>
+        <order>39</order>
+        <thumb>http://thetvdb.com/banners/actors/394267.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amnom Wolf</name>
+        <role>Banana Man</role>
+        <order>42</order>
+        <thumb>http://thetvdb.com/banners/actors/393632.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Pendleton Ward</name>
+        <role>Lumpy Space Princess</role>
+        <order>43</order>
+        <thumb>http://thetvdb.com/banners/actors/389312.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rebecca Sugar</name>
+        <role>Marceline’s mother</role>
+        <order>44</order>
+        <thumb>http://thetvdb.com/banners/actors/365153.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Polly Lou Livingston</name>
+        <role>Tree Trunks</role>
+        <order>45</order>
+        <thumb>http://thetvdb.com/banners/actors/318735.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jessica DiCicco</name>
+        <role>Flame Princess</role>
+        <order>46</order>
+        <thumb>http://thetvdb.com/banners/actors/318734.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Niki Yang</name>
+        <role>Lady Rainicorn / BMO</role>
+        <order>48</order>
+        <thumb>http://thetvdb.com/banners/actors/164971.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Olivia Olson</name>
+        <role>Marceline</role>
+        <order>49</order>
+        <thumb>http://thetvdb.com/banners/actors/164961.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

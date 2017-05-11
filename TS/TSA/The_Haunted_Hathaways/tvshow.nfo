@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>The Haunted Hathaways</title>
+    <showtitle>The Haunted Hathaways</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>2.700000</value>
+            <votes>3</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>&quot;The Haunted Hathaways&quot; follows the adventures of a not-so-typical blended family. When Michelle Hathaway relocates to New Orleans, LA., to open a bakery with her daughters Taylor and Frankie, they quickly learn that life in the “Big Easy” is very different. Unbeknownst to them, their new home is already occupied by a ghost family comprised of jazz musician father Ray Preston and his sons Miles and Louie.&#x0D;&#x0A;After agreeing to live under one roof, they come to care about and rely on one another while driving each other crazy – just like any normal family would. Though leery at first, the Hathaways soon discover how much fun life can be when living with ghosts.</plot>
+    <tagline></tagline>
+    <runtime>0</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/271224-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/271224-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/271224-g3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/271224-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/271224-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/271224-1-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/271224-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/271224-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/271224-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/271224-3.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/271224-3.jpg">fanart/original/271224-3.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/271224-1.jpg">fanart/original/271224-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/271224-2.jpg">fanart/original/271224-2.jpg</thumb>
+    </fanart>
+    <mpaa>TV-G</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="271224-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/271224/all/pt.zip</url>
+    </episodeguide>
+    <id>271224</id>
+    <uniqueid type="unknown" default="true">271224</uniqueid>
+    <genre>Children</genre>
+    <genre>Comedy</genre>
+    <genre>Fantasy</genre>
+    <premiered>2013-07-13</premiered>
+    <year>2013</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Nickelodeon</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Ginifer King</name>
+        <role>Michelle Hathaway</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/315716.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amber Montana</name>
+        <role>Taylor Hathaway</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/315717.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Breanna Yde</name>
+        <role>Frankie Hathaway</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/315718.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Benjamin &quot;Lil P-Nut&quot; Flores Jr.</name>
+        <role>Louie Preston</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/315721.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Curtis Harris</name>
+        <role>Miles Preston</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/315720.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chico Benymon</name>
+        <role>Ray Preston</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/315719.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Mr. Robot</title>
+    <showtitle>Mr. Robot</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.000000</value>
+            <votes>148</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Criada por Sam Esmail, Steve Golin (True Detective) e Chad Hamilton, a história acompanha a vida de Elliot (Rami Malek, de The Pacific), um jovem programador que sofre de uma desordem que o torna anti-social. Acreditando que a única forma de se conectar com as pessoas é hackeando suas vidas, ele alia seu conhecimento ao fato de trabalhar em uma empresa de segurança online para proteger aqueles que ele ama daqueles que tentam, de alguma forma, prejudicá-los. Suas atividades chamam a atenção de Mr. Robot (Christian Slater, de Mind Games), um misterioso anarquista que convida Elliot a fazer parte de uma organização que atua na ilegalidade com o objetivo de derrubar as corporações americanas.</plot>
+    <tagline></tagline>
+    <runtime>45</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/289590-g8.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/289590-g5.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/289590-g7.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/289590-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/289590-g12.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/289590-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/289590-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/289590-g9.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/289590-g6.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/289590-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/289590-g11.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/289590-g10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/289590-0-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/289590-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/289590-1-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/289590-2-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/289590-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/289590-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/289590-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/289590-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/289590-1-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/289590-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/289590-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/289590-1-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/289590-2-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/289590-2-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/289590-2-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/289590-1-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/289590-1-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/289590-1-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/289590-1-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/289590-2-7.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/289590-1.jpg</thumb>
+    <thumb aspect="banner" type="season" season="0">http://thetvdb.com/banners/seasonswide/289590-0.jpg</thumb>
+    <thumb aspect="banner" type="season" season="2">http://thetvdb.com/banners/seasonswide/289590-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-12.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-22.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-14.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-15.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-18.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-16.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-20.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-24.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-23.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-13.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-19.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-11.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-9.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-10.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-17.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/289590-21.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-12.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-22.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-14.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-15.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-18.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-16.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-20.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-24.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-23.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-13.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-19.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-17.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/289590-21.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/289590-25.jpg">fanart/original/289590-25.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-1.jpg">fanart/original/289590-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-19.jpg">fanart/original/289590-19.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-20.jpg">fanart/original/289590-20.jpg</thumb>
+        <thumb dim="1920x1080" colors="|3,3,11|208,201,195|15,3,3|" preview="_cache/fanart/original/289590-2.jpg">fanart/original/289590-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-3.jpg">fanart/original/289590-3.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-18.jpg">fanart/original/289590-18.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-24.jpg">fanart/original/289590-24.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-17.jpg">fanart/original/289590-17.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-8.jpg">fanart/original/289590-8.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-9.jpg">fanart/original/289590-9.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-13.jpg">fanart/original/289590-13.jpg</thumb>
+        <thumb dim="1920x1080" colors="|103,93,91|50,46,45|64,58,58|" preview="_cache/fanart/original/289590-5.jpg">fanart/original/289590-5.jpg</thumb>
+        <thumb dim="1280x720" colors="|254,254,254|33,32,38|113,75,66|" preview="_cache/fanart/original/289590-6.jpg">fanart/original/289590-6.jpg</thumb>
+        <thumb dim="1920x1080" colors="|189,140,99|1,1,1|147,130,114|" preview="_cache/fanart/original/289590-4.jpg">fanart/original/289590-4.jpg</thumb>
+        <thumb dim="1920x1080" colors="|177,195,207|29,29,27|204,152,102|" preview="_cache/fanart/original/289590-7.jpg">fanart/original/289590-7.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/289590-27.jpg">fanart/original/289590-27.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-14.jpg">fanart/original/289590-14.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-11.jpg">fanart/original/289590-11.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-10.jpg">fanart/original/289590-10.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-12.jpg">fanart/original/289590-12.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-21.jpg">fanart/original/289590-21.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-16.jpg">fanart/original/289590-16.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-15.jpg">fanart/original/289590-15.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-23.jpg">fanart/original/289590-23.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/289590-22.jpg">fanart/original/289590-22.jpg</thumb>
+    </fanart>
+    <mpaa>TV-MA</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="289590-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/289590/all/pt.zip</url>
+    </episodeguide>
+    <id>289590</id>
+    <uniqueid type="unknown" default="true">289590</uniqueid>
+    <genre>Crime</genre>
+    <genre>Drama</genre>
+    <genre>Suspense</genre>
+    <genre>Thriller</genre>
+    <premiered>2015-06-24</premiered>
+    <year>2015</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>USA Network</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Rami Malek</name>
+        <role>Elliot Alderson</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/341347.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Wallström</name>
+        <role>Tyrell Wellick</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/398928.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Carly Chaikin</name>
+        <role>Darlene Alderson</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/341350.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Portia Doubleday</name>
+        <role>Angela Moss</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/341349.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christian Slater</name>
+        <role>Mr. Robot</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/341348.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Craig Robinson</name>
+        <role>Ray</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/384445.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Grace Gummer</name>
+        <role>Dominique &quot;Dom&quot; Dipierro</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/384216.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Cristofer</name>
+        <role>Phillip Price</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/384217.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stephanie Corneliussen</name>
+        <role>Joanna Wellick</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/353956.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

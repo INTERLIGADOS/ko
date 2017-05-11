@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Rush Hour (2016)</title>
+    <showtitle>Rush Hour (2016)</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.300000</value>
+            <votes>8</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Detective Lee is a reserved, honorable master martial artist with lightning-fast moves who comes to L.A. to avenge his sister’s alleged death and learn more about her connection to a Chinese organized crime ring. Detective Carter, on the other hand, is a wisecracking cop who plays by his own rules and has never wanted a partner.&#x0D;&#x0A;&#x0D;&#x0A;As exasperated as Carter’s boss, Captain Cole, gets with him, she knows he’s a brilliant detective who gets results. Attempting to help the two get along is Sergeant Didi Diaz, Carter’s friend and former partner who doesn’t hesitate to call him out on his antics.&#x0D;&#x0A;&#x0D;&#x0A;But even as cultures clash and tempers flare, Carter and Lee can’t deny they make a formidable team, and grudgingly admit that sometimes an unlikely pairing makes for a great partnership.</plot>
+    <tagline></tagline>
+    <runtime>45</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/298368-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/298368-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/298368-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/298368-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/298368-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/298368-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/298368-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/298368-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/298368-3.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/298368-1.jpg">fanart/original/298368-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/298368-3.jpg">fanart/original/298368-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/298368-2.jpg">fanart/original/298368-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/298368-6.jpg">fanart/original/298368-6.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/298368-4.jpg">fanart/original/298368-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/298368-5.jpg">fanart/original/298368-5.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/298368-7.jpg">fanart/original/298368-7.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/298368-8.jpg">fanart/original/298368-8.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/298368-9.jpg">fanart/original/298368-9.jpg</thumb>
+    </fanart>
+    <mpaa>TV-14</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="298368-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/298368/all/pt.zip</url>
+    </episodeguide>
+    <id>298368</id>
+    <uniqueid type="unknown" default="true">298368</uniqueid>
+    <genre>Action</genre>
+    <genre>Comedy</genre>
+    <premiered>2016-03-31</premiered>
+    <year>2016</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>CBS</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Jon Foo</name>
+        <role>Det. Lee</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/352132.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Justin Hires</name>
+        <role>Det. James Carter</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/352135.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wendie Malick</name>
+        <role>Cpt. Lindsay Cole</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/375363.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Page Kennedy</name>
+        <role>Gerald</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/352137.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kirk Fox</name>
+        <role>Donovan</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/352136.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jessika Van</name>
+        <role>Kim Lee</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/352134.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aimee Garcia</name>
+        <role>Sgt. Didi Diaz</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/352133.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

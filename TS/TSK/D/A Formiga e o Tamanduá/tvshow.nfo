@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>The Ant and The Aardvark</title>
+    <showtitle>The Ant and The Aardvark</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.000000</value>
+            <votes>4</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>This comical cartoon is centered around an aardvark who is desperately trying to catch a clever ant for food. The series was released theatrically from 1969 to 1971 by United Artists. In 1972 it became part of &quot;The Pink Panther Show.&quot; John Byner (Soap) provided the voices, impersonating Jackie Mason for the aardvark and impersonating Dean Martin for the ant.</plot>
+    <tagline></tagline>
+    <runtime>6</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72947-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/72947-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/72947-1-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72947-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72947-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72947-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72947-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72947-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72947-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72947-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72947-1.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/72947-3.jpg">fanart/original/72947-3.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72947-1.jpg">fanart/original/72947-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/72947-2.jpg">fanart/original/72947-2.jpg</thumb>
+    </fanart>
+    <mpaa>TV-Y7</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="72947-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/72947/all/pt.zip</url>
+    </episodeguide>
+    <id>72947</id>
+    <uniqueid type="unknown" default="true">72947</uniqueid>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <genre>Comedy</genre>
+    <genre>Family</genre>
+    <premiered>1969-03-05</premiered>
+    <year>1969</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>NBC</studio>
+    <trailer></trailer>
+    <actor>
+        <name>John Byner</name>
+        <role>Ant / Aardvark (voice)</role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

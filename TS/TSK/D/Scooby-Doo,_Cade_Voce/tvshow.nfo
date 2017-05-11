@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Scooby-Doo, cadê você?</title>
+    <showtitle>Scooby-Doo, cadê você?</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>9.200000</value>
+            <votes>32</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Imagine juntar personalidades tão diferentes quanto um medroso cachorro da raça Dogue Alemão, um &quot;riponga&quot; chamado Salsicha, uma ousada &quot;CDF&quot; chamada Velma, a linda Daphne e um heróico bonitão chamado Fred. Imagine agora colocá-los em todos os tipos de situações assustadoras e mandá-los, como uma equipe, resolver mistérios escabrosos.</plot>
+    <tagline></tagline>
+    <runtime>30</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78260-g7.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78260-g6.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/826-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78260-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78260-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78260-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78260-g8.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78260-g5.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78260-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/78260.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/78260-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/78260-1-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/78260-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/78260-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/78260-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/78260-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/78260-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/78260-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/826-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/826-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/78260-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/78260-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/78260-0.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78260-10.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78260-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78260-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78260-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78260-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78260-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78260-9.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78260-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78260-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78260-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78260-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78260-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78260-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78260-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78260-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78260-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78260-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78260-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78260-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78260-2.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/78260-9.jpg">fanart/original/78260-9.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78260-5.jpg">fanart/original/78260-5.jpg</thumb>
+        <thumb dim="1280x720" colors="|216,222,36|185,120,16|176,151,209|" preview="_cache/fanart/original/78260-2.jpg">fanart/original/78260-2.jpg</thumb>
+        <thumb dim="1280x720" colors="|197,219,10|79,41,144|168,95,1|" preview="_cache/fanart/original/78260-1.jpg">fanart/original/78260-1.jpg</thumb>
+        <thumb dim="1280x720" colors="|255,255,255|19,19,19|92,152,144|" preview="_cache/fanart/original/78260-4.jpg">fanart/original/78260-4.jpg</thumb>
+        <thumb dim="1280x720" colors="|128,200,188|27,23,14|181,211,53|" preview="_cache/fanart/original/78260-3.jpg">fanart/original/78260-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78260-6.jpg">fanart/original/78260-6.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78260-7.jpg">fanart/original/78260-7.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78260-8.jpg">fanart/original/78260-8.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/78260-10.jpg">fanart/original/78260-10.jpg</thumb>
+    </fanart>
+    <mpaa>TV-G</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="78260-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/78260/all/pt.zip</url>
+    </episodeguide>
+    <id>78260</id>
+    <uniqueid type="unknown" default="true">78260</uniqueid>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <premiered>1969-09-13</premiered>
+    <year>1969</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>CBS</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Don Messick</name>
+        <role>Scoobert &apos;Scooby&apos; Doo</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/62979.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Casey Kasem</name>
+        <role>Norville &apos;Shaggy&apos; Rogers</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/62975.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Frank Welker</name>
+        <role>Frederick &apos;Fred&apos; Jones</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/62974.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Angel</name>
+        <role>Additional Voices</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/62982.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Heather North</name>
+        <role>Daphne Anne Blake</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/62981.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan Oppenheimer</name>
+        <role>Additional Voices</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/62980.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicole Jaffe</name>
+        <role>Velma Dinkley</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/62978.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stefanianna Christopherson</name>
+        <role>Daphne Anne Blake</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/62976.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

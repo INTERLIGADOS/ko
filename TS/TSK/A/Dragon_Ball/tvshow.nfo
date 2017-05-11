@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Dragon Ball</title>
+    <showtitle>Dragon Ball</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.600000</value>
+            <votes>235</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Goku foi encontrado por Gohan quando era apenas um bebê e o bondoso velhinho o adotou como neto. Gohan deu de presente a Goku a esfera de quatro estrelas. Quando conhece Bulma, Goku fica sabendo da lenda das esferas do dragão. Segundo a lenda, quem reunir as sete esferas invocará Shen Long, o dragão guardião, cujo poder é de realizar qualquer desejo.</plot>
+    <tagline></tagline>
+    <runtime>0</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/76666-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/76666-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/4607-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/76666-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/76666-g4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/76666-4-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/76666-3-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/76666-5-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/76666-1-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/76666-2-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/76666-0-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/76666-5-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/76666-3-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/76666-6-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/76666-2-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/76666-5-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/76666-4-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/76666-0-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/76666-4-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/76666-1-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/76666-2-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/76666-3-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/76666-5-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/76666-2-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/76666-0-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/76666-0-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/76666-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/76666-1-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/76666-1-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/76666-0-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/76666-4-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/76666-5-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/76666-3-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/76666-1-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/76666-5-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/76666-2-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/76666-3-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/76666-4-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/76666-2-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/76666-4-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/76666-3-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/76666-1-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/76666-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/76666-0-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/76666-6-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/76666-6-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/76666-5-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/76666-4-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/76666-3-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/76666-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/76666-5-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/76666-5-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/76666-1-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/76666-4-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/76666-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/76666-3-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/76666-1-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="6">http://thetvdb.com/banners/seasons/76666-6-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/76666-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/76666-2-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/76666-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/76666-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/76666-4-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/76666-4-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/76666-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/76666-5-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/76666-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/76666-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/76666-3-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/76666-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76666-16.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76666-15.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76666-17.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76666-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76666-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76666-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76666-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76666-12.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76666-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76666-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76666-9.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76666-10.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76666-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76666-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76666-14.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76666-13.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/76666-11.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76666-16.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76666-15.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76666-17.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76666-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76666-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76666-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76666-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76666-12.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76666-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76666-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76666-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76666-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76666-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76666-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76666-14.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76666-13.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/76666-11.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="|255,255,199|9,8,6|248,188,134|" preview="_cache/fanart/original/76666-8.jpg">fanart/original/76666-8.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/76666-18.jpg">fanart/original/76666-18.jpg</thumb>
+        <thumb dim="1920x1080" colors="|255,255,255|9,9,9|255,223,208|" preview="_cache/fanart/original/76666-2.jpg">fanart/original/76666-2.jpg</thumb>
+        <thumb dim="1280x720" colors="|255,255,255|163,135,193|239,139,0|" preview="_cache/fanart/original/76666-1.jpg">fanart/original/76666-1.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/76666-4.jpg">fanart/original/76666-4.jpg</thumb>
+        <thumb dim="1280x720" colors="|255,255,255|148,102,40|222,201,170|" preview="_cache/fanart/original/76666-3.jpg">fanart/original/76666-3.jpg</thumb>
+        <thumb dim="1920x1080" colors="|255,255,180|195,221,244|247,243,244|" preview="_cache/fanart/original/76666-6.jpg">fanart/original/76666-6.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/76666-7.jpg">fanart/original/76666-7.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/76666-11.jpg">fanart/original/76666-11.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/76666-10.jpg">fanart/original/76666-10.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/76666-14.jpg">fanart/original/76666-14.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/76666-9.jpg">fanart/original/76666-9.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/76666-16.jpg">fanart/original/76666-16.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/76666-12.jpg">fanart/original/76666-12.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/76666-13.jpg">fanart/original/76666-13.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/76666-17.jpg">fanart/original/76666-17.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/76666-15.jpg">fanart/original/76666-15.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/76666-5.jpg">fanart/original/76666-5.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="76666-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/76666/all/pt.zip</url>
+    </episodeguide>
+    <id>76666</id>
+    <uniqueid type="unknown" default="true">76666</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <genre>Children</genre>
+    <genre>Fantasy</genre>
+    <premiered>1986-02-26</premiered>
+    <year>1986</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Fuji TV</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Masako Nozawa</name>
+        <role>Son Goku</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/70585.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hiromi Tsuru</name>
+        <role>Bulma</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/312113.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mayumi Tanaka</name>
+        <role>Kulilin</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/375899.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Osamu Saka</name>
+        <role>Son Gohan</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/375934.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chikao Ōtsuka</name>
+        <role>Tao Pai Pai</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/375933.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shōzō Iizuka</name>
+        <role>C8</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/375932.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mami Koyama</name>
+        <role>Lunch</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/375931.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hiroko Emori</name>
+        <role>Chaozu</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/327195.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shigeru Chiba</name>
+        <role>Pilaf</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/327197.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Takeshi Aono</name>
+        <role>Piccolo Daimaô</role>
+        <order>9</order>
+        <thumb>http://thetvdb.com/banners/actors/137031.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mayumi Shō</name>
+        <role>Chi-Chi</role>
+        <order>10</order>
+        <thumb>http://thetvdb.com/banners/actors/375927.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Naoki Tatsuta</name>
+        <role>Oolong</role>
+        <order>11</order>
+        <thumb>http://thetvdb.com/banners/actors/136881.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hirotaka Suzuoki</name>
+        <role>Tenshinhan</role>
+        <order>12</order>
+        <thumb>http://thetvdb.com/banners/actors/327720.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Naoko Watanabe</name>
+        <role>Puerh</role>
+        <order>13</order>
+        <thumb>http://thetvdb.com/banners/actors/375907.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Laura Bailey</name>
+        <role>Chi-Chi</role>
+        <order>14</order>
+        <thumb>http://thetvdb.com/banners/actors/327718.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Toshio Furukawa</name>
+        <role>Piccolo</role>
+        <order>15</order>
+        <thumb>http://thetvdb.com/banners/actors/312116.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kouhei Miyauchi</name>
+        <role>Muten-Roshi</role>
+        <order>16</order>
+        <thumb>http://thetvdb.com/banners/actors/327716.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Toru Furuya</name>
+        <role>Yamcha</role>
+        <order>17</order>
+        <thumb>http://thetvdb.com/banners/actors/327715.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

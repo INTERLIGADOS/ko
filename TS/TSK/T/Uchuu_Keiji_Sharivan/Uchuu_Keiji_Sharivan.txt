@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+ 
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 1[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=a98cdabefa8f5309</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 2[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=4686d28a6419b8ec</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 3[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=283f6ffa9f3704cb</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 4[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=1864b35ddc9fbe20</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 5[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=b8e41fa032331483</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 6[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=7ba18d3df9d9a640</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 7[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=64eec09504e55d4f</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 8[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=3be32933895f4c19</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 9[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=e907c2b77b64f77a</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 10[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=b5ae7ad7805ce276</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 11[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=fe2ebc9f66251d1f</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 12[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=4041e1371da3693</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 13[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=3c843789be163dd7</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 14[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=bca71f091aa055e</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 15[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=1a65d4b778d320c6</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 16[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=5fa70062f28a123e</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 17[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=f45dab0c8b32f63d</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 18[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=67ed4465622c1e6a</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 19[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=a6f0ec565d870ff0</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 20[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=15910b8ff747ff4f</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 21[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=f4954981820ffc28</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 22[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=bdc995dfbcd9c44</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 23[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=6d73f718f7df236c</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 24[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=169b213a09e8beaa</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 25[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=d223b1d09013a1c</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 26[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=c1c74c9da0f8d475</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 27[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=b9c0df933e2963a4</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 28[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=18b442f260ade577</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 29[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=2ead1ac8e3702e37</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 30[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=2c1ea696bd7a786f</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 31[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=8d850dc83c124e68</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 32[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=962854ee1e165b88</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 33[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=56bb930d7e2f4716</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 34[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=368f470047f43249</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 35[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=8141808ee18bc26c</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 36[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=3e3e39a863332b1b</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 37[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=4979f9847229f43e</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 38[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=ca39af7a3a5492ca</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 39[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=33979ace92a76867</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 40[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=5c47fc624b55ae33</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 41[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=67cb6ba4939371c5</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 42[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=c1fd98ad3169125</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 43[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=e274765966c60705</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 44[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=7652e0c7541c1c14</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 45[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=ac31dca79ca3cab8</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 46[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=8b37c6e38ae47278</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 47[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=6653f563dc177850</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan 48[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=23c56bc101f92e42</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]Uchuu Keiji Sharivan Especial[/B][/COLOR]</title>
+<link>http://www.blogger.com/video-play.mp4?contentId=69f33962d62cb5c4</link>
+<thumbnail>http://i.imgur.com/AjZlRh1.jpg</thumbnail>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</item>
+

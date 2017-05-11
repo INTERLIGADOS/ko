@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Where in the World is Carmen Sandiego?</title>
+    <showtitle>Where in the World is Carmen Sandiego?</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>10.000000</value>
+            <votes>1</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Where in the World Is Carmen Sandiego? is an American children&apos;s television game show based on the Carmen Sandiego computer game series created by Brøderbund Software. The program aired on PBS from September 30, 1991 until December 22, 1995, and reruns of the series continued until October 4, 1996. The series was replaced the following Monday by a second Carmen Sandiego-based game show, Where in Time Is Carmen Sandiego?.&#x0D;&#x0A;&#x0D;&#x0A;Actor Greg Lee hosted the program in the role of &quot;The ACME Special Agent (renamed Senior Agent for Seasons 3–5) in charge of training new recruits.&quot; He was joined by actress Lynne Thigpen, who portrayed Lee&apos;s superior &quot;The Chief&quot;, and a capella performing group Rockapella, who served as the show&apos;s in-house band and comedy troupe. The series was recorded in New York City and coproduced by PBS stations WQED and WGBH. Howard Blumenthal, Dana Calderwood, and Dorothy Curley were the series&apos; developers and Blumenthal served as the show&apos;s producer for its first four seasons.&#x0D;&#x0A;&#x0D;&#x0A;The program received the George Foster Peabody Award for excellence in 1993. The program&apos;s theme song, written by Sean Altman and David Yazbek, has maintained public awareness over the years. In 2001, TV Guide ranked the show at #47 on its list of 50 Greatest Game Shows of All Time.</plot>
+    <tagline></tagline>
+    <runtime>30</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/72207-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/72207-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/72207-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/72207-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/72207-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/72207-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72207-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/72207-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72207-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/72207-1.jpg</thumb>
+    <fanart>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/72207-1.jpg">http://thetvdb.com/banners/fanart/original/72207-1.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="72207-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/72207/all/pt.zip</url>
+    </episodeguide>
+    <id>72207</id>
+    <uniqueid type="unknown" default="true">72207</uniqueid>
+    <genre>Children</genre>
+    <premiered>1991-09-01</premiered>
+    <year>1991</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>PBS</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Barry Carl</name>
+        <role></role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Doug Preis</name>
+        <role></role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Elliott Kerman</name>
+        <role></role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Greg Lee</name>
+        <role></role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeff Thacher</name>
+        <role></role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lynne Thigpen</name>
+        <role></role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rockapella</name>
+        <role></role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scott Leonard</name>
+        <role></role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sean Altman</name>
+        <role></role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

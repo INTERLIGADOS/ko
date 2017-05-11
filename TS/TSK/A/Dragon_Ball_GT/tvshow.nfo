@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Dragon Ball GT</title>
+    <showtitle>Dragon Ball GT</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>6.900000</value>
+            <votes>50</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>A história continua após o fim de Dragon Ball Z, uma década depois da vitória dos guerreiros Z sobre Majin Boo. Tudo Começa quando Pilaf encontra as Esferas do Dragão Originais e as usa para transformar Son Goku em uma criança. Estas Esferas do Dragão são espalhadas pelo universo inteiro e devem ser recolhidas no prazo inferior a um ano, ou o planeta terra será destruído.</plot>
+    <tagline></tagline>
+    <runtime>25</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/79275-g5.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/79275-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/7726-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/79275-g2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/79275-2-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/79275-3-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/79275-1-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/79275-0-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/79275-3-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/79275-1-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/79275-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/79275-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/79275-2-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/79275-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/79275-3-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/79275-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/79275-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/79275-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/79275-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/79275-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/79275-3-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/79275-3-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/7726-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/79275-2-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/79275-3-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/79275-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/79275-1-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79275-6.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79275-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79275-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79275-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79275-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/79275-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79275-6.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79275-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79275-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79275-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79275-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/79275-1.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/79275-2.jpg">fanart/original/79275-2.jpg</thumb>
+        <thumb dim="1920x1080" colors="|240,248,251|55,53,54|255,205,144|" preview="_cache/fanart/original/79275-1.jpg">fanart/original/79275-1.jpg</thumb>
+    </fanart>
+    <mpaa>TV-PG</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="79275-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/79275/all/pt.zip</url>
+    </episodeguide>
+    <id>79275</id>
+    <uniqueid type="unknown" default="true">79275</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <premiered>1996-02-07</premiered>
+    <year>1996</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Fuji TV</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Masako Nozawa</name>
+        <role>Son Goku</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/70585.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shino Kakinuma</name>
+        <role>Pan</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/70576.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Takeshi Kusao</name>
+        <role>Trunks</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/70563.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shinobu Satouchi</name>
+        <role>Giru</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/70592.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Megumi Urawa</name>
+        <role>Uub</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/70589.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yuko Minaguchi</name>
+        <role>Videl</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/70588.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Daisuke Gori</name>
+        <role>Mr.Satan</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/70587.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ken Yamaguchi</name>
+        <role>Suu Shenron</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/70578.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Masako Tsukada</name>
+        <role>Son Goten</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/70574.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Miki Itō</name>
+        <role>18</role>
+        <order>9</order>
+        <thumb>http://thetvdb.com/banners/actors/70571.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hiroshi Masuoka</name>
+        <role>Master Roshi</role>
+        <order>10</order>
+        <thumb>http://thetvdb.com/banners/actors/70568.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shigeru Nakahara</name>
+        <role>Super 17</role>
+        <order>11</order>
+        <thumb>http://thetvdb.com/banners/actors/70566.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryou Horikawa</name>
+        <role>Vegeta</role>
+        <order>12</order>
+        <thumb>http://thetvdb.com/banners/actors/70564.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nozawa Masako</name>
+        <role>Son Gohan</role>
+        <order>13</order>
+        <thumb>http://thetvdb.com/banners/actors/70560.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kōzō Shioya</name>
+        <role>Boo</role>
+        <order>14</order>
+        <thumb>http://thetvdb.com/banners/actors/375912.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kaneto Shiozawa</name>
+        <role>San Shenron</role>
+        <order>15</order>
+        <thumb>http://thetvdb.com/banners/actors/375911.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hidekatsu Shibata</name>
+        <role>Li Shenron</role>
+        <order>16</order>
+        <thumb>http://thetvdb.com/banners/actors/375910.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kiyoyuki Yanada</name>
+        <role>General Rilldo</role>
+        <order>17</order>
+        <thumb>http://thetvdb.com/banners/actors/375909.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tanaka Mayumi</name>
+        <role>Sugoro</role>
+        <order>18</order>
+        <thumb>http://thetvdb.com/banners/actors/289423.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Naoko Watanabe</name>
+        <role>Chichi</role>
+        <order>19</order>
+        <thumb>http://thetvdb.com/banners/actors/375907.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Reizo Nomoto</name>
+        <role>Old Kaio-Shin</role>
+        <order>20</order>
+        <thumb>http://thetvdb.com/banners/actors/375906.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shinichiro Ohta</name>
+        <role>Kibitoshin</role>
+        <order>21</order>
+        <thumb>http://thetvdb.com/banners/actors/375905.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kazuyuki Sogabe</name>
+        <role>Dr. Myuu</role>
+        <order>22</order>
+        <thumb>http://thetvdb.com/banners/actors/375904.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryūsei Nakao</name>
+        <role>Frieza</role>
+        <order>23</order>
+        <thumb>http://thetvdb.com/banners/actors/375903.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tsuru Hiromi</name>
+        <role>Bra</role>
+        <order>24</order>
+        <thumb>http://thetvdb.com/banners/actors/375902.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tomiko Suzuki</name>
+        <role>Marron</role>
+        <order>25</order>
+        <thumb>http://thetvdb.com/banners/actors/375901.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Norio Wakamoto</name>
+        <role>Cell</role>
+        <order>26</order>
+        <thumb>http://thetvdb.com/banners/actors/375900.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mayumi Tanaka</name>
+        <role>Kulilin</role>
+        <order>27</order>
+        <thumb>http://thetvdb.com/banners/actors/375899.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Toshio Furukawa</name>
+        <role>Piccolo</role>
+        <order>28</order>
+        <thumb>http://thetvdb.com/banners/actors/312116.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jōji Yanami</name>
+        <role>North Kai</role>
+        <order>29</order>
+        <thumb>http://thetvdb.com/banners/actors/312115.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yusuke Numata</name>
+        <role>Baby</role>
+        <order>30</order>
+        <thumb>http://thetvdb.com/banners/actors/312114.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hiromi Tsuru</name>
+        <role>Bulma</role>
+        <order>31</order>
+        <thumb>http://thetvdb.com/banners/actors/312113.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

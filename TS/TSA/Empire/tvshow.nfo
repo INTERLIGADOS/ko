@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Empire</title>
+    <showtitle>Empire</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>6.700000</value>
+            <votes>3</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Empire (1962) was a Western drama set on the sprawling Garret ranch in New Mexico. A multi-million dollar operation which included mining, oil, crop-raising, horse breeding, cattle and sheep herding. A wonderful adventure series which in the first season aired on NBC as Empire and was then shown on ABC as &quot;Redigo.&quot;</plot>
+    <tagline></tagline>
+    <runtime>60</runtime>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/73519-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/73519-1.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/" />
+    <mpaa></mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="73519-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/73519/all/pt.zip</url>
+    </episodeguide>
+    <id>73519</id>
+    <uniqueid type="unknown" default="true">73519</uniqueid>
+    <premiered>1962-09-01</premiered>
+    <year>1962</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>NBC</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Anne Seymour</name>
+        <role></role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Charles Bronson</name>
+        <role></role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Richard Egan</name>
+        <role></role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ryan O&apos;Neal</name>
+        <role></role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Terry Moore</name>
+        <role></role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Warren Vanders</name>
+        <role></role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

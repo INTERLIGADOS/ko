@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Naruto</title>
+    <showtitle>Naruto</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>8.200000</value>
+            <votes>805</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Naruto é o nome de uma série de mangá que originou o anime homónimo de muito sucesso no Japão, e que agora está se difundindo também por várias partes do mundo, como nos EUA e no Brasil. Criada originalmente por Masashi Kishimoto, é uma série Shounen. O mundo de Naruto é composto de ninjas. Eles vivem em vilarejos e ganham dinheiro por missões. Cada vilarejo tem o seu líder, a sua política, normalmente separada da do país onde elas estão. Nas lutas, os ninjas se utilizam de jutsus (técnicas), que são as técnicas secretas de um ninja. Assim eles podem fazer coisas incríveis, como criar fogo, água, ou andar nas paredes. O personagem principal é Uzumaki Naruto, um jovem garoto que sonha em se tornar o líder de seu vilarejo (Hokage), tido como o ninja mais forte e respeitado. Vai ser difícil, já que dentro dele está um demónio, Kyuubi, preso para evitar mais destruição e morte. Naruto cresceu sendo visto como o próprio demónio, sendo excluído, porém pelo trabalho duro ele mostra ser o oposto disso, ganhando respeito, carinho e amizade da maioria.</plot>
+    <tagline></tagline>
+    <runtime>0</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78857-g2.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78857-g3.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78857-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/78857-g4.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/18558-g.jpg</thumb>
+    <thumb aspect="banner">http://thetvdb.com/banners/text/18558.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/78857-0-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/78857-5-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/78857-1-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/78857-4-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/78857-2-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/78857-3-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/78857-3-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/78857-5-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/78857-1-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/78857-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/78857-4-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/78857-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/78857-1-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/78857-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="0">http://thetvdb.com/banners/seasons/78857-0.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/18558-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/18558-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/78857-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/18558-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/78857-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/18558-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/78857-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/78857-1-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/78857-2-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/18558-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/78857-4-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="5">http://thetvdb.com/banners/seasons/78857-5-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/78857-3-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/78857-2-5.jpg</thumb>
+    <thumb aspect="banner" type="season" season="1">http://thetvdb.com/banners/seasonswide/78857-1.jpg</thumb>
+    <thumb aspect="banner" type="season" season="4">http://thetvdb.com/banners/seasonswide/78857-4.jpg</thumb>
+    <thumb aspect="banner" type="season" season="3">http://thetvdb.com/banners/seasonswide/78857-3.jpg</thumb>
+    <thumb aspect="banner" type="season" season="5">http://thetvdb.com/banners/seasonswide/78857-5.jpg</thumb>
+    <thumb aspect="banner" type="season" season="2">http://thetvdb.com/banners/seasonswide/78857-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78857-9.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78857-10.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78857-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78857-5.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78857-2.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78857-8.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78857-4.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78857-7.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/78857-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78857-9.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78857-10.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78857-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78857-5.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78857-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78857-8.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78857-4.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78857-7.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/78857-3.jpg</thumb>
+    <fanart url="http://thetvdb.com/banners/">
+        <thumb dim="1280x720" colors="|92,2,14|2,9,27|173,75,26|" preview="_cache/fanart/original/78857-18.jpg">fanart/original/78857-18.jpg</thumb>
+        <thumb dim="1920x1080" colors="|233,229,228|168,134,107|122,108,107|" preview="_cache/fanart/original/78857-32.jpg">fanart/original/78857-32.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-30.jpg">fanart/original/78857-30.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-34.jpg">fanart/original/78857-34.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/78857-6.jpg">fanart/original/78857-6.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-25.jpg">fanart/original/78857-25.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-37.jpg">fanart/original/78857-37.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/78857-31.jpg">fanart/original/78857-31.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-35.jpg">fanart/original/78857-35.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/78857-19.jpg">fanart/original/78857-19.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-7.jpg">fanart/original/78857-7.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-10.jpg">fanart/original/78857-10.jpg</thumb>
+        <thumb dim="1280x720" colors="|239,231,228|139,75,27|250,223,214|" preview="_cache/fanart/original/78857-1.jpg">fanart/original/78857-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-36.jpg">fanart/original/78857-36.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-33.jpg">fanart/original/78857-33.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-17.jpg">fanart/original/78857-17.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-9.jpg">fanart/original/78857-9.jpg</thumb>
+        <thumb dim="1280x720" colors="|230,231,235|0,0,0|16,20,49|" preview="_cache/fanart/original/78857-2.jpg">fanart/original/78857-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-26.jpg">fanart/original/78857-26.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-15.jpg">fanart/original/78857-15.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-20.jpg">fanart/original/78857-20.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-14.jpg">fanart/original/78857-14.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-16.jpg">fanart/original/78857-16.jpg</thumb>
+        <thumb dim="1280x720" colors="|96,167,171|15,14,12|228,79,39|" preview="_cache/fanart/original/78857-3.jpg">fanart/original/78857-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-8.jpg">fanart/original/78857-8.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-28.jpg">fanart/original/78857-28.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-24.jpg">fanart/original/78857-24.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-23.jpg">fanart/original/78857-23.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-21.jpg">fanart/original/78857-21.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-22.jpg">fanart/original/78857-22.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-29.jpg">fanart/original/78857-29.jpg</thumb>
+        <thumb dim="1280x720" colors="|132,209,199|10,4,4|133,86,120|" preview="_cache/fanart/original/78857-4.jpg">fanart/original/78857-4.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-12.jpg">fanart/original/78857-12.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-13.jpg">fanart/original/78857-13.jpg</thumb>
+        <thumb dim="1920x1080" colors="" preview="_cache/fanart/original/78857-38.jpg">fanart/original/78857-38.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-27.jpg">fanart/original/78857-27.jpg</thumb>
+        <thumb dim="1280x720" colors="|254,254,254|16,20,19|110,12,9|" preview="_cache/fanart/original/78857-5.jpg">fanart/original/78857-5.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="_cache/fanart/original/78857-11.jpg">fanart/original/78857-11.jpg</thumb>
+    </fanart>
+    <mpaa>TV-PG</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="78857-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/78857/all/pt.zip</url>
+    </episodeguide>
+    <id>78857</id>
+    <uniqueid type="unknown" default="true">78857</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+    <genre>Fantasy</genre>
+    <premiered>2002-10-03</premiered>
+    <year>2002</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>TV Tokyo</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Junko Takeuchi</name>
+        <role>Naruto Uzumaki</role>
+        <order>0</order>
+        <thumb>http://thetvdb.com/banners/actors/68334.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Noriaki Sugiyama</name>
+        <role>Uchiha Sasuke</role>
+        <order>1</order>
+        <thumb>http://thetvdb.com/banners/actors/34688.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Chie Nakamura</name>
+        <role>Sakura Haruno</role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/68321.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yukari Tamura</name>
+        <role>Tenten</role>
+        <order>3</order>
+        <thumb>http://thetvdb.com/banners/actors/81784.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Toshihiko Seki</name>
+        <role>Iruka Umino</role>
+        <order>4</order>
+        <thumb>http://thetvdb.com/banners/actors/139551.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shinji Kawada</name>
+        <role>Shino Aburame</role>
+        <order>5</order>
+        <thumb>http://thetvdb.com/banners/actors/81781.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Romi Paku</name>
+        <role>Temari</role>
+        <order>6</order>
+        <thumb>http://thetvdb.com/banners/actors/139691.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nobutoshi Kanna</name>
+        <role>Kabuto Yakushi</role>
+        <order>7</order>
+        <thumb>http://thetvdb.com/banners/actors/81779.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kazuhiko Inoue</name>
+        <role>Kakashi Hatake</role>
+        <order>8</order>
+        <thumb>http://thetvdb.com/banners/actors/68336.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hidekatsu Shibata</name>
+        <role>Hiruzen Sarutobi</role>
+        <order>9</order>
+        <thumb>http://thetvdb.com/banners/actors/375910.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kosuke Toriumi</name>
+        <role>Kiba Inuzuka</role>
+        <order>10</order>
+        <thumb>http://thetvdb.com/banners/actors/68332.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kentaro Ito</name>
+        <role>Chouji Akimichi</role>
+        <order>11</order>
+        <thumb>http://thetvdb.com/banners/actors/68331.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryoka Yuzuki</name>
+        <role>Ino Yamanaka</role>
+        <order>12</order>
+        <thumb>http://thetvdb.com/banners/actors/68330.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kujira</name>
+        <role>Orochimaru</role>
+        <order>13</order>
+        <thumb>http://thetvdb.com/banners/actors/68329.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shotaro Morikubo</name>
+        <role>Shikamaru Nara</role>
+        <order>14</order>
+        <thumb>http://thetvdb.com/banners/actors/68328.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Unsho Ishizuka</name>
+        <role>Zabuza Momochi</role>
+        <order>15</order>
+        <thumb>http://thetvdb.com/banners/actors/68327.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Koichi Tochika</name>
+        <role>Neji Hyuuga</role>
+        <order>16</order>
+        <thumb>http://thetvdb.com/banners/actors/68326.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Yoichi Masukawa</name>
+        <role>Rock Lee</role>
+        <order>17</order>
+        <thumb>http://thetvdb.com/banners/actors/68325.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hideo Ishikawa</name>
+        <role>Itachi Uchiha</role>
+        <order>18</order>
+        <thumb>http://thetvdb.com/banners/actors/140121.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Masako Katsuki</name>
+        <role>Tsunade</role>
+        <order>19</order>
+        <thumb>http://thetvdb.com/banners/actors/68323.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Akira Ishida</name>
+        <role>Gaara</role>
+        <order>20</order>
+        <thumb>http://thetvdb.com/banners/actors/68322.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nana Mizuki</name>
+        <role>Hinata Hyuuga</role>
+        <order>21</order>
+        <thumb>http://thetvdb.com/banners/actors/68320.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hochu Otsuka</name>
+        <role>Jiraiya</role>
+        <order>22</order>
+        <thumb>http://thetvdb.com/banners/actors/68319.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Akeno Watanabe</name>
+        <role>Tayuya</role>
+        <order>23</order>
+        <thumb>http://thetvdb.com/banners/actors/367028.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Susumu Chiba</name>
+        <role>Kidoumaru</role>
+        <order>24</order>
+        <thumb>http://thetvdb.com/banners/actors/139731.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kenta Miyake</name>
+        <role>Jiroubou</role>
+        <order>25</order>
+        <thumb>http://thetvdb.com/banners/actors/139601.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mayumi Asano</name>
+        <role>Haku</role>
+        <order>26</order>
+        <thumb>http://thetvdb.com/banners/actors/142081.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rumi Ochiai</name>
+        <role>Kurenai Yuuhi</role>
+        <order>27</order>
+        <thumb>http://thetvdb.com/banners/actors/142071.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jurota Kosugi</name>
+        <role>Asuma Sarutobi</role>
+        <order>28</order>
+        <thumb>http://thetvdb.com/banners/actors/142061.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Masashi Ebara</name>
+        <role>Gai Maito</role>
+        <order>29</order>
+        <thumb>http://thetvdb.com/banners/actors/142051.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Toshiyuki Morikawa</name>
+        <role>Kimimaro Kaguya</role>
+        <order>30</order>
+        <thumb>http://thetvdb.com/banners/actors/139921.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tomoyuki Dan</name>
+        <role>Kisame Hoshigaki</role>
+        <order>31</order>
+        <thumb>http://thetvdb.com/banners/actors/142031.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Katsuhiko Kawamoto</name>
+        <role>Deidara</role>
+        <order>32</order>
+        <thumb>http://thetvdb.com/banners/actors/142021.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Keiko Nemoto</name>
+        <role>Shizune</role>
+        <order>33</order>
+        <thumb>http://thetvdb.com/banners/actors/142011.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shunsuke Sakuya</name>
+        <role>Sakon / Ukon</role>
+        <order>68</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yasuyuki Kase</name>
+        <role>Kankurou</role>
+        <order>69</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

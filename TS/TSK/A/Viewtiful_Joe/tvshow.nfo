@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Viewtiful Joe</title>
+    <showtitle>Viewtiful Joe</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>7.000000</value>
+            <votes>1</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Viewtiful Joe is a video game developed by Capcom&apos;s Capcom Production Studio 4. An anime version of the game aired on the Japanese television station TV Tokyo during 2004 and was licensed for US distribution by Geneon in 2005.</plot>
+    <tagline></tagline>
+    <runtime>30</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/75797-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/75797-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/75797-1.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/75797-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/75797-1.jpg</thumb>
+    <fanart>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/75797-1.jpg">http://thetvdb.com/banners/fanart/original/75797-1.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="75797-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/75797/all/pt.zip</url>
+    </episodeguide>
+    <id>75797</id>
+    <uniqueid type="unknown" default="true">75797</uniqueid>
+    <genre>Animation</genre>
+    <premiered>2004-10-02</premiered>
+    <year>2004</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>A&amp;E</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Banjou Ginga</name>
+        <role></role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Makoto Tsumura</name>
+        <role></role>
+        <order>1</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mayumi Asano</name>
+        <role></role>
+        <order>2</order>
+        <thumb>http://thetvdb.com/banners/actors/142081.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shin-Ichiro Miki</name>
+        <role></role>
+        <order>3</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tomoe Sakuragawa</name>
+        <role></role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tomokazu Seki</name>
+        <role></role>
+        <order>5</order>
+        <thumb>http://image.tmdb.org/t/p/original/vMsJSXSLqC5XRF5Gn09cznwxzIa.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Natsuko Kuwatani</name>
+        <role></role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

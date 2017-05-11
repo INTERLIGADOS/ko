@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>Bakugan Battle Brawlers</title>
+    <showtitle>Bakugan Battle Brawlers</showtitle>
+    <ratings>
+        <rating name="default" max="10" default="true">
+            <value>7.000000</value>
+            <votes>8</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <season>0</season>
+    <episode>0</episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Bakugan the battle game was created when Dan and his friends found powerful cards from another world falling from the sky. But they soon realized that it&apos;s more than just a game; it&apos;s a struggle to save the universe.</plot>
+    <tagline></tagline>
+    <runtime>30</runtime>
+    <thumb aspect="banner">http://thetvdb.com/banners/graphical/82832-g.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/82832-2-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="1">http://thetvdb.com/banners/seasons/82832-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="3">http://thetvdb.com/banners/seasons/82832-3-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/82832-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="4">http://thetvdb.com/banners/seasons/82832-4-2.jpg</thumb>
+    <thumb aspect="poster" type="season" season="2">http://thetvdb.com/banners/seasons/82832-2-3.jpg</thumb>
+    <thumb aspect="banner" type="season" season="3">http://thetvdb.com/banners/seasonswide/82832-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82832-3.jpg</thumb>
+    <thumb aspect="poster">http://thetvdb.com/banners/posters/82832-1.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82832-3.jpg</thumb>
+    <thumb aspect="poster" type="season" season="-1">http://thetvdb.com/banners/posters/82832-1.jpg</thumb>
+    <fanart>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/82832-2.jpg">http://thetvdb.com/banners/fanart/original/82832-2.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/82832-1.jpg">http://thetvdb.com/banners/fanart/original/82832-1.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/82832-5.jpg">http://thetvdb.com/banners/fanart/original/82832-5.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/82832-3.jpg">http://thetvdb.com/banners/fanart/original/82832-3.jpg</thumb>
+        <thumb dim="1280x720" colors="" preview="http://thetvdb.com/banners/_cache/fanart/original/82832-4.jpg">http://thetvdb.com/banners/fanart/original/82832-4.jpg</thumb>
+    </fanart>
+    <mpaa>TV-G</mpaa>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+    <episodeguide>
+        <url cache="82832-pt.xml">http://thetvdb.com/api/1D62F2F90030C444/series/82832/all/pt.zip</url>
+    </episodeguide>
+    <id>82832</id>
+    <uniqueid type="unknown" default="true">82832</uniqueid>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Animation</genre>
+    <premiered>2007-04-05</premiered>
+    <year>2007</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Cartoon Network</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Emilie Barlow</name>
+        <role>Alice</role>
+        <order>0</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jason Deline</name>
+        <role>Drago</role>
+        <order>1</order>
+        <thumb>http://image.tmdb.org/t/p/original/hTy3xPznESHbGWwcxTAifHqf7KW.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Joanne Vannicola</name>
+        <role>Marucho</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Katie Griffin</name>
+        <role>Julie</role>
+        <order>3</order>
+        <thumb>http://image.tmdb.org/t/p/original/llNIbVhxJQxF5uhZBiM4YVqlQO4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lyon Smith</name>
+        <role>Masquerade</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ron Pardo</name>
+        <role>Hal-G</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scott McCord</name>
+        <role>Dan</role>
+        <order>6</order>
+        <thumb>http://image.tmdb.org/t/p/original/4wCw1lnbuJwFbE2sDJfQxfiF3z2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shawn Meunier</name>
+        <role>Preyas</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stacey DePass</name>
+        <role>I-JAC</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stephen R. Hart</name>
+        <role>Gorem</role>
+        <order>9</order>
+        <thumb>http://image.tmdb.org/t/p/original/ug7iJfFhZXTmB7UoBhQKrkB09Ia.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Will Bowes</name>
+        <role>Kenta</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zachary Bennett</name>
+        <role>Shun</role>
+        <order>11</order>
+        <thumb>http://image.tmdb.org/t/p/original/iI6iexASIXzF9OQeX0QxYoP1kkB.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded></dateadded>
+</tvshow>

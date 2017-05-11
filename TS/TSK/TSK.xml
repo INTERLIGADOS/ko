@@ -1,0 +1,29 @@
+<channels>
+    <channel>
+        <name>Animes</name>
+        <thumbnail>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Animes/poster.jpg</thumbnail>
+        <fanart>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Animes/fanart.jpg</fanart>
+        <date></date>
+        <genre>Seriado de televisão</genre>
+        <externallink>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Animes/Animes.xml</externallink>
+        <info>Anime, animê (português brasileiro) ou animé (português europeu), se refere a animação que é produzida por estúdios do Japão. A palavra é a pronúncia abreviada de "animação" em japonês, onde esse termo se refere a qualquer animação.Para os ocidentais a palavra se refere as animações oriundas do Japão. A origem da palavra é controversa, podendo vir da palavra inglesa animation ("animação") ou da palavra francesa animé ("animado"),versão defendida por pesquisadores como Frederik L Schodt e Alfons Moliné. Ao contrário do que muitos pensam, o animê não é um género, mas um meio, e no Japão produzem-se filmes animados com conteúdos variados, dentro de todos os géneros possíveis e imagináveis (comédia, terror, drama, ficção científica, etc.).</info>
+    </channel>
+    <channel>
+        <name>Desenhos</name>
+        <thumbnail>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Desenhos/fanart.jpg</thumbnail>
+        <fanart>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Desenhos/fanart.jpg</fanart>
+        <date></date>
+        <genre>Seriado de televisão</genre>
+        <externallink>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Desenhos/Desenhos.xml</externallink>
+        <info>12 Macacos : John Cole, um prisioneiro, é recrutado para voltar no tempo e investigar a epidemia que está prestes de se alastrar e dizimar a população do planeta.</info>
+    </channel>
+    <channel>
+        <name>Tokusatsu</name>
+        <thumbnail>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Tokusatsu/poster.jpg</thumbnail>
+        <fanart>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Tokusatsu/fanart.jpg</fanart>
+        <date></date>
+        <genre>Seriado de televisão</genre>
+        <externallink>https://raw.githubusercontent.com/chacalhu/Kodi_playlist/master/Seriados/Series_Infantis_e_Teen/Tokusatsu/Tokusatsu.xml</externallink>
+        <info>Tokusatsu é uma abreviatura da expressão japonesa "tokushu satsuei" traduzida como "filme de efeitos especiais". Antigamente, o gênero englobava praticamente qualquer produção cinematográfica ou televisiva que se utilizasse de efeitos especiais. Atualmente, tornou-se sinônimo de filmes ou séries live-action de super-heróis produzidos no Japão com bastante ênfase nos efeitos especiais, mesclando várias técnicas como a pirotecnia, computação gráfica, modelismo, entre outras, para simular performances de artes marciais, superpoderes, magia, armas de energia dirigida, mechas, etc.</info>
+    </channel>
+</channels>
